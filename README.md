@@ -3,7 +3,7 @@ Scripts, tools, and notes about DREAM challenge for cell type deconvolution
 
 ==========================================================================
 
-!!!!YOU CAN NOT ACCESS THE DATABASE UNLESS YOU GIVE ME YOUR IP ADDRESS!!!!
+!!!!    YOU CAN NOT ACCESS THE DATABASE UNLESS YOU GIVE ME YOUR IP ADDRESS    !!!!
 
 ==========================================================================
 
