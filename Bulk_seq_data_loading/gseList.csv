@@ -1,0 +1,1262 @@
+,gse,down_link,down_fname,down_size,down_ftype,data_normType
+0,GSE107011,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE107011&format=file&file=GSE107011%5FProcessed%5Fdata%5FTPM%2Etxt%2Egz,GSE107011_Processed_data_TPM.txt.gz,14.7 Mb,TXT,unknown
+1,GSE107019,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE107019&format=file,GSE107019_RAW.tar,26.2 Mb,TAR,unknown
+2,GSE118165,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE118165&format=file&file=GSE118165%5FRNA%5Fgene%5Fabundance%2Etxt%2Egz,GSE118165_RNA_gene_abundance.txt.gz,15.3 Mb,TXT,unknown
+3,GSE115736,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE115736&format=file&file=GSE115736%5FHaemopedia%2DHuman%2DRNASeq%5Frpkm%2Etxt%2Egz,GSE115736_Haemopedia-Human-RNASeq_rpkm.txt.gz,4.4 Mb,TXT,unknown
+4,GSE115978,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE115978&format=file&file=GSE115978%5Ftpm%2Ecsv%2Egz,GSE115978_tpm.csv.gz,227.4 Mb,CSV,unknown
+5,GSE116672,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE116672&format=file,GSE116672_RAW.tar,2.1 Gb,TAR (of TSV),unknown
+6,GSE62408,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE62408&format=file&file=GSE62408%5F13%2D10%2D2014%5FRNA%2DSEQ%5F7cells%5FExpression%5FRPKM%2Etxt%2Egz,GSE62408_13-10-2014_RNA-SEQ_7cells_Expression_RPKM.txt.gz,1.3 Mb,TXT,unknown
+7,GSE64655,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE64655&format=file&file=GSE64655%5FNormalized%5Ftranscript%5Fexpression%5Fin%5Fhuman%5Fimmune%5Fcells%2Etxt%2Egz,GSE64655_Normalized_transcript_expression_in_human_immune_cells.txt.gz,6.9 Mb,TXT,unknown
+8,GSE112101,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE112101&format=file&file=GSE112101%5FNormalizedReadCounts%2Etxt%2Egz,GSE112101_NormalizedReadCounts.txt.gz,26.0 Mb,TXT,unknown
+9,GSE109761,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE109761&format=file,GSE109761_RAW.tar,62.9 Mb,TAR (of TXT),unknown
+10,GSE114407,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE114407&format=file&file=GSE114407%5FRSEM%5FTPM%2Ecsv%2Egz,GSE114407_RSEM_TPM.csv.gz,6.9 Mb,CSV,unknown
+11,GSE51984,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE51984&format=file,GSE51984_RAW.tar,9.7 Mb,TAR (of TXT),unknown
+12,GSE74246,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE74246&format=file&file=GSE74246%5FRNAseq%5FAll%5FCounts%2Etxt%2Egz,GSE74246_RNAseq_All_Counts.txt.gz,1.9 Mb,TXT,unknown
+13,GSE75384,null,null,null,null,unknown
+14,GSE49417,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE49417&format=file,GSE49417_RAW.tar,93.0 Gb,"TAR (of BAM, BEDRNAELEMENTS, BIGWIG, GFF, GTF, PDF)",unknown
+15,GSE70106,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE70106&format=file&file=GSE70106%5Fcounts%2Etxt%2Egz,GSE70106_counts.txt.gz,1.0 Mb,TXT,unknown
+16,GSE76371,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE76371&format=file,GSE76371_RAW.tar,6.1 Mb,TAR (of TXT),unknown
+17,GSE83115,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE83115&format=file&file=GSE83115%5F14%5Ftissues%5F28%5Fsamples%5F156600%5Ftranscripts%5FFPKM%2Etxt%2Egz,GSE83115_14_tissues_28_samples_156600_transcripts_FPKM.txt.gz,4.4 Mb,TXT,unknown
+18,GSE83808,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE83808&format=file&file=GSE83808%5FAll%5Fsamples%5FFPKM%2Etxt%2Egz,GSE83808_All_samples_FPKM.txt.gz,750.2 Kb,TXT,unknown
+19,GSE100501,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE100501&format=file,GSE100501_RAW.tar,50.1 Mb,TAR (of TXT),unknown
+20,GSE104744,null,null,null,null,unknown
+21,GSE110513,null,null,null,null,unknown
+22,GSE110669,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE110669&format=file,GSE110669_RAW.tar,10.5 Mb,TAR (of TXT),unknown
+23,GSE110999,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE110999&format=file,GSE110999_RAW.tar,1.6 Mb,TAR (of TXT),unknown
+24,GSE112483,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE112483&format=file,GSE112483_RAW.tar,16.4 Mb,TAR (of TXT),unknown
+25,GSE113386,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE113386&format=file&file=GSE113386%5FCLL%5FRNAseq%5Fcount%2Erpkm%2Etxt%2Egz,GSE113386_CLL_RNAseq_count.rpkm.txt.gz,3.6 Mb,TXT,unknown
+26,GSE113585,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE113585&format=file&file=GSE113585%5Flog2FPKM%5FCD8TCell%5FCRC%2Etxt%2Egz,GSE113585_log2FPKM_CD8TCell_CRC.txt.gz,3.8 Mb,TXT,unknown
+27,GSE113590,null,null,null,null,unknown
+28,GSE115898,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE115898&format=file&file=GSE115898%5FFPKM%2Dtable%2Dall%2Dsamples%5FFACS%2Dseq%2Dproject%2Ecsv%2Egz,GSE115898_FPKM-table-all-samples_FACS-seq-project.csv.gz,3.3 Mb,CSV,unknown
+29,GSE117614,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE117614&format=file&file=GSE117614%5FgenesfpkmtableCichocki%2Etxt%2Egz,GSE117614_genesfpkmtableCichocki.txt.gz,1.8 Mb,TXT,unknown
+30,GSE26284,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE26284&format=file,GSE26284_RAW.tar,183.2 Gb,"TAR (of BAM, BB, BEDRNAELEMENTS, BIGWIG, GFF, GTF, PDF)",unknown
+31,GSE30567,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE30567&format=file,GSE30567_RAW.tar,210.4 Gb,"TAR (of BAM, BEDRNAELEMENTS, BIGWIG, GFF, GTF, PDF)",unknown
+32,GSE34448,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE34448&format=file,GSE34448_RAW.tar,6.0 Gb,"TAR (of BED, BEDRNAELEMENTS, BIGWIG, GTF)",unknown
+33,GSE62483,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE62483&format=file,GSE62483_RAW.tar,103.0 Mb,TAR (of GTF),unknown
+34,GSE62486,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE62486&format=file,GSE62486_RAW.tar,402.0 Mb,"TAR (of BED, GTF, TXT)",unknown
+35,GSE66117,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE66117&format=file&file=GSE66117%5FCLL%5FFPKM%5Fvalues%2Etxt%2Egz,GSE66117_CLL_FPKM_values.txt.gz,2.8 Mb,TXT,unknown
+36,GSE66167,null,null,null,null,unknown
+37,GSE66261,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE66261&format=file&file=GSE66261%5Fread%5Fcount%5Ftable%2Etxt%2Egz,GSE66261_read_count_table.txt.gz,912.1 Kb,TXT,unknown
+38,GSE69239,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE69239&format=file&file=GSE69239%5FGEOExpression%2Etxt%2Egz,GSE69239_GEOExpression.txt.gz,631.0 Kb,TXT,unknown
+39,GSE79044,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE79044&format=file,GSE79044_RAW.tar,15.4 Mb,TAR (of TXT),unknown
+40,GSE79046,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE79046&format=file,GSE79046_RAW.tar,10.7 Gb,"TAR (of BED, BW, TXT)",unknown
+41,GSE79843,null,null,null,null,unknown
+42,GSE80306,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE80306&format=file&file=GSE80306%5FRNAseq%5Fcounts%2Etxt%2Egz,GSE80306_RNAseq_counts.txt.gz,919.6 Kb,TXT,unknown
+43,GSE87055,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE87055&format=file,GSE87055_RAW.tar,1.3 Mb,TAR (of TXT),unknown
+44,GSE96993,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE96993&format=file&file=GSE96993%5FNorm%2ETPM%2Ecmv%2Eyfv%2Exlsx%2Egz,GSE96993_Norm.TPM.cmv.yfv.xlsx.gz,23.9 Mb,XLSX,unknown
+45,GSE98852,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE98852&format=file&file=GSE98852%5Fpeanut%5F1r1c%5FRLE%5Fnormalized%5FRPKM%2Etxt%2Egz,GSE98852_peanut_1r1c_RLE_normalized_RPKM.txt.gz,12.0 Mb,TXT,unknown
+46,GSE99733,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE99733&format=file&file=GSE99733%5Freubenmcg%5FRNASeq%5Fresults%2Egene%2Erpkm%2Etxt%2Egz,GSE99733_reubenmcg_RNASeq_results.gene.rpkm.txt.gz,23.5 Kb,TXT,unknown
+47,GSE102045,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE102045&format=file&file=GSE102045%5Fnormalized%5Fcounts%2Ecsv%2Egz,GSE102045_normalized_counts.csv.gz,1.4 Mb,CSV,unknown
+48,GSE102335,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE102335&format=file,GSE102335_RAW.tar,14.7 Mb,TAR (of TXT),unknown
+49,GSE103147,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE103147&format=file&file=GSE103147%5FTcellsMono%2DBGI%2DrawCounts%5FGEO%2Etxt%2Egz,GSE103147_TcellsMono-BGI-rawCounts_GEO.txt.gz,14.3 Mb,TXT,unknown
+50,GSE103477,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE103477&format=file&file=GSE103477%5Ffpkm%2Etxt%2Egz,GSE103477_fpkm.txt.gz,1.4 Mb,TXT,unknown
+51,GSE106391,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE106391&format=file,GSE106391_RAW.tar,20.7 Mb,TAR (of TXT),unknown
+52,GSE106540,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE106540&format=file&file=GSE106540%5FSC%5Fraw%5Fcounts%2Etxt%2Egz,GSE106540_SC_raw_counts.txt.gz,9.3 Mb,TXT,unknown
+53,GSE106541,null,null,null,null,unknown
+54,GSE106542,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE106542&format=file&file=GSE106542%5FBulk%5Fraw%5Fcounts%2Etxt%2Egz,GSE106542_Bulk_raw_counts.txt.gz,1.3 Mb,TXT,unknown
+55,GSE106544,null,null,null,null,unknown
+56,GSE106991,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE106991&format=file&file=GSE106991%5FExpectedCounts%2Etxt%2Egz,GSE106991_ExpectedCounts.txt.gz,1.8 Mb,TXT,unknown
+57,GSE107680,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE107680&format=file&file=GSE107680%5FBW%5Fgenecount%2Ecsv%2Egz,GSE107680_BW_genecount.csv.gz,2.5 Kb,CSV,unknown
+58,GSE108546,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE108546&format=file&file=GSE108546%5FCAS%5FSeurat%5Fnorm%5Fn3%5F5000g%2Etxt%2Egz,GSE108546_CAS_Seurat_norm_n3_5000g.txt.gz,5.8 Mb,TXT,unknown
+59,GSE109161,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE109161&format=file&file=GSE109161%5FrawCountData%2Ecsv%2Egz,GSE109161_rawCountData.csv.gz,859.8 Kb,CSV,unknown
+60,GSE109843,null,null,null,null,unknown
+61,GSE111377,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE111377&format=file&file=GSE111377%5Fmerged%5Fcounts%5Frm%5Foutliers%2Etxt%2Egz,GSE111377_merged_counts_rm_outliers.txt.gz,874.3 Kb,TXT,unknown
+62,GSE111543,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE111543&format=file,GSE111543_RAW.tar,1.1 Gb,TAR (of TXT),unknown
+63,GSE111546,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE111546&format=file,GSE111546_RAW.tar,1.2 Gb,TAR (of TXT),unknown
+64,GSE111793,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE111793&format=file&file=GSE111793%5Fipa%5Ftpm%2Etxt%2Egz,GSE111793_ipa_tpm.txt.gz,349.0 Kb,TXT,unknown
+65,GSE111901,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE111901&format=file&file=GSE111901%5FsinglecellRNAseq%5FHumanTregTconv%5Fcounts%2Etxt%2Egz,GSE111901_singlecellRNAseq_HumanTregTconv_counts.txt.gz,1.7 Mb,TXT,unknown
+66,GSE111907,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE111907&format=file&file=GSE111907%5Fprocessed%5Fdata%2Etxt%2Egz,GSE111907_processed_data.txt.gz,19.2 Mb,TXT,unknown
+67,GSE111968,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE111968&format=file,GSE111968_RAW.tar,32.2 Mb,TAR (of TXT),unknown
+68,GSE112845,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE112845&format=file,GSE112845_RAW.tar,202.4 Mb,"TAR (of MTX, TSV)",unknown
+69,GSE112923,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE112923&format=file&file=GSE112923%5FTh1vsRAvsNeutralTreg%5FProcessedCounts%2Exlsx,GSE112923_Th1vsRAvsNeutralTreg_ProcessedCounts.xlsx,1.9 Mb,XLSX,unknown
+70,GSE113675,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE113675&format=file,GSE113675_RAW.tar,35.4 Mb,TAR (of TXT),unknown
+71,GSE113839,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE113839&format=file&file=GSE113839%5Ftpm%5Fdata%5Fmatrix%2Exlsx,GSE113839_tpm_data_matrix.xlsx,41.5 Mb,XLSX,unknown
+72,GSE115007,null,null,null,null,unknown
+73,GSE115203,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE115203&format=file&file=GSE115203%5FRawcounts%2DWholePBMC%2Etxt%2Egz,GSE115203_Rawcounts-WholePBMC.txt.gz,229.6 Kb,TXT,unknown
+74,GSE115686,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE115686&format=file&file=GSE115686%5FDonor%5F2%5Fnormalized%5Fcounts%5FGEO%2Etxt%2Egz,GSE115686_Donor_2_normalized_counts_GEO.txt.gz,491.3 Kb,TXT,unknown
+75,GSE117637,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE117637&format=file&file=GSE117637%5FGEO%5Fnormalized%5Flog%2Exls%2Egz,GSE117637_GEO_normalized_log.xls.gz,6.9 Mb,XLS,unknown
+76,GSE117836,null,null,null,null,unknown
+77,GSE118209,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE118209&format=file,GSE118209_RAW.tar,14.9 Mb,TAR (of TXT),unknown
+78,GSE118951,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE118951&format=file&file=GSE118951%5Fcount%5Ftable%2Etxt%2Egz,GSE118951_count_table.txt.gz,561.8 Kb,TXT,unknown
+79,GSE118974,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE118974&format=file,GSE118974_RAW.tar,25.5 Mb,TAR (of TXT),unknown
+80,GSE16190,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE16190&format=file,GSE16190_RAW.tar,1.3 Gb,TAR (of TXT),unknown
+81,GSE16256,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE16256&format=file,GSE16256_RAW.tar,364.7 Gb,"TAR (of BAM, BED, WIG)",unknown
+82,GSE16368,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE16368&format=file,GSE16368_RAW.tar,363.9 Gb,"TAR (of BAM, BED, TAB, WIG)",unknown
+83,GSE26530,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE26530&format=file&file=GSE26530%5FDGE%5FSense%5FGeneExpression%5FTPM%2Etxt%2Egz,GSE26530_DGE_Sense_GeneExpression_TPM.txt.gz,1.1 Mb,TXT,unknown
+84,GSE26878,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE26878&format=file,GSE26878_RAW.tar,56.4 Mb,TAR (of CEL),unknown
+85,GSE33772,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE33772&format=file,GSE33772_RAW.tar,2.0 Gb,TAR (of BOWTIE),unknown
+86,GSE37521,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE37521&format=file&file=GSE37521%5FL127%5FRPM%2Etab%2Etxt%2Egz,GSE37521_L127_RPM.tab.txt.gz,3.2 Mb,TXT,unknown
+87,GSE43070,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE43070&format=file,GSE43070_RAW.tar,76.7 Gb,"TAR (of BED, TXT)",unknown
+88,GSE45176,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE45176&format=file,GSE45176_RAW.tar,2.2 Mb,TAR (of TXT),unknown
+89,GSE45764,null,null,null,null,unknown
+90,GSE45982,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE45982&format=file,GSE45982_RAW.tar,6.6 Gb,"TAR (of BED, TXT, WIG)",unknown
+91,GSE47792,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE47792&format=file,GSE47792_RAW.tar,2.4 Gb,"TAR (of CEL, TXT)",unknown
+92,GSE50721,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE50721&format=file&file=GSE50721%5FmRNA%5FReadCountsByLine%2Etxt%2Egz,GSE50721_mRNA_ReadCountsByLine.txt.gz,480.8 Kb,TXT,unknown
+93,GSE50724,null,null,null,null,unknown
+94,GSE50781,null,null,null,null,unknown
+95,GSE52260,null,null,null,null,unknown
+96,GSE53837,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE53837&format=file,GSE53837_RAW.tar,58.1 Mb,"TAR (of BED, FPKM_TRACKING)",unknown
+97,GSE54733,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE54733&format=file,GSE54733_RAW.tar,3.6 Mb,TAR (of TXT),unknown
+98,GSE54950,null,null,null,null,unknown
+99,GSE58310,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE58310&format=file,GSE58310_RAW.tar,3.0 Gb,"TAR (of BED, WIG)",unknown
+100,GSE58596,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE58596&format=file&file=GSE58596%5FRPKM%2Etxt%2Egz,GSE58596_RPKM.txt.gz,1.6 Mb,TXT,unknown
+101,GSE58597,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE58597&format=file,GSE58597_RAW.tar,13.8 Mb,TAR (of TXT),unknown
+102,GSE59846,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE59846&format=file,GSE59846_RAW.tar,2.0 Mb,TAR (of TXT),unknown
+103,GSE59860,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE59860&format=file,GSE59860_RAW.tar,120.8 Mb,"TAR (of CEL, TXT)",unknown
+104,GSE62772,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE62772&format=file&file=GSE62772%5Fall%5Fgenes%5Freprogramming%2Efpkm%5Ftracking%2Ecsv%2Egz,GSE62772_all_genes_reprogramming.fpkm_tracking.csv.gz,2.2 Mb,CSV,unknown
+105,GSE62777,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE62777&format=file,GSE62777_RAW.tar,1.8 Gb,"TAR (of BED, TDF, TXT)",unknown
+106,GSE63733,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE63733&format=file&file=GSE63733%5FSixCellTypes%5FRNAseq%5Ftpm%5Fproteincoding%2Etxt%2Egz,GSE63733_SixCellTypes_RNAseq_tpm_proteincoding.txt.gz,1.3 Mb,TXT,unknown
+107,GSE63843,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE63843&format=file&file=GSE63843%5FFPKM%5Fmatrix%5FMm%2Etxt%2Egz,GSE63843_FPKM_matrix_Mm.txt.gz,699.1 Kb,TXT,unknown
+108,GSE63845,null,null,null,null,unknown
+109,GSE63935,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE63935&format=file&file=GSE63935%5FSchwartz%5FPNAS%5FPUBLISHED%5FDatasets%5FS01%5F08%5FGEO%2Exlsx,GSE63935_Schwartz_PNAS_PUBLISHED_Datasets_S01_08_GEO.xlsx,41.6 Mb,XLSX,unknown
+110,GSE66385,null,null,null,null,unknown
+111,GSE67945,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE67945&format=file,GSE67945_RAW.tar,2.3 Mb,TAR (of TXT),unknown
+112,GSE69622,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE69622&format=file,GSE69622_RAW.tar,10.6 Mb,TAR (of TXT),unknown
+113,GSE69626,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE69626&format=file,GSE69626_RAW.tar,11.1 Gb,TAR (of BW),unknown
+114,GSE69905,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE69905&format=file,GSE69905_RAW.tar,97.4 Mb,"TAR (of BED, TXT)",unknown
+115,GSE70050,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE70050&format=file&file=GSE70050%5FAll%5FCounts%5FDESeq%5Fnormalized%2Ecsv%2Egz,GSE70050_All_Counts_DESeq_normalized.csv.gz,5.1 Mb,CSV,unknown
+116,GSE71645,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE71645&format=file&file=GSE71645%5FExpression%5FNormalized%5FDESeq%2Etxt%2Egz,GSE71645_Expression_Normalized_DESeq.txt.gz,1.5 Mb,TXT,unknown
+117,GSE71646,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE71646&format=file,GSE71646_RAW.tar,68.7 Mb,TAR (of CEL),unknown
+118,GSE71691,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE71691&format=file,GSE71691_RAW.tar,277.6 Mb,TAR (of TXT),unknown
+119,GSE72202,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE72202&format=file,GSE72202_RAW.tar,1.2 Mb,TAR (of TXT),unknown
+120,GSE72204,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE72204&format=file,GSE72204_RAW.tar,128.4 Mb,"TAR (of BW, CEL, TXT)",unknown
+121,GSE73213,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE73213&format=file,GSE73213_RAW.tar,47.5 Mb,TAR (of TXT),unknown
+122,GSE73214,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE73214&format=file,GSE73214_RAW.tar,19.7 Gb,"TAR (of BW, GFF, TXT)",unknown
+123,GSE74250,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE74250&format=file,GSE74250_RAW.tar,11.2 Gb,"TAR (of BED, BEDGRAPH, BW, CEL)",unknown
+124,GSE74850,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE74850&format=file,GSE74850_RAW.tar,1.4 Gb,"TAR (of BED, BW, FPKM_TRACKING)",unknown
+125,GSE74978,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE74978&format=file&file=GSE74978%5FRNAseq%5Fsplicing%5Fevents%2Exlsx,GSE74978_RNAseq_splicing_events.xlsx,69.4 Kb,XLSX,unknown
+126,GSE74979,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE74979&format=file,GSE74979_RAW.tar,576.7 Mb,TAR (of CEL),unknown
+127,GSE75748,null,null,null,null,unknown
+128,GSE76511,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE76511&format=file&file=GSE76511%5FDC%5Fsubsets%5FcountTable%5F6Nov2014%2Etxt%2Egz,GSE76511_DC_subsets_countTable_6Nov2014.txt.gz,477.8 Kb,TXT,unknown
+129,GSE79636,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE79636&format=file,GSE79636_RAW.tar,75.0 Mb,TAR (of TXT),unknown
+130,GSE80016,null,null,null,null,unknown
+131,GSE81975,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE81975&format=file&file=GSE81975%5FLMP2%5FRNAseq%5Fexp%2Etxt%2Egz,GSE81975_LMP2_RNAseq_exp.txt.gz,2.1 Mb,TXT,unknown
+132,GSE83637,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE83637&format=file,GSE83637_RAW.tar,3.6 Mb,TAR (of TXT),unknown
+133,GSE84022,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE84022&format=file,GSE84022_RAW.tar,1.3 Mb,TAR (of TXT),unknown
+134,GSE84471,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE84471&format=file&file=GSE84471%5FRNA%2DSeq%5FpDCs%5Fvs%5FBPDCN%5Fcell%5Flines%5Fnormalized%2Exlsx,GSE84471_RNA-Seq_pDCs_vs_BPDCN_cell_lines_normalized.xlsx,2.3 Mb,XLSX,unknown
+135,GSE84531,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE84531&format=file&file=GSE84531%5FHTSeq%5Fin%5Ftcells%5Fcounts%2Etxt%2Egz,GSE84531_HTSeq_in_tcells_counts.txt.gz,553.9 Kb,TXT,unknown
+136,GSE85243,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE85243&format=file,GSE85243_RAW.tar,220.2 Mb,TAR (of TXT),unknown
+137,GSE85246,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE85246&format=file,GSE85246_RAW.tar,27.7 Gb,"TAR (of BW, TXT)",unknown
+138,GSE85294,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE85294&format=file&file=GSE85294%5Fread%5Fcount%5Ftable%2Etxt%2Egz,GSE85294_read_count_table.txt.gz,668.8 Kb,TXT,unknown
+139,GSE86452,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE86452&format=file,GSE86452_RAW.tar,1.8 Mb,TAR (of TXT),unknown
+140,GSE86887,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE86887&format=file,GSE86887_RAW.tar,6.2 Mb,TAR (of TXT),unknown
+141,GSE86888,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE86888&format=file,GSE86888_RAW.tar,76.9 Mb,"TAR (of BED, TXT)",unknown
+142,GSE89020,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE89020&format=file&file=GSE89020%5Fcord%5Fblood%5Fprogenitor%5Fbulk%5Fdata%5Fnormalized%2Etxt%2Egz,GSE89020_cord_blood_progenitor_bulk_data_normalized.txt.gz,2.1 Mb,TXT,unknown
+143,GSE89134,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE89134&format=file&file=GSE89134%5Flog2NormalizedCPM%2Etxt%2Egz,GSE89134_log2NormalizedCPM.txt.gz,1.4 Mb,TXT,unknown
+144,GSE89189,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE89189&format=file,GSE89189_RAW.tar,22.0 Mb,TAR (of TXT),unknown
+145,GSE89225,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE89225&format=file&file=GSE89225%5FIontorrent%5Fcounts%2Ecsv%2Egz,GSE89225_Iontorrent_counts.csv.gz,858.6 Kb,CSV,unknown
+146,GSE89323,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE89323&format=file,GSE89323_RAW.tar,3.0 Mb,TAR (of TXT),unknown
+147,GSE89442,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE89442&format=file&file=GSE89442%5FMathan%5Fet%5Fal%5FRNAseq%5Fdata%5Fraw%5Fvalues%2Exlsx%2Egz,GSE89442_Mathan_et_al_RNAseq_data_raw_values.xlsx.gz,2.8 Mb,XLSX,unknown
+148,GSE89926,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE89926&format=file,GSE89926_RAW.tar,11.0 Mb,TAR (of TXT),unknown
+149,GSE90569,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE90569&format=file&file=GSE90569%5Frpkm%2Etxt%2Egz,GSE90569_rpkm.txt.gz,6.6 Mb,TXT,unknown
+150,GSE90570,null,null,null,null,unknown
+151,GSE90600,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE90600&format=file&file=GSE90600%5Freadcounts%2Etxt%2Egz,GSE90600_readcounts.txt.gz,1.5 Mb,TXT,unknown
+152,GSE92495,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE92495&format=file,GSE92495_RAW.tar,45.8 Mb,TAR (of TXT),unknown
+153,GSE94396,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE94396&format=file&file=GSE94396%5FiTreg%5FDESeq2%5Fnormalized%5Fcounts%2Etxt%2Egz,GSE94396_iTreg_DESeq2_normalized_counts.txt.gz,10.8 Mb,TXT,unknown
+154,GSE94631,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE94631&format=file,GSE94631_RAW.tar,765.9 Mb,TAR (of TAR),unknown
+155,GSE94820,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE94820&format=file&file=GSE94820%5Fraw%2EexpMatrix%5Fdeeper%2Echaracterization%2Eset%2Esubmission%2Etxt%2Egz,GSE94820_raw.expMatrix_deeper.characterization.set.submission.txt.gz,15.9 Mb,TXT,unknown
+156,GSE94859,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE94859&format=file&file=GSE94859%5FRPKMs%2Exlsx,GSE94859_RPKMs.xlsx,7.7 Mb,XLSX,unknown
+157,GSE96538,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE96538&format=file&file=GSE96538%5Frpkm%2Etxt%2Egz,GSE96538_rpkm.txt.gz,9.8 Mb,TXT,unknown
+158,GSE96569,null,null,null,null,unknown
+159,GSE97033,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE97033&format=file&file=GSE97033%5FChIP%2Dseq%5Fpromoter%5Fp300%5Fcounts%2Etxt%2Egz,GSE97033_ChIP-seq_promoter_p300_counts.txt.gz,199.1 Kb,TXT,unknown
+160,GSE97861,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE97861&format=file&file=GSE97861%5FTPM%5Fcohort1%2Etsv%2Egz,GSE97861_TPM_cohort1.tsv.gz,2.8 Mb,TSV,unknown
+161,GSE97862,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE97862&format=file&file=GSE97862%5FTPM%5Fcohorts%5F2and3%2Etsv%2Egz,GSE97862_TPM_cohorts_2and3.tsv.gz,4.2 Mb,TSV,unknown
+162,GSE97863,null,null,null,null,unknown
+163,GSE97987,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE97987&format=file,GSE97987_RAW.tar,218.6 Mb,TAR (of TXT),unknown
+164,GSE98310,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE98310&format=file,GSE98310_RAW.tar,10.0 Mb,TAR (of TXT),unknown
+165,GSE98675,null,null,null,null,unknown
+166,GSE99231,null,null,null,null,unknown
+167,GSE99531,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE99531&format=file,GSE99531_RAW.tar,4.6 Mb,TAR (of TXT),unknown
+168,GSE100223,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE100223&format=file&file=GSE100223%5FTeratoma%5FRNAseq%5FFPKMdata%2Exlsx,GSE100223_Teratoma_RNAseq_FPKMdata.xlsx,15.5 Mb,XLSX,unknown
+169,GSE100250,null,null,null,null,unknown
+170,GSE100261,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE100261&format=file,GSE100261_RAW.tar,580.0 Kb,TAR (of TXT),unknown
+171,GSE100337,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE100337&format=file&file=GSE100337%5FNIRSCHL%5FSCRNA%5FSEQ%5FPROC%5FMATRIX%2Etxt%2Egz,GSE100337_NIRSCHL_SCRNA_SEQ_PROC_MATRIX.txt.gz,7.0 Mb,TXT,unknown
+172,GSE100382,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE100382&format=file&file=GSE100382%5FRNAseq%5Fgene%5Fexpression%2Etxt%2Egz,GSE100382_RNAseq_gene_expression.txt.gz,772.7 Kb,TXT,unknown
+173,GSE100441,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE100441&format=file,GSE100441_RAW.tar,60.4 Mb,TAR (of FPKM_TRACKING),unknown
+174,GSE100469,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE100469&format=file&file=GSE100469%5FFPKM%5Fstress%2Etxt%2Egz,GSE100469_FPKM_stress.txt.gz,720.9 Kb,TXT,unknown
+175,GSE100562,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE100562&format=file&file=GSE100562%5Fcount%5Ftable%2Etxt%2Egz,GSE100562_count_table.txt.gz,1.3 Mb,TXT,unknown
+176,GSE100563,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE100563&format=file,GSE100563_RAW.tar,282.3 Mb,TAR (of IDAT),unknown
+177,GSE100576,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE100576&format=file&file=GSE100576%5FFPKM%5Floc%2Etxt%2Egz,GSE100576_FPKM_loc.txt.gz,935.1 Kb,TXT,unknown
+178,GSE100587,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE100587&format=file&file=GSE100587%5FRNASeq%5Fraw%5Fcounts%2Etxt%2Egz,GSE100587_RNASeq_raw_counts.txt.gz,603.7 Kb,TXT,unknown
+179,GSE100709,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE100709&format=file&file=GSE100709%5Fnormalized%5Fcounts%2Etxt%2Egz,GSE100709_normalized_counts.txt.gz,887.6 Kb,TXT,unknown
+180,GSE100745,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE100745&format=file&file=GSE100745%5FRNAseq%2Ecsv%2Egz,GSE100745_RNAseq.csv.gz,1.7 Mb,CSV,unknown
+181,GSE100791,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE100791&format=file&file=GSE100791%5FDESeq2%5Fnormed%5Fvsd%5Fexp%2Etxt%2Egz,GSE100791_DESeq2_normed_vsd_exp.txt.gz,736.3 Kb,TXT,unknown
+182,GSE100855,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE100855&format=file,GSE100855_RAW.tar,4.8 Mb,TAR (of TXT),unknown
+183,GSE100860,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE100860&format=file,GSE100860_RAW.tar,1.6 Mb,TAR (of TXT),unknown
+184,GSE100882,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE100882&format=file&file=GSE100882%5FGene%5Frpkm%2Etxt%2Egz,GSE100882_Gene_rpkm.txt.gz,930.5 Kb,TXT,unknown
+185,GSE100889,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE100889&format=file,GSE100889_RAW.tar,21.6 Mb,TAR (of TXT),unknown
+186,GSE101209,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE101209&format=file,GSE101209_RAW.tar,127.4 Mb,TAR (of TXT),unknown
+187,GSE101341,null,null,null,null,unknown
+188,GSE101396,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE101396&format=file&file=GSE101396%5Freadcounts%2Etxt%2Egz,GSE101396_readcounts.txt.gz,1.8 Mb,TXT,unknown
+189,GSE101497,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE101497&format=file,GSE101497_RAW.tar,17.7 Mb,TAR (of TSV),unknown
+190,GSE101665,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE101665&format=file&file=GSE101665%5FCAF%5Fanalyzed%5Fdata%2Etxt%2Egz,GSE101665_CAF_analyzed_data.txt.gz,1.1 Mb,TXT,unknown
+191,GSE101756,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE101756&format=file&file=GSE101756%5Fbenta%5Ffpkm%2Etxt%2Egz,GSE101756_benta_fpkm.txt.gz,1.4 Mb,TXT,unknown
+192,GSE101821,null,null,null,null,unknown
+193,GSE101824,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE101824&format=file&file=GSE101824%5Fprocessed%5Fdata%2Exlsx,GSE101824_processed_data.xlsx,7.5 Mb,XLSX,unknown
+194,GSE101868,null,null,null,null,unknown
+195,GSE101872,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE101872&format=file&file=GSE101872%5FGeneCounts%2Etsv%2Egz,GSE101872_GeneCounts.tsv.gz,621.6 Kb,TSV,unknown
+196,GSE101878,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE101878&format=file&file=GSE101878%5F%5Fprocess%5Fdata%2Exlsx,GSE101878__process_data.xlsx,20.0 Mb,XLSX,unknown
+197,GSE101880,null,null,null,null,unknown
+198,GSE102025,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE102025&format=file,GSE102025_RAW.tar,331.2 Mb,TAR (of BW),unknown
+199,GSE102033,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE102033&format=file,GSE102033_RAW.tar,476.5 Mb,TAR (of BW),unknown
+200,GSE102035,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE102035&format=file,GSE102035_RAW.tar,13.2 Gb,"TAR (of BIGWIG, BW, TXT)",unknown
+201,GSE102069,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE102069&format=file,GSE102069_RAW.tar,4.7 Mb,TAR (of TXT),unknown
+202,GSE102090,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE102090&format=file,GSE102090_RAW.tar,116.2 Mb,"TAR (of MTX, TSV)",unknown
+203,GSE102132,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE102132&format=file,GSE102132_RAW.tar,1.2 Mb,TAR (of TXT),unknown
+204,GSE102145,null,null,null,null,unknown
+205,GSE102147,null,null,null,null,unknown
+206,GSE102187,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE102187&format=file&file=GSE102187%5FHERV%5FRaw%5FCount%5FTable%2Ecsv%2Egz,GSE102187_HERV_Raw_Count_Table.csv.gz,452.0 Kb,CSV,unknown
+207,GSE102215,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE102215&format=file&file=GSE102215%5Fraw%5Fcounts%2Etxt%2Egz,GSE102215_raw_counts.txt.gz,535.3 Kb,TXT,unknown
+208,GSE102220,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE102220&format=file&file=GSE102220%5FGene%5Fcounts%5Fhg19%5FHTLV1%5FTAX%5FPBM%2Ecsv%2Egz,GSE102220_Gene_counts_hg19_HTLV1_TAX_PBM.csv.gz,205.5 Kb,CSV,unknown
+209,GSE102250,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE102250&format=file,GSE102250_RAW.tar,383.4 Mb,TAR (of BW),unknown
+210,GSE102283,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE102283&format=file,GSE102283_RAW.tar,5.9 Mb,TAR (of TXT),unknown
+211,GSE102352,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE102352&format=file&file=GSE102352%5FRNASeq%2Exlsx,GSE102352_RNASeq.xlsx,2.9 Mb,XLSX,unknown
+212,GSE102460,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE102460&format=file,GSE102460_RAW.tar,468.4 Mb,TAR (of BW),unknown
+213,GSE102498,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE102498&format=file&file=GSE102498%5Fsi%5FdeSeq2%5Fcounts%2Etxt%2Egz,GSE102498_si_deSeq2_counts.txt.gz,243.0 Kb,TXT,unknown
+214,GSE102728,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE102728&format=file,GSE102728_RAW.tar,282.5 Mb,TAR (of WIG),unknown
+215,GSE102729,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE102729&format=file&file=GSE102729%5FRPKM%5Flog2%2Etxt%2Egz,GSE102729_RPKM_log2.txt.gz,1.2 Mb,TXT,unknown
+216,GSE102767,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE102767&format=file&file=GSE102767%5FTPM%5FGEO%2Etxt%2Egz,GSE102767_TPM_GEO.txt.gz,443.4 Kb,TXT,unknown
+217,GSE102770,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE102770&format=file&file=GSE102770%5Fall%2Ecounts%5FHuman%2Etxt%2Egz,GSE102770_all.counts_Human.txt.gz,348.9 Kb,TXT,unknown
+218,GSE102860,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE102860&format=file&file=GSE102860%5FL20%2DL21%2DRPKI%2Etxt%2Egz,GSE102860_L20-L21-RPKI.txt.gz,1.5 Mb,TXT,unknown
+219,GSE102864,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE102864&format=file&file=GSE102864%5Fall%5Fcounts%2Etsv%2Egz,GSE102864_all_counts.tsv.gz,500.6 Kb,TSV,unknown
+220,GSE103057,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE103057&format=file,GSE103057_RAW.tar,34.3 Gb,"TAR (of BED, BW)",unknown
+221,GSE103068,null,null,null,null,unknown
+222,GSE103075,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE103075&format=file,GSE103075_RAW.tar,920.6 Mb,TAR (of BW),unknown
+223,GSE103078,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE103078&format=file,GSE103078_RAW.tar,2.2 Gb,TAR (of BW),unknown
+224,GSE103114,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE103114&format=file,GSE103114_RAW.tar,14.4 Mb,TAR (of CSV),unknown
+225,GSE103170,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE103170&format=file,GSE103170_RAW.tar,1.2 Mb,TAR (of TXT),unknown
+226,GSE103270,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE103270&format=file,GSE103270_RAW.tar,15.0 Mb,TAR (of FPKM_TRACKING),unknown
+227,GSE103366,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE103366&format=file,GSE103366_RAW.tar,1.4 Gb,TAR (of BW),unknown
+228,GSE103383,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE103383&format=file,GSE103383_RAW.tar,6.6 Mb,TAR (of TXT),unknown
+229,GSE103501,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE103501&format=file&file=GSE103501%5FTG%5Fmono%5FRNAseq%5Fcount%2Dtable%2Etxt%2Egz,GSE103501_TG_mono_RNAseq_count-table.txt.gz,1.9 Mb,TXT,unknown
+230,GSE103510,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE103510&format=file,GSE103510_RAW.tar,27.9 Mb,TAR (of TXT),unknown
+231,GSE103544,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE103544&format=file,GSE103544_RAW.tar,1.8 Mb,TAR (of CSV),unknown
+232,GSE103559,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE103559&format=file,GSE103559_RAW.tar,56.2 Mb,TAR (of GTF),unknown
+233,GSE103568,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE103568&format=file&file=GSE103568%5FUHRR%5FUMIcounts%2Etxt%2Egz,GSE103568_UHRR_UMIcounts.txt.gz,373.8 Kb,TXT,unknown
+234,GSE103643,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE103643&format=file&file=GSE103643%5FFPKM%2DhPBMC%2Etxt%2Egz,GSE103643_FPKM-hPBMC.txt.gz,3.5 Mb,TXT,unknown
+235,GSE103666,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE103666&format=file,GSE103666_RAW.tar,41.9 Mb,TAR (of TXT),unknown
+236,GSE103672,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE103672&format=file&file=GSE103672%5F10ptShear%5FRawCountsOnly%5FWithGeneInfo%2Etxt%2Egz,GSE103672_10ptShear_RawCountsOnly_WithGeneInfo.txt.gz,4.3 Mb,TXT,unknown
+237,GSE103763,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE103763&format=file&file=GSE103763%5FlncRNA%5FPrediction%2Efpkm%5Fexpression%2Etxt%2Egz,GSE103763_lncRNA_Prediction.fpkm_expression.txt.gz,729.4 Kb,TXT,unknown
+238,GSE103831,null,null,null,null,unknown
+239,GSE103844,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE103844&format=file&file=GSE103844%5FRNASeq%5FGene%5FCount%2Etxt%2Egz,GSE103844_RNASeq_Gene_Count.txt.gz,6.5 Mb,TXT,unknown
+240,GSE103930,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE103930&format=file&file=GSE103930%5FNon%2Dnormalized%5Fdata%2Etxt%2Egz,GSE103930_Non-normalized_data.txt.gz,440.4 Kb,TXT,unknown
+241,GSE103938,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE103938&format=file&file=GSE103938%5FGeneCounts%2Exlsx,GSE103938_GeneCounts.xlsx,5.6 Mb,XLSX,unknown
+242,GSE103945,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE103945&format=file&file=GSE103945%5FGeneExpression%5FRPKM%2Etxt%2Egz,GSE103945_GeneExpression_RPKM.txt.gz,4.5 Mb,TXT,unknown
+243,GSE104149,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE104149&format=file,GSE104149_RAW.tar,3.1 Gb,"TAR (of BW, TXT)",unknown
+244,GSE104174,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE104174&format=file&file=GSE104174%5FTPM%5FSSc%5Fstudy%2Etxt%2Egz,GSE104174_TPM_SSc_study.txt.gz,3.2 Mb,TXT,unknown
+245,GSE104227,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE104227&format=file,GSE104227_RAW.tar,2.4 Gb,"TAR (of BW, TXT)",unknown
+246,GSE104282,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE104282&format=file,GSE104282_RAW.tar,1.7 Gb,"TAR (of BW, TXT)",unknown
+247,GSE104288,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE104288&format=file&file=GSE104288%5FDESeq%5Fcounts%2Etxt%2Egz,GSE104288_DESeq_counts.txt.gz,4.1 Mb,TXT,unknown
+248,GSE104354,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE104354&format=file,GSE104354_RAW.tar,2.5 Mb,TAR (of TXT),unknown
+249,GSE104458,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE104458&format=file,GSE104458_RAW.tar,2.5 Mb,TAR (of TXT),unknown
+250,GSE104490,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE104490&format=file,GSE104490_RAW.tar,17.1 Mb,TAR (of TXT),unknown
+251,GSE104589,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE104589&format=file,GSE104589_RAW.tar,16.1 Mb,TAR (of TXT),unknown
+252,GSE104600,null,null,null,null,unknown
+253,GSE104664,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE104664&format=file&file=GSE104664%5Fcounts%5FtotalRNA%2Etxt%2Egz,GSE104664_counts_totalRNA.txt.gz,606.7 Kb,TXT,unknown
+254,GSE104666,null,null,null,null,unknown
+255,GSE105064,null,null,null,null,unknown
+256,GSE105211,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE105211&format=file&file=GSE105211%5Fgenes%2Efpkm%5Ftable%2Etxt%2Egz,GSE105211_genes.fpkm_table.txt.gz,20.4 Mb,TXT,unknown
+257,GSE105216,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE105216&format=file,GSE105216_RAW.tar,7.6 Mb,"TAR (of MTX, TSV)",unknown
+258,GSE105253,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE105253&format=file&file=GSE105253%5FNODOX%5Fvs%5FDOX%5Ffold%5Fchange%2Ecsv%2Egz,GSE105253_NODOX_vs_DOX_fold_change.csv.gz,279.6 Kb,CSV,unknown
+259,GSE105771,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE105771&format=file&file=GSE105771%5FGENES%2Enormalized%2Ecounts%2ECPM%2Etab%2Egz,GSE105771_GENES.normalized.counts.CPM.tab.gz,676.2 Kb,TAB,unknown
+260,GSE105884,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE105884&format=file&file=GSE105884%5FAll%5FTPM%2Etsv%2Egz,GSE105884_All_TPM.tsv.gz,2.0 Mb,TSV,unknown
+261,GSE105937,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE105937&format=file,GSE105937_RAW.tar,1.1 Gb,"TAR (of BIGWIG, BW)",unknown
+262,GSE105951,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE105951&format=file&file=GSE105951%5Fread%5Fcount%2Etxt%2Egz,GSE105951_read_count.txt.gz,201.6 Kb,TXT,unknown
+263,GSE106288,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE106288&format=file&file=GSE106288%5Fnormalized%5Fgene%5Fexpression%2Etxt%2Egz,GSE106288_normalized_gene_expression.txt.gz,1.4 Mb,TXT,unknown
+264,GSE106359,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE106359&format=file,GSE106359_RAW.tar,11.5 Gb,TAR (of BW),unknown
+265,GSE106414,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE106414&format=file&file=GSE106414%5FLili%2Edata%2Ecnts%2Eqnorm%2Efloor%2Etxt%2Egz,GSE106414_Lili.data.cnts.qnorm.floor.txt.gz,383.1 Kb,TXT,unknown
+266,GSE106420,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE106420&format=file,GSE106420_RAW.tar,1.2 Mb,TAR (of TXT),unknown
+267,GSE106503,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE106503&format=file&file=GSE106503%5FRNAseq%5FCAF%5Fcounts%2Etxt%2Egz,GSE106503_RNAseq_CAF_counts.txt.gz,751.4 Kb,TXT,unknown
+268,GSE106508,null,null,null,null,unknown
+269,GSE106520,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE106520&format=file,GSE106520_RAW.tar,20.3 Mb,TAR (of TXT),unknown
+270,GSE106543,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE106543&format=file&file=GSE106543%5FSC%5Fraw%5FCounts%5F10x%2Etxt%2Egz,GSE106543_SC_raw_Counts_10x.txt.gz,7.4 Mb,TXT,unknown
+271,GSE106851,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE106851&format=file,GSE106851_RAW.tar,70.2 Mb,"TAR (of BED, GTF)",unknown
+272,GSE107029,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE107029&format=file&file=GSE107029%5FGene%5FExpression%2Etsv%2Egz,GSE107029_Gene_Expression.tsv.gz,1.7 Mb,TSV,unknown
+273,GSE107033,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE107033&format=file,GSE107033_RAW.tar,258.5 Mb,TAR (of CEL),unknown
+274,GSE107047,null,null,null,null,unknown
+275,GSE107111,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE107111&format=file,GSE107111_RAW.tar,560.0 Kb,TAR (of TXT),unknown
+276,GSE107112,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE107112&format=file,GSE107112_RAW.tar,2.0 Mb,TAR (of TXT),unknown
+277,GSE107185,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE107185&format=file,GSE107185_RAW.tar,164.7 Mb,"TAR (of CSV, TSV)",unknown
+278,GSE107218,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE107218&format=file&file=GSE107218%5FCBPB%2Dhg19%2Dcounts%2Etxt%2Egz,GSE107218_CBPB-hg19-counts.txt.gz,3.5 Mb,TXT,unknown
+279,GSE107319,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE107319&format=file,GSE107319_RAW.tar,3.0 Mb,TAR (of TXT),unknown
+280,GSE107321,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE107321&format=file,GSE107321_RAW.tar,428.5 Mb,"TAR (of BIGWIG, TXT)",unknown
+281,GSE107572,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE107572&format=file&file=GSE107572%5Ftpm%5FPBMC%5FRNAseq%2Etxt%2Egz,GSE107572_tpm_PBMC_RNAseq.txt.gz,735.9 Kb,TXT,unknown
+282,GSE107574,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE107574&format=file&file=GSE107574%5Ffpkm%5Fgene%5Fexpression%5Fvalues%2Exlsx%2Egz,GSE107574_fpkm_gene_expression_values.xlsx.gz,2.6 Mb,XLSX,unknown
+283,GSE107821,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE107821&format=file,GSE107821_RAW.tar,46.7 Mb,TAR (of TXT),unknown
+284,GSE107965,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE107965&format=file&file=GSE107965%5FrawCounts%2Ecsv%2Egz,GSE107965_rawCounts.csv.gz,815.8 Kb,CSV,unknown
+285,GSE107981,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE107981&format=file&file=GSE107981%5Fhu%5Fcounts%2Etxt%2Egz,GSE107981_hu_counts.txt.gz,321.4 Kb,TXT,unknown
+286,GSE108012,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE108012&format=file&file=GSE108012%5Fsubread%5Fcoded%2Etxt%2Egz,GSE108012_subread_coded.txt.gz,1.1 Mb,TXT,unknown
+287,GSE108026,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE108026&format=file,GSE108026_RAW.tar,10.9 Mb,TAR (of TXT),unknown
+288,GSE108028,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE108028&format=file,GSE108028_RAW.tar,1.8 Gb,"TAR (of BROADPEAK, BW, TXT)",unknown
+289,GSE108352,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE108352&format=file,GSE108352_RAW.tar,498.0 Mb,TAR (of BW),unknown
+290,GSE108443,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE108443&format=file&file=GSE108443%5Fnorm%5Flog%5Ftpm%2Ecsv%2Egz,GSE108443_norm_log_tpm.csv.gz,647.8 Kb,CSV,unknown
+291,GSE108444,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE108444&format=file&file=GSE108444%5Fnorm%5Flog%5Ftpm%2Ecsv%2Egz,GSE108444_norm_log_tpm.csv.gz,770.9 Kb,CSV,unknown
+292,GSE108445,null,null,null,null,unknown
+293,GSE108465,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE108465&format=file&file=GSE108465%5FNKX2%2E5%5FEndothelium%5Ffittedcounts%2Etxt%2Egz,GSE108465_NKX2.5_Endothelium_fittedcounts.txt.gz,677.0 Kb,TXT,unknown
+294,GSE108526,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE108526&format=file&file=GSE108526%5Fcount%5Fmatrix%2Etxt%2Egz,GSE108526_count_matrix.txt.gz,984.0 Kb,TXT,unknown
+295,GSE108601,null,null,null,null,unknown
+296,GSE108651,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE108651&format=file,GSE108651_RAW.tar,33.0 Mb,"TAR (of DIFF, XLSX)",unknown
+297,GSE108663,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE108663&format=file,GSE108663_RAW.tar,10.7 Mb,TAR (of TXT),unknown
+298,GSE108680,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE108680&format=file&file=GSE108680%5FlncM%5FPam3%2EDESeq%5FAnalysis%5Fsummary%2Etxt%2Egz,GSE108680_lncM_Pam3.DESeq_Analysis_summary.txt.gz,703.8 Kb,TXT,unknown
+299,GSE108694,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE108694&format=file&file=GSE108694%5Fgenes%5Ffpkm%2Etxt%2Egz,GSE108694_genes_fpkm.txt.gz,956.8 Kb,TXT,unknown
+300,GSE108849,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE108849&format=file&file=GSE108849%5FFPKM%5Fcoded%2Etxt%2Egz,GSE108849_FPKM_coded.txt.gz,10.7 Mb,TXT,unknown
+301,GSE108905,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE108905&format=file&file=GSE108905%5FLog2CountsPerMillionOfReadsPerSample%5FAllSamples%2Etxt%2Egz,GSE108905_Log2CountsPerMillionOfReadsPerSample_AllSamples.txt.gz,1.8 Mb,TXT,unknown
+302,GSE108919,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE108919&format=file&file=GSE108919%5FCsA%5Fdifferential%5Fexpression%2Etxt%2Egz,GSE108919_CsA_differential_expression.txt.gz,1.8 Mb,TXT,unknown
+303,GSE108989,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE108989&format=file&file=GSE108989%5FCRC%2ETCell%2ES11138%2ETPM%2Etxt%2Egz,GSE108989_CRC.TCell.S11138.TPM.txt.gz,351.6 Mb,TXT,unknown
+304,GSE109084,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE109084&format=file&file=GSE109084%5FTLR%5Fprocessed%5Fdata%2Exlsx,GSE109084_TLR_processed_data.xlsx,6.9 Mb,XLSX,unknown
+305,GSE109265,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE109265&format=file&file=GSE109265%5Fgenes%2Eexp%5Fdiff%5Fcount%5Fstat%2Exls%2Egz,GSE109265_genes.exp_diff_count_stat.xls.gz,3.4 Mb,XLS,unknown
+306,GSE109322,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE109322&format=file&file=GSE109322%5Fgene%5Fexp%2Ediff%2Egz,GSE109322_gene_exp.diff.gz,4.6 Mb,DIFF,unknown
+307,GSE109342,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE109342&format=file,GSE109342_RAW.tar,42.8 Mb,TAR (of TXT),unknown
+308,GSE109367,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE109367&format=file&file=GSE109367%5Fsdata%5F1%5Ftranscript%5Ftpm%2Etxt%2Egz,GSE109367_sdata_1_transcript_tpm.txt.gz,6.1 Mb,TXT,unknown
+309,GSE109408,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE109408&format=file,GSE109408_RAW.tar,2.8 Mb,TAR (of TXT),unknown
+310,GSE109448,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE109448&format=file&file=GSE109448%5Frnaseq%5Ftranscript%5Ftpm%2Etsv%2Egz,GSE109448_rnaseq_transcript_tpm.tsv.gz,5.6 Mb,TSV,unknown
+311,GSE109449,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE109449&format=file&file=GSE109449%5Fsinglecell%5Frnaseq%5Ftranscript%5Ftpm%2Etsv%2Egz,GSE109449_singlecell_rnaseq_transcript_tpm.tsv.gz,35.7 Mb,TSV,unknown
+312,GSE109450,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE109450&format=file,GSE109450_RAW.tar,282.1 Mb,TAR (of CEL),unknown
+313,GSE109460,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE109460&format=file&file=GSE109460%5FFPKM%2Ecsv%2Egz,GSE109460_FPKM.csv.gz,1.2 Mb,CSV,unknown
+314,GSE109535,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE109535&format=file,GSE109535_RAW.tar,322.4 Mb,"TAR (of TXT, XLSX)",unknown
+315,GSE109542,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE109542&format=file,GSE109542_RAW.tar,36.6 Mb,"TAR (of MTX, TSV)",unknown
+316,GSE109625,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE109625&format=file,GSE109625_RAW.tar,10.6 Gb,"TAR (of BED, TDF)",unknown
+317,GSE109626,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE109626&format=file,GSE109626_RAW.tar,10.6 Gb,"TAR (of BED, RCC, TDF)",unknown
+318,GSE109683,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE109683&format=file,GSE109683_RAW.tar,2.4 Mb,TAR (of TXT),unknown
+319,GSE109700,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE109700&format=file&file=GSE109700%5FLF1%5FCounts%5FHiSat2%5FFeatureCounts%2Etxt%2Egz,GSE109700_LF1_Counts_HiSat2_FeatureCounts.txt.gz,429.4 Kb,TXT,unknown
+320,GSE109822,null,null,null,null,unknown
+321,GSE109823,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE109823&format=file,GSE109823_RAW.tar,2.1 Mb,TAR (of TXT),unknown
+322,GSE109841,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE109841&format=file&file=GSE109841%5Fcounts%5Ftable%5Fnormalized%2Etxt%2Egz,GSE109841_counts_table_normalized.txt.gz,1.4 Mb,TXT,unknown
+323,GSE109976,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE109976&format=file,GSE109976_RAW.tar,930.0 Kb,TAR (of TXT),unknown
+324,GSE110097,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE110097&format=file&file=GSE110097%5FFPKM%5Fvalues%5Fall%5FRevu%2Etxt%2Egz,GSE110097_FPKM_values_all_Revu.txt.gz,2.7 Mb,TXT,unknown
+325,GSE110219,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE110219&format=file&file=GSE110219%5FDESeq2%5Fcount%5Ftable%5Fmurine%5Fsamples%2Etxt%2Egz,GSE110219_DESeq2_count_table_murine_samples.txt.gz,385.3 Kb,TXT,unknown
+326,GSE110248,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE110248&format=file&file=GSE110248%5Fread%5Fcounts%5Fmatrix%2Etxt%2Egz,GSE110248_read_counts_matrix.txt.gz,1.1 Mb,TXT,unknown
+327,GSE110309,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE110309&format=file&file=GSE110309%5FRNAseq%5Fraw%5Freadcounts%5FCAID%5Fsyndrome%5Fp8%5Fp14%2Etxt%2Egz,GSE110309_RNAseq_raw_readcounts_CAID_syndrome_p8_p14.txt.gz,352.4 Kb,TXT,unknown
+328,GSE110325,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE110325&format=file&file=GSE110325%5FrawCnt%2Ecsv%2Egz,GSE110325_rawCnt.csv.gz,1021.0 Kb,CSV,unknown
+329,GSE110364,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE110364&format=file,GSE110364_RAW.tar,17.6 Mb,TAR (of TXT),unknown
+330,GSE110377,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE110377&format=file,GSE110377_RAW.tar,358.4 Mb,"TAR (of BEDGRAPH, TXT)",unknown
+331,GSE110525,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE110525&format=file&file=GSE110525%5Fraw%5Fcounts%5Ftable%2Etxt%2Egz,GSE110525_raw_counts_table.txt.gz,444.9 Kb,TXT,unknown
+332,GSE110612,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE110612&format=file,GSE110612_RAW.tar,2.5 Gb,TAR (of MAP),unknown
+333,GSE110686,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE110686&format=file,GSE110686_RAW.tar,37.0 Mb,"TAR (of MTX, TSV)",unknown
+334,GSE110717,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE110717&format=file,GSE110717_RAW.tar,46.3 Mb,TAR (of TXT),unknown
+335,GSE110720,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE110720&format=file,GSE110720_RAW.tar,433.0 Mb,TAR (of TXT),unknown
+336,GSE110914,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE110914&format=file&file=GSE110914%5Fraw%5Fcounts%5FT1D%5Fneutrophils%2Etxt%2Egz,GSE110914_raw_counts_T1D_neutrophils.txt.gz,1.7 Mb,TXT,unknown
+337,GSE110938,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE110938&format=file,GSE110938_RAW.tar,13.2 Mb,TAR (of TSV),unknown
+338,GSE110952,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE110952&format=file,GSE110952_RAW.tar,29.9 Mb,TAR (of TXT),unknown
+339,GSE111036,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE111036&format=file&file=GSE111036%5FHuman%5FHCMV%5FRNAseq%5Fprocessed%5Fdata%2Etxt%2Egz,GSE111036_Human_HCMV_RNAseq_processed_data.txt.gz,1.4 Mb,TXT,unknown
+340,GSE111049,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE111049&format=file,GSE111049_RAW.tar,10.3 Mb,TAR (of TXT),unknown
+341,GSE111231,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE111231&format=file,GSE111231_RAW.tar,24.5 Mb,TAR (of TXT),unknown
+342,GSE111320,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE111320&format=file,GSE111320_RAW.tar,80.0 Kb,TAR (of XLS),unknown
+343,GSE111360,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE111360&format=file,GSE111360_RAW.tar,744.2 Mb,"TAR (of CSV, MTX, TSV)",unknown
+344,GSE111389,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE111389&format=file&file=GSE111389%5FRaw%5Fread%5Fcount%5F6trio%2Etsv%2Egz,GSE111389_Raw_read_count_6trio.tsv.gz,425.2 Kb,TSV,unknown
+345,GSE111437,null,null,null,null,unknown
+346,GSE111545,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE111545&format=file,GSE111545_RAW.tar,133.4 Mb,TAR (of TXT),unknown
+347,GSE111570,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE111570&format=file&file=GSE111570%5FESFhypox%5FDSChypox%5FHTseqcounts%5FTPMs%2Etxt%2Egz,GSE111570_ESFhypox_DSChypox_HTseqcounts_TPMs.txt.gz,967.4 Kb,TXT,unknown
+348,GSE111634,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE111634&format=file,GSE111634_RAW.tar,470.0 Kb,TAR (of TXT),unknown
+349,GSE111727,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE111727&format=file&file=GSE111727%5Fsc%5Flat%5Fmodel%5Fnormalized%5Fcounts%5Fgenes%2Etxt%2Egz,GSE111727_sc_lat_model_normalized_counts_genes.txt.gz,5.9 Mb,TXT,unknown
+350,GSE111789,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE111789&format=file&file=GSE111789%5Ffrancohalpert%5F13MAR2018%5FNormalizedReadCounts%2Etxt%2Egz,GSE111789_francohalpert_13MAR2018_NormalizedReadCounts.txt.gz,1.7 Mb,TXT,unknown
+351,GSE111876,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE111876&format=file&file=GSE111876%5FRPKMs%2Etxt%2Egz,GSE111876_RPKMs.txt.gz,4.6 Mb,TXT,unknown
+352,GSE111880,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE111880&format=file&file=GSE111880%5FGencode%5Fv25%5FRaji%2Ecounts%2Etxt%2Egz,GSE111880_Gencode_v25_Raji.counts.txt.gz,379.3 Kb,TXT,unknown
+353,GSE111927,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE111927&format=file&file=GSE111927%5FChorio%5Fsubread%5Ffeaturecounts%2Ecsv%2Egz,GSE111927_Chorio_subread_featurecounts.csv.gz,522.0 Kb,CSV,unknown
+354,GSE111958,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE111958&format=file&file=GSE111958%5FGENES%2Enormalized%2Ecounts%2ECPM%2Etab%2Egz,GSE111958_GENES.normalized.counts.CPM.tab.gz,677.0 Kb,TAB,unknown
+355,GSE112068,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE112068&format=file&file=GSE112068%5FProcessedDataMatrix%5FFinal%2Etxt%2Egz,GSE112068_ProcessedDataMatrix_Final.txt.gz,1.4 Mb,TXT,unknown
+356,GSE112124,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE112124&format=file&file=GSE112124%5Fgenes%2Eprocessed%2Efpkm%5Ftable%2Etxt%2Egz,GSE112124_genes.processed.fpkm_table.txt.gz,1.3 Mb,TXT,unknown
+357,GSE112201,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE112201&format=file&file=GSE112201%5FGeneCounts%2Etsv%2Egz,GSE112201_GeneCounts.tsv.gz,1.2 Mb,TSV,unknown
+358,GSE112345,null,null,null,null,unknown
+359,GSE112346,null,null,null,null,unknown
+360,GSE112458,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE112458&format=file&file=GSE112458%5FFOXF1%5Frnaseq%5Frpkms%2Eqnorm%2E1floor%2Etxt%2Egz,GSE112458_FOXF1_rnaseq_rpkms.qnorm.1floor.txt.gz,197.8 Kb,TXT,unknown
+361,GSE112482,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE112482&format=file,GSE112482_RAW.tar,16.3 Mb,TAR (of TXT),unknown
+362,GSE112509,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE112509&format=file&file=GSE112509%5FDESeq2%5Fnormalized%5Fcounts%2Etxt%2Egz,GSE112509_DESeq2_normalized_counts.txt.gz,21.0 Mb,TXT,unknown
+363,GSE112523,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE112523&format=file&file=GSE112523%5FSCZ%5FRNAseq%5FSTAR%5Fcounts%2Ecsv%2Egz,GSE112523_SCZ_RNAseq_STAR_counts.csv.gz,1.8 Mb,CSV,unknown
+364,GSE112525,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE112525&format=file,GSE112525_RAW.tar,31.0 Gb,"TAR (of IDAT, TXT)",unknown
+365,GSE112656,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE112656&format=file&file=GSE112656%5FCounts%5Fmatix%2Etxt%2Egz,GSE112656_Counts_matix.txt.gz,1.1 Mb,TXT,unknown
+366,GSE112658,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE112658&format=file,GSE112658_RAW.tar,4.8 Gb,"TAR (of BED, BROADPEAK, NARROWPEAK, TSV)",unknown
+367,GSE113035,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE113035&format=file&file=GSE113035%5FRNA180105AD%5Fraw%2Exlsx,GSE113035_RNA180105AD_raw.xlsx,5.1 Mb,XLSX,unknown
+368,GSE113041,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE113041&format=file,GSE113041_RAW.tar,8.1 Mb,TAR (of TXT),unknown
+369,GSE113042,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE113042&format=file,GSE113042_RAW.tar,11.7 Gb,"TAR (of BW, TXT)",unknown
+370,GSE113098,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE113098&format=file&file=GSE113098%5FGEO%2Ecounts%2Etxt%2Egz,GSE113098_GEO.counts.txt.gz,740.2 Kb,TXT,unknown
+371,GSE113194,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE113194&format=file,GSE113194_RAW.tar,1.1 Gb,"TAR (of BEDGRAPH, TXT)",unknown
+372,GSE113210,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE113210&format=file&file=GSE113210%5FAVB%5FPBMC%5Fraw%5Fcounts%2Ecsv%2Egz,GSE113210_AVB_PBMC_raw_counts.csv.gz,2.5 Mb,CSV,unknown
+373,GSE113211,null,null,null,null,unknown
+374,GSE113287,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE113287&format=file,GSE113287_RAW.tar,5.1 Mb,TAR (of TXT),unknown
+375,GSE113504,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE113504&format=file&file=GSE113504%5Fjaffa%5Fresults%2Ecsv%2Egz,GSE113504_jaffa_results.csv.gz,372.2 Kb,CSV,unknown
+376,GSE113550,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE113550&format=file&file=GSE113550%5Fprocessed%2EFPKM%2Exlsx,GSE113550_processed.FPKM.xlsx,2.0 Mb,XLSX,unknown
+377,GSE113588,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE113588&format=file&file=GSE113588%5Flog2FPKM%5FCD39CD8TCell%5FNSCLC%2Etxt%2Egz,GSE113588_log2FPKM_CD39CD8TCell_NSCLC.txt.gz,1.8 Mb,TXT,unknown
+378,GSE113648,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE113648&format=file&file=GSE113648%5FRNAseq%5FHGPS%5Fcell%5Flines%5Fvs%5Fcontrol%2Exlsx,GSE113648_RNAseq_HGPS_cell_lines_vs_control.xlsx,2.5 Mb,XLSX,unknown
+379,GSE113655,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE113655&format=file&file=GSE113655%5Frna%5Fcounts%2Etxt%2Egz,GSE113655_rna_counts.txt.gz,1.2 Kb,TXT,unknown
+380,GSE113659,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE113659&format=file,GSE113659_RAW.tar,2.4 Mb,TAR (of TXT),unknown
+381,GSE113804,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE113804&format=file&file=GSE113804%5FFPKM%5Ftable%2Etxt%2Egz,GSE113804_FPKM_table.txt.gz,438.7 Kb,TXT,unknown
+382,GSE113891,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE113891&format=file&file=GSE113891%5FPT%5Fall%5FTPM%2Etsv%2Egz,GSE113891_PT_all_TPM.tsv.gz,2.3 Mb,TSV,unknown
+383,GSE114065,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE114065&format=file&file=GSE114065%5Fprocessed%5FRNAseq%2Etxt%2Egz,GSE114065_processed_RNAseq.txt.gz,9.9 Mb,TXT,unknown
+384,GSE114135,null,null,null,null,unknown
+385,GSE114161,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE114161&format=file,GSE114161_RAW.tar,5.2 Mb,TAR (of TSV),unknown
+386,GSE114265,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE114265&format=file&file=GSE114265%5FLY19WT%5FLY19Y646F%5FCuffDiff%5FFPKMs%5Ffc%2Etxt%2Egz,GSE114265_LY19WT_LY19Y646F_CuffDiff_FPKMs_fc.txt.gz,353.3 Kb,TXT,unknown
+387,GSE114270,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE114270&format=file,GSE114270_RAW.tar,12.0 Mb,TAR (of TXT),unknown
+388,GSE114296,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE114296&format=file&file=GSE114296%5FESF%5FDSC3days%5FDSC8days%5FHTseqcounts%5FTPMs%2Etxt%2Egz,GSE114296_ESF_DSC3days_DSC8days_HTseqcounts_TPMs.txt.gz,1.9 Mb,TXT,unknown
+389,GSE114514,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE114514&format=file&file=GSE114514%5Fprocessed%5Fdata%2Etxt%2Egz,GSE114514_processed_data.txt.gz,574.9 Kb,TXT,unknown
+390,GSE114519,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE114519&format=file&file=GSE114519%5FRawCounts%2Etxt%2Egz,GSE114519_RawCounts.txt.gz,660.9 Kb,TXT,unknown
+391,GSE114541,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE114541&format=file,GSE114541_RAW.tar,21.7 Mb,TAR (of TXT),unknown
+392,GSE114607,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE114607&format=file&file=GSE114607%5FRaw%5Fcounts%2Etxt%2Egz,GSE114607_Raw_counts.txt.gz,1023.2 Kb,TXT,unknown
+393,GSE114625,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE114625&format=file&file=GSE114625%5FDifferential%5Fgene%5Fexpression%2Exlsx,GSE114625_Differential_gene_expression.xlsx,941.4 Kb,XLSX,unknown
+394,GSE114716,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE114716&format=file&file=GSE114716%5Fraw%2Ecounts%2Ehs%2Exlsx,GSE114716_raw.counts.hs.xlsx,1.3 Mb,XLSX,unknown
+395,GSE114765,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE114765&format=file&file=GSE114765%5Fraw%5Fcounts%5FNAC%2Etxt%2Egz,GSE114765_raw_counts_NAC.txt.gz,570.1 Kb,TXT,unknown
+396,GSE114837,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE114837&format=file,GSE114837_RAW.tar,490.0 Kb,TAR (of TXT),unknown
+397,GSE114883,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE114883&format=file&file=GSE114883%5FHost%5Fgene%5Fraw%5Fcount%5Ftable%2Ecsv%2Egz,GSE114883_Host_gene_raw_count_table.csv.gz,1.2 Mb,CSV,unknown
+398,GSE114966,null,null,null,null,unknown
+399,GSE115006,null,null,null,null,unknown
+400,GSE115024,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE115024&format=file,GSE115024_RAW.tar,3.4 Mb,TAR (of TAB),unknown
+401,GSE115189,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE115189&format=file,GSE115189_RAW.tar,7.1 Mb,TAR (of H5),unknown
+402,GSE115240,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE115240&format=file&file=GSE115240%5Fnormalized%2Etxt%2Egz,GSE115240_normalized.txt.gz,545.2 Kb,TXT,unknown
+403,GSE115259,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE115259&format=file,GSE115259_RAW.tar,20.4 Mb,TAR (of TXT),unknown
+404,GSE115262,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE115262&format=file,GSE115262_RAW.tar,27.1 Mb,TAR (of TXT),unknown
+405,GSE115266,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE115266&format=file&file=GSE115266%5FHorvath01%5FDESeq2%5FDifferential%5FGene%5FExpression%2Ecsv%2Egz,GSE115266_Horvath01_DESeq2_Differential_Gene_Expression.csv.gz,2.8 Mb,CSV,unknown
+406,GSE115305,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE115305&format=file&file=GSE115305%5Fsiglec9%5Fcounts%5Fall%2Etxt%2Egz,GSE115305_siglec9_counts_all.txt.gz,579.6 Kb,TXT,unknown
+407,GSE115348,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE115348&format=file&file=GSE115348%5FcountTable%5FMSC%2Etxt%2Egz,GSE115348_countTable_MSC.txt.gz,339.8 Kb,TXT,unknown
+408,GSE115353,null,null,null,null,unknown
+409,GSE115405,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE115405&format=file,GSE115405_RAW.tar,137.7 Mb,TAR (of TXT),unknown
+410,GSE115449,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE115449&format=file&file=GSE115449%5FEffCountFile%2Ecsv%2Egz,GSE115449_EffCountFile.csv.gz,18.7 Mb,CSV,unknown
+411,GSE115653,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE115653&format=file&file=GSE115653%5FBALL%5Fcounts%2Etmm%2Ecpm%2Etxt%2Egz,GSE115653_BALL_counts.tmm.cpm.txt.gz,2.1 Mb,TXT,unknown
+412,GSE115655,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE115655&format=file&file=GSE115655%5FBCells%2ETMM%2Ecpm%2Etxt%2Egz,GSE115655_BCells.TMM.cpm.txt.gz,2.0 Mb,TXT,unknown
+413,GSE115656,null,null,null,null,unknown
+414,GSE115795,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE115795&format=file,GSE115795_RAW.tar,7.0 Mb,TAR (of CSV),unknown
+415,GSE115832,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE115832&format=file&file=GSE115832%5FHsDSC%5FFoxo1%5FHTSeq%5Fcounts%5Fupload%2Etxt%2Egz,GSE115832_HsDSC_Foxo1_HTSeq_counts_upload.txt.gz,538.2 Kb,TXT,unknown
+416,GSE115850,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE115850&format=file&file=GSE115850%5FFPKM%2Exlsx,GSE115850_FPKM.xlsx,4.6 Mb,XLSX,unknown
+417,GSE115940,null,null,null,null,unknown
+418,GSE115969,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE115969&format=file&file=GSE115969%5FNormalizedMatrix%2Etsv%2Egz,GSE115969_NormalizedMatrix.tsv.gz,1.9 Mb,TSV,unknown
+419,GSE116033,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE116033&format=file&file=GSE116033%5FNormalized%5FFPKM%2Etxt%2Egz,GSE116033_Normalized_FPKM.txt.gz,1.3 Mb,TXT,unknown
+420,GSE116073,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE116073&format=file,GSE116073_RAW.tar,6.7 Mb,TAR (of TXT),unknown
+421,GSE116124,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE116124&format=file&file=GSE116124%5FCOUNTS%5Fgenes%5FNEURALCOM%5F01%2Etxt%2Egz,GSE116124_COUNTS_genes_NEURALCOM_01.txt.gz,1.0 Mb,TXT,unknown
+422,GSE116178,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE116178&format=file&file=GSE116178%5FnormalizedCountsTab%2Etab%2Egz,GSE116178_normalizedCountsTab.tab.gz,2.5 Mb,TAB,unknown
+423,GSE116266,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE116266&format=file&file=GSE116266%5FSUPT4H1%5FFibroblasts%2Etab%2Egz,GSE116266_SUPT4H1_Fibroblasts.tab.gz,891.6 Kb,TAB,unknown
+424,GSE116283,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE116283&format=file&file=GSE116283%5FIL10%5FGene%5Fexpression%5Fmatrix%2Exlsx,GSE116283_IL10_Gene_expression_matrix.xlsx,9.3 Mb,XLSX,unknown
+425,GSE116323,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE116323&format=file,GSE116323_RAW.tar,3.9 Mb,TAR (of DIFF),unknown
+426,GSE116327,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE116327&format=file&file=GSE116327%5Fread%5Fcounts%2Etxt%2Egz,GSE116327_read_counts.txt.gz,437.7 Kb,TXT,unknown
+427,GSE116347,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE116347&format=file&file=GSE116347%5FGene%5Fcount%5Ftable%5Fmouse%2Ecsv%2Egz,GSE116347_Gene_count_table_mouse.csv.gz,1.7 Mb,CSV,unknown
+428,GSE116405,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE116405&format=file,GSE116405_RAW.tar,3.3 Mb,TAR (of TXT),unknown
+429,GSE116412,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE116412&format=file,GSE116412_RAW.tar,687.2 Mb,"TAR (of BW, TXT)",unknown
+430,GSE116481,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE116481&format=file&file=GSE116481%5Fall%5Fsamples%5Fraw%5Fcounts%5Fmatrix%2Etxt%2Egz,GSE116481_all_samples_raw_counts_matrix.txt.gz,6.1 Mb,TXT,unknown
+431,GSE116500,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE116500&format=file&file=GSE116500%5FLimma%5Fadj%5F4%2Ecsv%2Egz,GSE116500_Limma_adj_4.csv.gz,7.2 Mb,CSV,unknown
+432,GSE116555,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE116555&format=file&file=GSE116555%5Fraw%5Fcounts%2Etxt%2Egz,GSE116555_raw_counts.txt.gz,13.1 Mb,TXT,unknown
+433,GSE116810,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE116810&format=file&file=GSE116810%5FMAVER%2Enormalized%2Ecounts%2Etxt%2Egz,GSE116810_MAVER.normalized.counts.txt.gz,932.8 Kb,TXT,unknown
+434,GSE116865,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE116865&format=file&file=GSE116865%5Fhuman%5Fnormalized%5Fmatrix%2Ecsv%2Egz,GSE116865_human_normalized_matrix.csv.gz,2.8 Mb,CSV,unknown
+435,GSE116899,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE116899&format=file,GSE116899_RAW.tar,98.7 Mb,TAR (of TXT),unknown
+436,GSE117033,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE117033&format=file&file=GSE117033%5Fcounts%5Fapa%5Fseq%2Ecsv%2Egz,GSE117033_counts_apa_seq.csv.gz,4.8 Mb,CSV,unknown
+437,GSE117040,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE117040&format=file&file=GSE117040%5FnormCounts%2Ecsv%2Egz,GSE117040_normCounts.csv.gz,902.6 Kb,CSV,unknown
+438,GSE117106,null,null,null,null,unknown
+439,GSE117121,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE117121&format=file&file=GSE117121%5Fcounts%5Fdecay%5FTEonly%2Ecsv%2Egz,GSE117121_counts_decay_TEonly.csv.gz,250.5 Kb,CSV,unknown
+440,GSE117125,null,null,null,null,unknown
+441,GSE117131,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE117131&format=file&file=GSE117131%5FZhu%5FSC%2D10X%5Fmouse%5Fraw%2Dcounts%2Etxt%2Egz,GSE117131_Zhu_SC-10X_mouse_raw-counts.txt.gz,67.7 Mb,TXT,unknown
+442,GSE117133,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE117133&format=file&file=GSE117133%5Ffpkm%2Etxt%2Egz,GSE117133_fpkm.txt.gz,1.3 Mb,TXT,unknown
+443,GSE117156,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE117156&format=file,GSE117156_RAW.tar,93.3 Mb,TAR (of TXT),unknown
+444,GSE117160,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE117160&format=file&file=GSE117160%5FWI38%5FNormalizedCounts%2Ecsv%2Egz,GSE117160_WI38_NormalizedCounts.csv.gz,1.2 Mb,CSV,unknown
+445,GSE117168,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE117168&format=file&file=GSE117168%5FPM%5FRNA%2DSeq%5Fgene%5Frpkm%5Fsubmitted%2Etxt%2Egz,GSE117168_PM_RNA-Seq_gene_rpkm_submitted.txt.gz,424.7 Kb,TXT,unknown
+446,GSE117238,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE117238&format=file&file=GSE117238%5Ftranscript%5Fsample%5FFPKM%5FmRNA%2Etxt%2Egz,GSE117238_transcript_sample_FPKM_mRNA.txt.gz,3.7 Mb,TXT,unknown
+447,GSE117254,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE117254&format=file,GSE117254_RAW.tar,3.3 Gb,TAR (of BW),unknown
+448,GSE117259,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE117259&format=file,GSE117259_RAW.tar,3.9 Gb,"TAR (of BEDGRAPH, BW, TXT)",unknown
+449,GSE117337,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE117337&format=file&file=GSE117337%5Fcounts%5Fapaseq%2Ecsv%2Egz,GSE117337_counts_apaseq.csv.gz,225.3 Kb,CSV,unknown
+450,GSE117397,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE117397&format=file,GSE117397_RAW.tar,26.3 Mb,TAR (of TXT),unknown
+451,GSE117444,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE117444&format=file&file=GSE117444%5Fcounts%5Frnaseq%2Ecsv%2Egz,GSE117444_counts_rnaseq.csv.gz,600.0 Kb,CSV,unknown
+452,GSE117469,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE117469&format=file,GSE117469_RAW.tar,2.2 Mb,TAR (of TXT),unknown
+453,GSE117481,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE117481&format=file,GSE117481_RAW.tar,1010.0 Kb,TAR (of TXT),unknown
+454,GSE117655,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE117655&format=file,GSE117655_RAW.tar,112.9 Mb,TAR (of TSV),unknown
+455,GSE117664,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE117664&format=file,GSE117664_RAW.tar,3.5 Mb,TAR (of TXT),unknown
+456,GSE117769,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE117769&format=file,GSE117769_RAW.tar,395.8 Mb,TAR (of TXT),unknown
+457,GSE117828,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE117828&format=file&file=GSE117828%5Fcounts%5Funnormalized%5Fmonocytes%2Ecsv%2Egz,GSE117828_counts_unnormalized_monocytes.csv.gz,589.4 Kb,CSV,unknown
+458,GSE117988,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE117988&format=file&file=GSE117988%5Fraw%2EexpMatrix%5FTumor%2Ecsv%2Egz,GSE117988_raw.expMatrix_Tumor.csv.gz,12.9 Mb,CSV,unknown
+459,GSE118056,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE118056&format=file&file=GSE118056%5Fraw%2EexpMatrix%2Ecsv%2Egz,GSE118056_raw.expMatrix.csv.gz,29.5 Mb,CSV,unknown
+460,GSE118113,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE118113&format=file,GSE118113_RAW.tar,5.7 Mb,TAR (of TXT),unknown
+461,GSE118157,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE118157&format=file,GSE118157_RAW.tar,27.1 Mb,TAR (of TXT),unknown
+462,GSE118179,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE118179&format=file,GSE118179_RAW.tar,13.6 Mb,TAR (of TXT),unknown
+463,GSE118305,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE118305&format=file&file=GSE118305%5FRNAseq%5FHMDM%5FZIKV%5F2018%2Etxt%2Egz,GSE118305_RNAseq_HMDM_ZIKV_2018.txt.gz,3.8 Mb,TXT,unknown
+464,GSE118530,null,null,null,null,unknown
+465,GSE118538,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE118538&format=file,GSE118538_RAW.tar,900.0 Kb,TAR (of TXT),unknown
+466,GSE118588,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE118588&format=file,GSE118588_RAW.tar,4.4 Mb,"TAR (of BED, TXT)",unknown
+467,GSE118644,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE118644&format=file&file=GSE118644%5Frnash2%5FfeatureCounts%5Freverselystranded%5Fpaired%2Etxt%2Egz,GSE118644_rnash2_featureCounts_reverselystranded_paired.txt.gz,5.1 Mb,TXT,unknown
+468,GSE118900,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE118900&format=file&file=GSE118900%5FMM%2Escrna%2Dseq%2Etpm%2Epass%2Etxt%2Egz,GSE118900_MM.scrna-seq.tpm.pass.txt.gz,17.5 Mb,TXT,unknown
+469,GSE118901,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE118901&format=file,GSE118901_RAW.tar,1.1 Mb,TAR (of TXT),unknown
+470,GSE119025,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE119025&format=file&file=GSE119025%5FBSAVSFHR1%5FGene%5Fdifferential%5Fexpression%2Etxt%2Egz,GSE119025_BSAVSFHR1_Gene_differential_expression.txt.gz,5.9 Mb,TXT,unknown
+471,GSE119088,null,null,null,null,unknown
+472,GSE119117,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE119117&format=file&file=GSE119117%5Fcounts%5Fmatrix%2Etxt%2Egz,GSE119117_counts_matrix.txt.gz,2.0 Mb,TXT,unknown
+473,GSE119139,null,null,null,null,unknown
+474,GSE119191,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE119191&format=file&file=GSE119191%5FTh1%5FTreg%5FGene%5Fexpression%5Fmatrix%2Exlsx%2Egz,GSE119191_Th1_Treg_Gene_expression_matrix.xlsx.gz,3.4 Mb,XLSX,unknown
+475,GSE119192,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE119192&format=file&file=GSE119192%5FNaCl%5FTreg%5FGene%5Fexpression%5Fmatrix%5Fcopy%2Exlsx%2Egz,GSE119192_NaCl_Treg_Gene_expression_matrix_copy.xlsx.gz,2.7 Mb,XLSX,unknown
+476,GSE119193,null,null,null,null,unknown
+477,GSE119232,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE119232&format=file,GSE119232_RAW.tar,12.9 Mb,TAR (of CSV),unknown
+478,GSE119320,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE119320&format=file&file=GSE119320%5FSupplemental%5FTable%5F1%5Fexpression%5FTPM%2Exlsx,GSE119320_Supplemental_Table_1_expression_TPM.xlsx,15.3 Mb,XLSX,unknown
+479,GSE119331,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE119331&format=file&file=GSE119331%5FGeneCount%2Etsv%2Egz,GSE119331_GeneCount.tsv.gz,1.5 Mb,TSV,unknown
+480,GSE119373,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE119373&format=file&file=GSE119373%5FBA%5FUMI%5Fcount%5Fmatrix%2Etxt%2Egz,GSE119373_BA_UMI_count_matrix.txt.gz,3.7 Mb,TXT,unknown
+481,GSE119375,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE119375&format=file,GSE119375_RAW.tar,77.9 Mb,"TAR (of CEL, TXT)",unknown
+482,GSE119427,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE119427&format=file&file=GSE119427%5FRawCounts%2Ecsv%2Egz,GSE119427_RawCounts.csv.gz,266.8 Kb,CSV,unknown
+483,GSE119428,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE119428&format=file,GSE119428_RAW.tar,36.0 Mb,"TAR (of JSON, TSV)",unknown
+484,GSE119450,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE119450&format=file,GSE119450_RAW.tar,328.0 Mb,"TAR (of CSV, TAR)",unknown
+485,GSE119562,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE119562&format=file,GSE119562_RAW.tar,18.7 Mb,TAR (of CSV),unknown
+486,GSE119608,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE119608&format=file,GSE119608_RAW.tar,970.0 Kb,TAR (of TXT),unknown
+487,GSE119705,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE119705&format=file&file=GSE119705%5FGene%5Fcounts%2Ematrix%2Etxt%2Egz,GSE119705_Gene_counts.matrix.txt.gz,346.3 Kb,TXT,unknown
+488,GSE119807,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE119807&format=file,GSE119807_RAW.tar,3.4 Mb,TAR (of TXT),unknown
+489,GSE119835,null,null,null,null,unknown
+490,GSE119918,null,null,null,null,unknown
+491,GSE119919,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE119919&format=file,GSE119919_RAW.tar,35.8 Mb,TAR (of IDAT),unknown
+492,GSE20071,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE20071&format=file,GSE20071_RAW.tar,436.9 Mb,"TAR (of BED, GRAPH)",unknown
+493,GSE20072,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE20072&format=file,GSE20072_RAW.tar,1.1 Gb,"TAR (of BED, GRAPH)",unknown
+494,GSE23316,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE23316&format=file,GSE23316_RAW.tar,42.5 Gb,"TAR (of BED12, BEDGRAPH, BOWTIE, FASTA, PSL, RPKM)",unknown
+495,GSE29022,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE29022&format=file&file=GSE29022%5Fblind%5Fgene%5Fcounts%2Etxt%2Egz,GSE29022_blind_gene_counts.txt.gz,1.0 Mb,TXT,unknown
+496,GSE29038,null,null,null,null,unknown
+497,GSE29041,null,null,null,null,unknown
+498,GSE30017,null,null,null,null,unknown
+499,GSE30222,null,null,null,null,unknown
+500,GSE30250,null,null,null,null,unknown
+501,GSE30251,null,null,null,null,unknown
+502,GSE30352,null,null,null,null,unknown
+503,GSE30554,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE30554&format=file,GSE30554_RAW.tar,19.9 Gb,TAR (of BAM),unknown
+504,GSE30611,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE30611&format=file&file=GSE30611%5FHiSeq%5F2000%5FHuman%5FTissue%5FData%5Fv1%2Epdf%2Egz,GSE30611_HiSeq_2000_Human_Tissue_Data_v1.pdf.gz,2.0 Mb,PDF,unknown
+505,GSE30811,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE30811&format=file,GSE30811_RAW.tar,10.0 Mb,TAR (of TXT),unknown
+506,GSE31278,null,null,null,null,unknown
+507,GSE31486,null,null,null,null,unknown
+508,GSE32340,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE32340&format=file,GSE32340_RAW.tar,6.0 Gb,"TAR (of BED, WIG)",unknown
+509,GSE33281,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE33281&format=file,GSE33281_RAW.tar,7.8 Gb,"TAR (of BED, WIG)",unknown
+510,GSE33592,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE33592&format=file,GSE33592_RAW.tar,231.9 Mb,TAR (of WIG),unknown
+511,GSE35394,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE35394&format=file,GSE35394_RAW.tar,7.0 Mb,TAR (of TXT),unknown
+512,GSE36952,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE36952&format=file&file=GSE36952%5FRPKM%2Etxt%2Egz,GSE36952_RPKM.txt.gz,628.5 Kb,TXT,unknown
+513,GSE37376,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE37376&format=file&file=GSE37376%5FHAEC%5FmRNA%2Dseq%5Fcounts%2Etxt%2Egz,GSE37376_HAEC_mRNA-seq_counts.txt.gz,531.4 Kb,TXT,unknown
+514,GSE37378,null,null,null,null,unknown
+515,GSE37703,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE37703&format=file&file=GSE37703%5Fmiseq%5Fcuffdiff%5Ftss%5Fgroups%2Efpkm%5Ftracking%2Egz,GSE37703_miseq_cuffdiff_tss_groups.fpkm_tracking.gz,1.2 Mb,FPKM_TRACKING,unknown
+516,GSE37704,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE37704&format=file,GSE37704_RAW.tar,79.3 Mb,TAR (of TXT),unknown
+517,GSE38006,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE38006&format=file&file=GSE38006%5FmBio2011%5FrefSeq%5FnormalizedFPKM%5Fmatrix%2Etxt%2Egz,GSE38006_mBio2011_refSeq_normalizedFPKM_matrix.txt.gz,803.4 Kb,TXT,unknown
+518,GSE38233,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE38233&format=file,GSE38233_RAW.tar,1.6 Mb,TAR (of TXT),unknown
+519,GSE38265,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE38265&format=file&file=GSE38265%5Fgene%5Fcount%2Etxt%2Egz,GSE38265_gene_count.txt.gz,436.7 Kb,TXT,unknown
+520,GSE38993,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE38993&format=file&file=GSE38993%5Fgenes%2Efpkm%5Ftracking%2Etxt%2Egz,GSE38993_genes.fpkm_tracking.txt.gz,1.9 Mb,TXT,unknown
+521,GSE39167,null,null,null,null,unknown
+522,GSE39229,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE39229&format=file,GSE39229_RAW.tar,1.9 Gb,"TAR (of BED, RPKM, TXT)",unknown
+523,GSE39537,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE39537&format=file,GSE39537_RAW.tar,373.9 Mb,"TAR (of BED, RPKM)",unknown
+524,GSE39561,null,null,null,null,unknown
+525,GSE39661,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE39661&format=file&file=GSE39661%5Fmy%5F110208%5F100716%5F100803%5F100508%5FH1%5Ftpm%2Etxt%2Egz,GSE39661_my_110208_100716_100803_100508_H1_tpm.txt.gz,1.1 Mb,TXT,unknown
+526,GSE39878,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE39878&format=file&file=GSE39878%5FGM12750%5FFPKM%2Etxt%2Egz,GSE39878_GM12750_FPKM.txt.gz,293.3 Kb,TXT,unknown
+527,GSE40131,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE40131&format=file,GSE40131_RAW.tar,2.8 Mb,TAR (of TXT),unknown
+528,GSE40291,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE40291&format=file,GSE40291_RAW.tar,1.9 Mb,TAR (of TXT),unknown
+529,GSE40548,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE40548&format=file&file=GSE40548%5Fgenes%2Efpkm%5Ftracking%2Egz,GSE40548_genes.fpkm_tracking.gz,1.2 Mb,FPKM_TRACKING,unknown
+530,GSE40718,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE40718&format=file,GSE40718_RAW.tar,60.5 Mb,TAR (of TXT),unknown
+531,GSE40740,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE40740&format=file,GSE40740_RAW.tar,13.2 Gb,"TAR (of BED, WIG)",unknown
+532,GSE40783,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE40783&format=file,GSE40783_RAW.tar,1.0 Mb,TAR (of TXT),unknown
+533,GSE40784,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE40784&format=file,GSE40784_RAW.tar,18.8 Mb,"TAR (of CEL, TXT)",unknown
+534,GSE41166,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE41166&format=file&file=GSE41166%5Ffpkm%2Ecsv%2Egz,GSE41166_fpkm.csv.gz,574.1 Kb,CSV,unknown
+535,GSE41180,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE41180&format=file&file=GSE41180%5FWTAP%5FRNAi%5Fin%5FHUVECs%5FRPKM%5F%2Etxt%2Egz,GSE41180_WTAP_RNAi_in_HUVECs_RPKM_.txt.gz,256.3 Kb,TXT,unknown
+536,GSE41357,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE41357&format=file,GSE41357_RAW.tar,510.0 Kb,"TAR (of BED, TXT)",unknown
+537,GSE41616,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE41616&format=file&file=GSE41616%5FCEC%5Fmatrix%2Etxt%2Egz,GSE41616_CEC_matrix.txt.gz,334.6 Kb,TXT,unknown
+538,GSE41687,null,null,null,null,unknown
+539,GSE41716,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE41716&format=file,GSE41716_RAW.tar,7.3 Mb,TAR (of RPKM),unknown
+540,GSE41761,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE41761&format=file,GSE41761_RAW.tar,550.0 Kb,TAR (of TXT),unknown
+541,GSE42212,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE42212&format=file&file=GSE42212%5FRNASeq%5FRPKM%2Etxt%2Egz,GSE42212_RNASeq_RPKM.txt.gz,11.4 Kb,TXT,unknown
+542,GSE42213,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE42213&format=file,GSE42213_RAW.tar,2.8 Gb,"TAR (of BED, WIG)",unknown
+543,GSE42509,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE42509&format=file&file=GSE42509%5FPQST%5Frna%5Frp%5Ffpkms%2Etxt%2Egz,GSE42509_PQST_rna_rp_fpkms.txt.gz,335.0 Kb,TXT,unknown
+544,GSE42960,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE42960&format=file,GSE42960_RAW.tar,390.0 Kb,TAR (of TXT),unknown
+545,GSE43440,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE43440&format=file,GSE43440_RAW.tar,9.9 Mb,TAR (of TXT),unknown
+546,GSE43549,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE43549&format=file,GSE43549_RAW.tar,860.0 Kb,TAR (of TXT),unknown
+547,GSE43788,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE43788&format=file,GSE43788_RAW.tar,8.3 Mb,TAR (of GTF),unknown
+548,GSE43789,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE43789&format=file,GSE43789_RAW.tar,604.1 Mb,"TAR (of BW, GTF, XLSX)",unknown
+549,GSE43984,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE43984&format=file,GSE43984_RAW.tar,2.3 Mb,TAR (of TXT),unknown
+550,GSE44457,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE44457&format=file,GSE44457_RAW.tar,2.8 Mb,TAR (of TXT),unknown
+551,GSE44646,null,null,null,null,unknown
+552,GSE45428,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE45428&format=file&file=GSE45428%5FJurkat%5FRSEM%5FTPMs%2Etxt%2Egz,GSE45428_Jurkat_RSEM_TPMs.txt.gz,432.5 Kb,TXT,unknown
+553,GSE45734,null,null,null,null,unknown
+554,GSE45735,null,null,null,null,unknown
+555,GSE45785,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE45785&format=file&file=GSE45785%5FNutlin%5FBJ%5Frp%5Ffpkms%2Etxt%2Egz,GSE45785_Nutlin_BJ_rp_fpkms.txt.gz,295.8 Kb,TXT,unknown
+556,GSE45833,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE45833&format=file,GSE45833_RAW.tar,1.3 Gb,TAR (of WIG),unknown
+557,GSE46217,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE46217&format=file,GSE46217_RAW.tar,14.1 Mb,TAR (of TXT),unknown
+558,GSE46220,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE46220&format=file,GSE46220_RAW.tar,197.2 Mb,TAR (of TXT),unknown
+559,GSE46502,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE46502&format=file,GSE46502_RAW.tar,23.8 Mb,TAR (of GTF),unknown
+560,GSE46503,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE46503&format=file,GSE46503_RAW.tar,619.7 Mb,"TAR (of BW, GTF, XLSX)",unknown
+561,GSE46846,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE46846&format=file,GSE46846_RAW.tar,10.5 Mb,TAR (of TXT),unknown
+562,GSE47604,null,null,null,null,unknown
+563,GSE47636,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE47636&format=file,GSE47636_RAW.tar,1.8 Mb,TAR (of TXT),unknown
+564,GSE47747,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE47747&format=file,GSE47747_RAW.tar,369.3 Mb,"TAR (of TXT, WIG)",unknown
+565,GSE47774,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE47774&format=file&file=GSE47774%5FSEQC%5FILM%5FNYG%5Fall%5Fcounts%2Etxt%2Egz,GSE47774_SEQC_ILM_NYG_all_counts.txt.gz,2.8 Mb,TXT,unknown
+566,GSE48305,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE48305&format=file,GSE48305_RAW.tar,10.8 Mb,TAR (of GTF),unknown
+567,GSE48307,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE48307&format=file,GSE48307_RAW.tar,35.6 Mb,"TAR (of CEL, GTF)",unknown
+568,GSE48678,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE48678&format=file,GSE48678_RAW.tar,10.9 Mb,TAR (of TXT),unknown
+569,GSE48933,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE48933&format=file,GSE48933_RAW.tar,190.0 Mb,TAR (of WIG),unknown
+570,GSE49074,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE49074&format=file,GSE49074_RAW.tar,830.0 Kb,TAR (of TXT),unknown
+571,GSE49159,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE49159&format=file&file=GSE49159%5FRPKM%5Fvalues%2Etxt%2Egz,GSE49159_RPKM_values.txt.gz,2.0 Mb,TXT,unknown
+572,GSE49712,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE49712&format=file&file=GSE49712%5Fgene%5FFPKM%2Etxt%2Egz,GSE49712_gene_FPKM.txt.gz,847.4 Kb,TXT,unknown
+573,GSE51025,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE51025&format=file&file=GSE51025%5FHDF%5FFPKM%2Etxt%2Egz,GSE51025_HDF_FPKM.txt.gz,801.0 Kb,TXT,unknown
+574,GSE51518,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE51518&format=file,GSE51518_RAW.tar,93.7 Mb,TAR (of TXT),unknown
+575,GSE51519,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE51519&format=file,GSE51519_RAW.tar,1.5 Gb,"TAR (of PAIR, TXT)",unknown
+576,GSE51607,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE51607&format=file&file=GSE51607%5FRPKM%5Ftable%2Etxt%2Egz,GSE51607_RPKM_table.txt.gz,1.3 Mb,TXT,unknown
+577,GSE51684,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE51684&format=file&file=GSE51684%5Fexpression%5Ftable%2Etxt%2Egz,GSE51684_expression_table.txt.gz,1.3 Mb,TXT,unknown
+578,GSE51741,null,null,null,null,unknown
+579,GSE52642,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE52642&format=file&file=GSE52642%5FGene%5FExpression%5FRPKM%2Etxt%2Egz,GSE52642_Gene_Expression_RPKM.txt.gz,4.3 Mb,TXT,unknown
+580,GSE52742,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE52742&format=file,GSE52742_RAW.tar,1.1 Mb,TAR (of TXT),unknown
+581,GSE52934,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE52934&format=file&file=GSE52934%5FRNA%5Fseq%5Fmegafile%2Exls%2Egz,GSE52934_RNA_seq_megafile.xls.gz,8.8 Mb,XLS,unknown
+582,GSE52975,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE52975&format=file,GSE52975_RAW.tar,18.8 Mb,TAR (of TXT),unknown
+583,GSE52977,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE52977&format=file,GSE52977_RAW.tar,60.8 Mb,"TAR (of CSV, TXT)",unknown
+584,GSE53080,null,null,null,null,unknown
+585,GSE53081,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE53081&format=file,GSE53081_RAW.tar,26.2 Mb,TAR,unknown
+586,GSE53094,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE53094&format=file&file=GSE53094%5Fprocessed%5Fdata%2Etxt%2Egz,GSE53094_processed_data.txt.gz,2.6 Mb,TXT,unknown
+587,GSE53096,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE53096&format=file,GSE53096_RAW.tar,231.1 Mb,TAR,unknown
+588,GSE53510,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE53510&format=file&file=GSE53510%5FmetaRPKM%2Etxt%2Egz,GSE53510_metaRPKM.txt.gz,754.7 Kb,TXT,unknown
+589,GSE53635,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE53635&format=file,GSE53635_RAW.tar,85.3 Mb,TAR (of TXT),unknown
+590,GSE53983,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE53983&format=file&file=GSE53983%5FAll%5Fmm%5FrpkmData%2Etxt%2Egz,GSE53983_All_mm_rpkmData.txt.gz,1.5 Mb,TXT,unknown
+591,GSE53993,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE53993&format=file&file=GSE53993%5FTotal%5FRNA%5FRPKM%5FMatrix%2Etxt%2Egz,GSE53993_Total_RNA_RPKM_Matrix.txt.gz,694.0 Kb,TXT,unknown
+592,GSE54066,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE54066&format=file&file=GSE54066%5F2014%2E1%2E9%5Fprocessing%5Fdata%2Etxt%2Egz,GSE54066_2014.1.9_processing_data.txt.gz,899.9 Kb,TXT,unknown
+593,GSE54201,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE54201&format=file,GSE54201_RAW.tar,730.0 Kb,TAR (of TXT),unknown
+594,GSE54333,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE54333&format=file,GSE54333_RAW.tar,710.0 Kb,TAR (of CSV),unknown
+595,GSE54334,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE54334&format=file,GSE54334_RAW.tar,720.0 Kb,"TAR (of BED, CSV)",unknown
+596,GSE54384,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE54384&format=file&file=GSE54384%5FHUVEC%5FRPKM%2Etxt%2Egz,GSE54384_HUVEC_RPKM.txt.gz,1.3 Mb,TXT,unknown
+597,GSE54401,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE54401&format=file,GSE54401_RAW.tar,2.9 Mb,TAR (of TXT),unknown
+598,GSE54416,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE54416&format=file&file=GSE54416%5F2013%2E06%2E12%2EECFC%5FBvsECFC%5FL%2Etxt%2Egz,GSE54416_2013.06.12.ECFC_BvsECFC_L.txt.gz,3.0 Mb,TXT,unknown
+599,GSE54602,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE54602&format=file&file=GSE54602%5FD4%5FD8%5FD11%5FD14%5Fisoform%5Fexp%2Ediff%2Eparsed%2Etxt%2Egz,GSE54602_D4_D8_D11_D14_isoform_exp.diff.parsed.txt.gz,2.8 Mb,TXT,unknown
+600,GSE54726,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE54726&format=file,GSE54726_RAW.tar,26.2 Mb,TAR,unknown
+601,GSE54846,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE54846&format=file,GSE54846_RAW.tar,1.1 Mb,TAR (of TXT),unknown
+602,GSE54847,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE54847&format=file,GSE54847_RAW.tar,4.5 Mb,"TAR (of BEDGRAPH, GAPPEDPEAK, TXT)",unknown
+603,GSE54906,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE54906&format=file&file=GSE54906%5Fhg19%5Fdge%5FfibAndlym%5F19233%5FnoZeros%2Etxt%2Egz,GSE54906_hg19_dge_fibAndlym_19233_noZeros.txt.gz,368.0 Kb,TXT,unknown
+604,GSE54908,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE54908&format=file,GSE54908_RAW.tar,11.2 Gb,TAR (of BIGWIG),unknown
+605,GSE54912,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE54912&format=file&file=GSE54912%5FHAEC%5FSAHA%5FmRNA%2Dseq%5Fcounts%2Etxt%2Egz,GSE54912_HAEC_SAHA_mRNA-seq_counts.txt.gz,397.4 Kb,TXT,unknown
+606,GSE54968,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE54968&format=file&file=GSE54968%5Fgencode%2Eexpression%2Etxt%2Egz,GSE54968_gencode.expression.txt.gz,2.2 Mb,TXT,unknown
+607,GSE54969,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE54969&format=file,GSE54969_RAW.tar,209.3 Mb,TAR (of CEL),unknown
+608,GSE55271,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE55271&format=file,GSE55271_RAW.tar,2.1 Mb,TAR (of TXT),unknown
+609,GSE55275,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE55275&format=file&file=GSE55275%5Fisoform%5Ffpkm%2Etsv%2Egz,GSE55275_isoform_fpkm.tsv.gz,902.6 Kb,TSV,unknown
+610,GSE55426,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE55426&format=file,GSE55426_RAW.tar,1.1 Gb,"TAR (of BW, PAIR, TXT)",unknown
+611,GSE55504,null,null,null,null,unknown
+612,GSE55534,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE55534&format=file,GSE55534_RAW.tar,7.5 Mb,TAR (of TXT),unknown
+613,GSE55536,null,null,null,null,unknown
+614,GSE55727,null,null,null,null,unknown
+615,GSE55949,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE55949&format=file,GSE55949_RAW.tar,950.0 Kb,TAR (of TXT),unknown
+616,GSE56091,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE56091&format=file,GSE56091_RAW.tar,15.9 Mb,TAR (of TXT),unknown
+617,GSE56093,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE56093&format=file,GSE56093_RAW.tar,25.2 Mb,TAR (of TXT),unknown
+618,GSE56144,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE56144&format=file,GSE56144_RAW.tar,250.0 Mb,"TAR (of BED, GTF, TXT)",unknown
+619,GSE56293,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE56293&format=file,GSE56293_RAW.tar,11.2 Mb,TAR (of TXT),unknown
+620,GSE56398,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE56398&format=file&file=GSE56398%5Fnic%2DfpkmMatrix%2Etxt%2Egz,GSE56398_nic-fpkmMatrix.txt.gz,714.2 Kb,TXT,unknown
+621,GSE56788,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE56788&format=file&file=GSE56788%5FVor%5FsiRNA%5FExpt%5Fnormalised%5Fexpression%2Etsv%2Egz,GSE56788_Vor_siRNA_Expt_normalised_expression.tsv.gz,5.1 Mb,TSV,unknown
+622,GSE57049,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE57049&format=file&file=GSE57049%5Fgenes%2Efpkm%5Ftracking%2Egz,GSE57049_genes.fpkm_tracking.gz,1.9 Mb,FPKM_TRACKING,unknown
+623,GSE57253,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE57253&format=file&file=GSE57253%5F140225%5F140305%5F130716%5FRNA%2DSeq%5Fresults%2Etranscript%2Erpkm%2Etxt%2Egz,GSE57253_140225_140305_130716_RNA-Seq_results.transcript.rpkm.txt.gz,4.2 Mb,TXT,unknown
+624,GSE57353,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE57353&format=file,GSE57353_RAW.tar,3.3 Gb,TAR (of WIG),unknown
+625,GSE57494,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE57494&format=file,GSE57494_RAW.tar,30.6 Mb,TAR (of TXT),unknown
+626,GSE57662,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE57662&format=file,GSE57662_RAW.tar,2.7 Mb,TAR (of TXT),unknown
+627,GSE57723,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE57723&format=file&file=GSE57723%5FMacrophage%5FFPKM%5Fallsamples%2Etxt%2Egz,GSE57723_Macrophage_FPKM_allsamples.txt.gz,671.5 Kb,TXT,unknown
+628,GSE57732,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE57732&format=file&file=GSE57732%5FCONTROLvsBZLF1%2ERNASeq%2Egenes%2Ecounts%2Etsv%2Egz,GSE57732_CONTROLvsBZLF1.RNASeq.genes.counts.tsv.gz,299.2 Kb,TSV,unknown
+629,GSE57826,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE57826&format=file&file=GSE57826%5Fgenes%2Efpkm%5Ftracking%2Etxt%2Egz,GSE57826_genes.fpkm_tracking.txt.gz,3.5 Mb,TXT,unknown
+630,GSE57828,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE57828&format=file,GSE57828_RAW.tar,1.1 Mb,TAR (of TXT),unknown
+631,GSE57973,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE57973&format=file&file=GSE57973%5FSTAR%5Fsorted%5Frpkm%2Etxt%2Egz,GSE57973_STAR_sorted_rpkm.txt.gz,8.2 Mb,TXT,unknown
+632,GSE58122,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE58122&format=file&file=GSE58122%5Fvarstab%5Fdata%5Fprefiltered%5Fgeo%2Etxt%2Egz,GSE58122_varstab_data_prefiltered_geo.txt.gz,4.9 Mb,TXT,unknown
+633,GSE58168,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE58168&format=file&file=GSE58168%5Fp4936%2Ecsv%2Egz,GSE58168_p4936.csv.gz,2.1 Mb,CSV,unknown
+634,GSE58246,null,null,null,null,unknown
+635,GSE58335,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE58335&format=file,GSE58335_RAW.tar,4.9 Mb,TAR (of TXT),unknown
+636,GSE58663,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE58663&format=file&file=GSE58663%5FGene%5FExpression%5FRPKM%2Etxt%2Egz,GSE58663_Gene_Expression_RPKM.txt.gz,4.1 Mb,TXT,unknown
+637,GSE58740,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE58740&format=file,GSE58740_RAW.tar,8.9 Gb,"TAR (of BED, BEDGRAPH, BIGWIG, TXT)",unknown
+638,GSE59233,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE59233&format=file&file=GSE59233%5FEmbo%5FNCBI%2Exlsx%2Egz,GSE59233_Embo_NCBI.xlsx.gz,5.7 Mb,XLSX,unknown
+639,GSE59364,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE59364&format=file&file=GSE59364%5FDC%5Fall%2Ecsv%2Egz,GSE59364_DC_all.csv.gz,732.2 Kb,CSV,unknown
+640,GSE59365,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE59365&format=file,GSE59365_RAW.tar,135.8 Mb,"TAR (of GFF, PAIR)",unknown
+641,GSE59386,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE59386&format=file&file=GSE59386%5FDESeq%5FDCs%5Fsummary%2D1%2Etxt%2Egz,GSE59386_DESeq_DCs_summary-1.txt.gz,803.1 Kb,TXT,unknown
+642,GSE59528,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE59528&format=file&file=GSE59528%5FNeutrophil%5F4sample%5FFPKMs%2Exlsx,GSE59528_Neutrophil_4sample_FPKMs.xlsx,3.6 Mb,XLSX,unknown
+643,GSE59688,null,null,null,null,unknown
+644,GSE59693,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE59693&format=file,GSE59693_RAW.tar,5.3 Gb,"TAR (of BED, BEDGRAPH, WIG)",unknown
+645,GSE59717,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE59717&format=file,GSE59717_RAW.tar,11.1 Mb,TAR (of RPKM),unknown
+646,GSE60040,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE60040&format=file,GSE60040_RAW.tar,1.5 Mb,TAR (of RPKM),unknown
+647,GSE60047,null,null,null,null,unknown
+648,GSE60196,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE60196&format=file,GSE60196_RAW.tar,60.0 Kb,TAR (of TXT),unknown
+649,GSE60197,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE60197&format=file,GSE60197_RAW.tar,450.0 Kb,TAR (of TXT),unknown
+650,GSE60198,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE60198&format=file,GSE60198_RAW.tar,990.0 Kb,TAR (of TXT),unknown
+651,GSE60216,null,null,null,null,unknown
+652,GSE60217,null,null,null,null,unknown
+653,GSE60308,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE60308&format=file&file=GSE60308%5FFPKM%5Fhg19%2Exlsx,GSE60308_FPKM_hg19.xlsx,8.3 Mb,XLSX,unknown
+654,GSE60340,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE60340&format=file,GSE60340_RAW.tar,133.0 Mb,TAR (of GTF),unknown
+655,GSE60481,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE60481&format=file&file=GSE60481%5FPBMCs%5FADEHpos%2DADEHneg%5Fsham%2DHSV1%5FMatrixTable%2Etxt%2Egz,GSE60481_PBMCs_ADEHpos-ADEHneg_sham-HSV1_MatrixTable.txt.gz,698.4 Kb,TXT,unknown
+656,GSE60482,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE60482&format=file,GSE60482_RAW.tar,3.7 Gb,TAR (of BW),unknown
+657,GSE60548,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE60548&format=file,GSE60548_RAW.tar,7.6 Mb,TAR (of TXT),unknown
+658,GSE60883,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE60883&format=file&file=GSE60883%5Fcounts%5Frpkm%5Fquiescence%5Fdata%2Exls%2Egz,GSE60883_counts_rpkm_quiescence_data.xls.gz,5.2 Mb,XLS,unknown
+659,GSE60996,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE60996&format=file&file=GSE60996%5Fall%5Fsamples%5FRPKM%2Etxt%2Egz,GSE60996_all_samples_RPKM.txt.gz,3.4 Mb,TXT,unknown
+660,GSE61343,null,null,null,null,unknown
+661,GSE61390,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE61390&format=file&file=GSE61390%5Fprocessed%5Fdata%5FDESeq2%2Etxt%2Egz,GSE61390_processed_data_DESeq2.txt.gz,5.8 Mb,TXT,unknown
+662,GSE61490,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE61490&format=file,GSE61490_RAW.tar,8.8 Mb,TAR (of CSV),unknown
+663,GSE61600,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE61600&format=file,GSE61600_RAW.tar,3.2 Mb,TAR (of TXT),unknown
+664,GSE61656,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE61656&format=file&file=GSE61656%5FSamples%5FFPKM%2Etxt%2Egz,GSE61656_Samples_FPKM.txt.gz,1.5 Mb,TXT,unknown
+665,GSE61657,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE61657&format=file,GSE61657_RAW.tar,352.2 Mb,TAR (of IDAT),unknown
+666,GSE61797,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE61797&format=file,GSE61797_RAW.tar,3.2 Mb,TAR (of TXT),unknown
+667,GSE62056,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE62056&format=file,GSE62056_RAW.tar,506.9 Mb,TAR (of TDF),unknown
+668,GSE62058,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE62058&format=file,GSE62058_RAW.tar,1.6 Gb,"TAR (of TDF, WIG)",unknown
+669,GSE62241,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE62241&format=file,GSE62241_RAW.tar,2.6 Gb,TAR (of BW),unknown
+670,GSE62246,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE62246&format=file,GSE62246_RAW.tar,49.6 Gb,"TAR (of BW, CEL, CHP)",unknown
+671,GSE62448,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE62448&format=file&file=GSE62448%5Fmerged%5Fnormalized%5Fcounts%2Etab%2Egz,GSE62448_merged_normalized_counts.tab.gz,389.1 Kb,TAB,unknown
+672,GSE62540,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE62540&format=file,GSE62540_RAW.tar,950.0 Kb,TAR (of TXT),unknown
+673,GSE62907,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE62907&format=file,GSE62907_RAW.tar,995.7 Mb,"TAR (of BEDGRAPH, CEL, FPKM_TRACKING, TXT)",unknown
+674,GSE62920,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE62920&format=file&file=GSE62920%5FTotalRNAseq%5F100413%2Exlsx,GSE62920_TotalRNAseq_100413.xlsx,5.0 Mb,XLSX,unknown
+675,GSE62923,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE62923&format=file,GSE62923_RAW.tar,1.8 Gb,TAR (of CEL),unknown
+676,GSE62966,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE62966&format=file,GSE62966_RAW.tar,391.5 Mb,"TAR (of BEDGRAPH, FPKM_TRACKING)",unknown
+677,GSE62968,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE62968&format=file&file=GSE62968%5FSample%5FFPKM%2Etxt%2Egz,GSE62968_Sample_FPKM.txt.gz,1.1 Mb,TXT,unknown
+678,GSE62974,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE62974&format=file&file=GSE62974%5FFPKM%5FHUVEC%2Etxt%2Egz,GSE62974_FPKM_HUVEC.txt.gz,495.3 Kb,TXT,unknown
+679,GSE62982,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE62982&format=file,GSE62982_RAW.tar,2.8 Mb,TAR (of TXT),unknown
+680,GSE63055,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE63055&format=file&file=GSE63055%5FallSamples%5Fgenes%2Efpkm%5Ftable%2Etxt%2Egz,GSE63055_allSamples_genes.fpkm_table.txt.gz,3.9 Mb,TXT,unknown
+681,GSE63058,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE63058&format=file,GSE63058_RAW.tar,7.4 Gb,"TAR (of BIGBED, BIGWIG, CEL, CYCHP)",unknown
+682,GSE63085,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE63085&format=file,GSE63085_RAW.tar,75.6 Mb,TAR (of TXT),unknown
+683,GSE63144,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE63144&format=file&file=GSE63144%5FGEO%5FSchultze%5FRNA%5Fseq%5FnormalizedData%2Etxt%2Egz,GSE63144_GEO_Schultze_RNA_seq_normalizedData.txt.gz,926.0 Kb,TXT,unknown
+684,GSE63147,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE63147&format=file,GSE63147_RAW.tar,15.8 Mb,TAR,unknown
+685,GSE63283,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE63283&format=file&file=GSE63283%5FGene%5FExpression%5FRPKM%2Etxt%2Egz,GSE63283_Gene_Expression_RPKM.txt.gz,4.9 Mb,TXT,unknown
+686,GSE63577,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE63577&format=file&file=GSE63577%5FexVivo%5Fcounts%5FRPKMs%5FII%2Exls%2Egz,GSE63577_exVivo_counts_RPKMs_II.xls.gz,9.3 Mb,XLS,unknown
+687,GSE63703,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE63703&format=file&file=GSE63703%5FNormalizedlongRNAExpressionTable%2Etxt%2Egz,GSE63703_NormalizedlongRNAExpressionTable.txt.gz,707.0 Kb,TXT,unknown
+688,GSE63755,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE63755&format=file&file=GSE63755%5FRPKM%5FRNASEH2%5FJCI%5Fp156%2Etxt%2Egz,GSE63755_RPKM_RNASEH2_JCI_p156.txt.gz,57 b,TXT,unknown
+689,GSE63797,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE63797&format=file,GSE63797_RAW.tar,5.0 Mb,TAR (of TXT),unknown
+690,GSE63807,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE63807&format=file&file=GSE63807%5FNormalizedData%5FwithAnnotationsKE%2Etxt%2Egz,GSE63807_NormalizedData_withAnnotationsKE.txt.gz,1.5 Mb,TXT,unknown
+691,GSE63840,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE63840&format=file&file=GSE63840%5FFPKM%5Fmatrix%2Etxt%2Egz,GSE63840_FPKM_matrix.txt.gz,1.6 Mb,TXT,unknown
+692,GSE64179,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE64179&format=file,GSE64179_RAW.tar,2.4 Mb,TAR (of TXT),unknown
+693,GSE64182,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE64182&format=file,GSE64182_RAW.tar,1023.1 Mb,"TAR (of BW, TXT)",unknown
+694,GSE64183,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE64183&format=file,GSE64183_RAW.tar,7.4 Gb,"TAR (of BW, TXT)",unknown
+695,GSE64317,null,null,null,null,unknown
+696,GSE64553,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE64553&format=file&file=GSE64553%5Fcounts%5Frpkm%5Fexvivo%5Frotenone%5Fdata%2Etxt%2Egz,GSE64553_counts_rpkm_exvivo_rotenone_data.txt.gz,3.5 Mb,TXT,unknown
+697,GSE64712,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE64712&format=file&file=GSE64712%5Fall%5Fgenes%2Etxt%2Egz,GSE64712_all_genes.txt.gz,1.0 Mb,TXT,unknown
+698,GSE64713,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE64713&format=file,GSE64713_RAW.tar,889.4 Mb,"TAR (of BED, TXT)",unknown
+699,GSE64882,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE64882&format=file&file=GSE64882%5Fprocessed%5Fdata%2Ecsv%2Egz,GSE64882_processed_data.csv.gz,448.1 Kb,CSV,unknown
+700,GSE64962,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE64962&format=file,GSE64962_RAW.tar,1.4 Gb,TAR (of BW),unknown
+701,GSE65039,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE65039&format=file&file=GSE65039%5Fgenes%2Efpkm%5Ftracking%2Egz,GSE65039_genes.fpkm_tracking.gz,1.4 Mb,FPKM_TRACKING,unknown
+702,GSE65145,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE65145&format=file,GSE65145_RAW.tar,9.7 Mb,TAR (of TXT),unknown
+703,GSE65473,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE65473&format=file,GSE65473_RAW.tar,290.0 Kb,TAR (of TXT),unknown
+704,GSE65474,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE65474&format=file,GSE65474_RAW.tar,960.0 Kb,"TAR (of BED, TXT)",unknown
+705,GSE65515,null,null,null,null,unknown
+706,GSE65518,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE65518&format=file&file=GSE65518%5FallSamples%5FRNASeq%5FRSEM%5FTPM%2Etsv%2Egz,GSE65518_allSamples_RNASeq_RSEM_TPM.tsv.gz,908.4 Kb,TSV,unknown
+707,GSE65520,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE65520&format=file,GSE65520_RAW.tar,253.6 Mb,"TAR (of BED, BROADPEAK, NARROWPEAK)",unknown
+708,GSE65545,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE65545&format=file&file=GSE65545%5FAll%5FFPKMs%5FNORMALIZED%5FBY%5FSPIKES%2Ecsv%2Egz,GSE65545_All_FPKMs_NORMALIZED_BY_SPIKES.csv.gz,2.1 Mb,CSV,unknown
+709,GSE65546,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE65546&format=file,GSE65546_RAW.tar,80.1 Mb,"TAR (of BED, WIG)",unknown
+710,GSE65621,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE65621&format=file,GSE65621_RAW.tar,114.6 Mb,TAR (of BW),unknown
+711,GSE65634,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE65634&format=file&file=GSE65634%5Fall%2Egene%2Erpkm%2Egz,GSE65634_all.gene.rpkm.gz,7.7 Mb,RPKM,unknown
+712,GSE65885,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE65885&format=file,GSE65885_RAW.tar,8.7 Mb,TAR (of TXT),unknown
+713,GSE65991,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE65991&format=file&file=GSE65991%5FAll%5FProcessed%5FData%2Etxt%2Egz,GSE65991_All_Processed_Data.txt.gz,1.7 Mb,TXT,unknown
+714,GSE66053,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE66053&format=file,GSE66053_RAW.tar,190.0 Kb,TAR (of TXT),unknown
+715,GSE66306,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE66306&format=file&file=GSE66306%5FPM%5Fprocessed%5Fcounts%2Etxt%2Egz,GSE66306_PM_processed_counts.txt.gz,3.3 Mb,TXT,unknown
+716,GSE66357,null,null,null,null,unknown
+717,GSE66763,null,null,null,null,unknown
+718,GSE66798,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE66798&format=file,GSE66798_RAW.tar,1.9 Gb,TAR (of BW),unknown
+719,GSE66809,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE66809&format=file&file=GSE66809%5FIFNg%5Fvs%5FMock%5FRPF%5FRNAseq%5FCount%2Exlsx%2Egz,GSE66809_IFNg_vs_Mock_RPF_RNAseq_Count.xlsx.gz,1.2 Mb,XLSX,unknown
+720,GSE66810,null,null,null,null,unknown
+721,GSE66895,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE66895&format=file,GSE66895_RAW.tar,675.9 Mb,"TAR (of BEDGRAPH, TXT)",unknown
+722,GSE66898,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE66898&format=file,GSE66898_RAW.tar,675.9 Mb,"TAR (of BEDGRAPH, TXT)",unknown
+723,GSE67141,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE67141&format=file&file=GSE67141%5FCont%2Eisoform%5Fexp%5Fall%5Frpkm%5Fcontrol%5FPg381%2Etxt%2Egz,GSE67141_Cont.isoform_exp_all_rpkm_control_Pg381.txt.gz,1.3 Mb,TXT,unknown
+724,GSE67184,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE67184&format=file&file=GSE67184%5FMalaria%5FChallenge%5FSNM%5FNormalized%2Exls%2Egz,GSE67184_Malaria_Challenge_SNM_Normalized.xls.gz,1.5 Mb,XLS,unknown
+725,GSE67250,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE67250&format=file,GSE67250_RAW.tar,945.2 Mb,TAR (of TXT),unknown
+726,GSE67427,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE67427&format=file&file=GSE67427%5Ftable%2Ds1%2Etxt%2Egz,GSE67427_table-s1.txt.gz,15.4 Mb,TXT,unknown
+727,GSE67470,null,null,null,null,unknown
+728,GSE67659,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE67659&format=file&file=GSE67659%5FTPM%5Fall%2Ecsv%2Etar%2Egz,GSE67659_TPM_all.csv.tar.gz,3.8 Mb,TAR,unknown
+729,GSE67685,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE67685&format=file,GSE67685_RAW.tar,6.1 Mb,TAR (of FPKM_TRACKING),unknown
+730,GSE67770,null,null,null,null,unknown
+731,GSE67835,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE67835&format=file,GSE67835_RAW.tar,30.7 Mb,TAR (of CSV),unknown
+732,GSE68180,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE68180&format=file&file=GSE68180%5FProcessed%5Fdata%5Ffiles%2Exlsx%2Egz,GSE68180_Processed_data_files.xlsx.gz,3.5 Mb,XLSX,unknown
+733,GSE68234,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE68234&format=file,GSE68234_RAW.tar,10.7 Mb,TAR (of TXT),unknown
+734,GSE68327,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE68327&format=file&file=GSE68327%5FAll%5FGenes%5FFPKM%2Etxt%2Egz,GSE68327_All_Genes_FPKM.txt.gz,1.1 Mb,TXT,unknown
+735,GSE68452,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE68452&format=file&file=GSE68452%5FDGE%5Fresults%5F23Apr2015%5Fcoded%2Etxt%2Egz,GSE68452_DGE_results_23Apr2015_coded.txt.gz,240.8 Kb,TXT,unknown
+736,GSE68535,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE68535&format=file&file=GSE68535%5FGeneExression%5FRPKM%2Etxt%2Egz,GSE68535_GeneExression_RPKM.txt.gz,6.6 Mb,TXT,unknown
+737,GSE68795,null,null,null,null,unknown
+738,GSE68836,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE68836&format=file,GSE68836_RAW.tar,2.6 Mb,TAR (of TXT),unknown
+739,GSE68847,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE68847&format=file,GSE68847_RAW.tar,15.1 Mb,"TAR (of BED, TXT)",unknown
+740,GSE68938,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE68938&format=file,GSE68938_RAW.tar,1.5 Mb,TAR (of TXT),unknown
+741,GSE68953,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE68953&format=file,GSE68953_RAW.tar,1.5 Mb,TAR (of TXT),unknown
+742,GSE69110,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE69110&format=file&file=GSE69110%5Fd2GFP%5Fvs%5Fd2Sox9OE%2Edeseq%2Ecounts%2Ecsv%2Egz,GSE69110_d2GFP_vs_d2Sox9OE.deseq.counts.csv.gz,268.0 Kb,CSV,unknown
+743,GSE69111,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE69111&format=file,GSE69111_RAW.tar,25.4 Mb,TAR (of CEL),unknown
+744,GSE69292,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE69292&format=file&file=GSE69292%5Fall%5Fgenes%5Fsmartseq2%2Efpkm%5Ftracking%2Egz,GSE69292_all_genes_smartseq2.fpkm_tracking.gz,1.6 Mb,FPKM_TRACKING,unknown
+745,GSE69351,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE69351&format=file&file=GSE69351%5Fall%5Fgenes%5Frefseq%5F3DGE%2EUMI%5Fcounts%2Etxt%2Egz,GSE69351_all_genes_refseq_3DGE.UMI_counts.txt.gz,1.5 Mb,TXT,unknown
+746,GSE69446,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE69446&format=file,GSE69446_RAW.tar,1.7 Gb,TAR (of BW),unknown
+747,GSE69549,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE69549&format=file,GSE69549_RAW.tar,6.9 Mb,TAR (of TXT),unknown
+748,GSE69596,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE69596&format=file&file=GSE69596%5FILC1rawCounts%2Ecsv%2Egz,GSE69596_ILC1rawCounts.csv.gz,277.0 Kb,CSV,unknown
+749,GSE69735,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE69735&format=file&file=GSE69735%5FVariant%5Fanalysis%5Fduplicates%5Fremoved%2Etxt%2Egz,GSE69735_Variant_analysis_duplicates_removed.txt.gz,3.5 Mb,TXT,unknown
+750,GSE69737,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE69737&format=file&file=GSE69737%5Fgenes%5FRPKMs%2Ecsv%2Egz,GSE69737_genes_RPKMs.csv.gz,150.6 Kb,CSV,unknown
+751,GSE69797,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE69797&format=file,GSE69797_RAW.tar,5.5 Mb,TAR (of TXT),unknown
+752,GSE69906,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE69906&format=file,GSE69906_RAW.tar,368.6 Mb,TAR (of TXT),unknown
+753,GSE70068,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE70068&format=file&file=GSE70068%5FUT%5Fgenes%2Efpkm%5Ftracking%2Egz,GSE70068_UT_genes.fpkm_tracking.gz,933.7 Kb,FPKM_TRACKING,unknown
+754,GSE70330,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE70330&format=file&file=GSE70330%5FrawCountsLncipedia%2Etxt%2Egz,GSE70330_rawCountsLncipedia.txt.gz,116.4 Kb,TXT,unknown
+755,GSE70390,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE70390&format=file&file=GSE70390%5Fgranulocyte%5Fdenovo%5FmRNA%5Floci%5FRPKM%5Ftotal%5Fgra%5F7donorsx3replicates%2Exls%2Egz,GSE70390_granulocyte_denovo_mRNA_loci_RPKM_total_gra_7donorsx3replicates.xls.gz,559.3 Kb,XLS,unknown
+756,GSE70580,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE70580&format=file,GSE70580_RAW.tar,744.2 Mb,TAR (of TXT),unknown
+757,GSE70620,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE70620&format=file&file=GSE70620%5FRNA%2Dseq%5Flog2%5FFPKM%2Etxt%2Egz,GSE70620_RNA-seq_log2_FPKM.txt.gz,228.7 Kb,TXT,unknown
+758,GSE70668,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE70668&format=file&file=GSE70668%5FDD%5FFPKM%5FMatrix%2Ecsv%2Egz,GSE70668_DD_FPKM_Matrix.csv.gz,1.2 Mb,CSV,unknown
+759,GSE70709,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE70709&format=file,GSE70709_RAW.tar,5.1 Gb,"TAR (of CEL, TDF, WIG)",unknown
+760,GSE70785,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE70785&format=file&file=GSE70785%5Fgene%5Fexp%2Ediff%2Egz,GSE70785_gene_exp.diff.gz,1.5 Mb,DIFF,unknown
+761,GSE70830,null,null,null,null,unknown
+762,GSE71164,null,null,null,null,unknown
+763,GSE71203,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE71203&format=file,GSE71203_RAW.tar,1.3 Mb,TAR (of TXT),unknown
+764,GSE71216,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE71216&format=file&file=GSE71216%5FGENE%5FFPKM%5Fmatrix%2Etxt%2Egz,GSE71216_GENE_FPKM_matrix.txt.gz,337.7 Kb,TXT,unknown
+765,GSE71382,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE71382&format=file&file=GSE71382%5FProcessedData%2Exlsx,GSE71382_ProcessedData.xlsx,3.6 Mb,XLSX,unknown
+766,GSE71536,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE71536&format=file,GSE71536_RAW.tar,2.0 Mb,TAR (of TXT),unknown
+767,GSE71595,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE71595&format=file,GSE71595_RAW.tar,7.0 Mb,TAR (of TXT),unknown
+768,GSE71597,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE71597&format=file,GSE71597_RAW.tar,2.2 Gb,"TAR (of BW, TXT)",unknown
+769,GSE71689,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE71689&format=file,GSE71689_RAW.tar,1.7 Mb,TAR (of TXT),unknown
+770,GSE71709,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE71709&format=file&file=GSE71709%5Fexp%5FMoon%5FAgarwal%5FJul%5F31%5F2015%2Exls%2Egz,GSE71709_exp_Moon_Agarwal_Jul_31_2015.xls.gz,1.5 Mb,XLS,unknown
+771,GSE71911,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE71911&format=file,GSE71911_RAW.tar,9.7 Gb,"TAR (of TDF, WIG)",unknown
+772,GSE72061,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE72061&format=file,GSE72061_RAW.tar,1.2 Mb,TAR (of TXT),unknown
+773,GSE72400,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE72400&format=file,GSE72400_RAW.tar,25.8 Mb,TAR (of TXT),unknown
+774,GSE72420,null,null,null,null,unknown
+775,GSE72501,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE72501&format=file&file=GSE72501%5FGM12878submission%5FRPKMs%2Exls%2Egz,GSE72501_GM12878submission_RPKMs.xls.gz,4.4 Mb,XLS,unknown
+776,GSE72589,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE72589&format=file&file=GSE72589%5FRNAseq%5Fraw%5Fdata%5FXLPDR%5F%5Ftotal%2Exlsx,GSE72589_RNAseq_raw_data_XLPDR__total.xlsx,104.1 Mb,XLSX,unknown
+777,GSE72713,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE72713&format=file&file=GSE72713%5FRNA%2Dseq%5Fprocessed%5Fdata%2Etxt%2Egz,GSE72713_RNA-seq_processed_data.txt.gz,2.3 Mb,TXT,unknown
+778,GSE72821,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE72821&format=file&file=GSE72821%5FmRNA%5Fread%5Fcounts%2Exls%2Egz,GSE72821_mRNA_read_counts.xls.gz,1.1 Mb,XLS,unknown
+779,GSE72822,null,null,null,null,unknown
+780,GSE73211,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE73211&format=file&file=GSE73211%5Fnonisogenic%2ETPM%2Etxt%2Egz,GSE73211_nonisogenic.TPM.txt.gz,3.3 Mb,TXT,unknown
+781,GSE73277,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE73277&format=file&file=GSE73277%5Fexpression%5Fmatrix%2Etxt%2Egz,GSE73277_expression_matrix.txt.gz,742.2 Kb,TXT,unknown
+782,GSE73313,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE73313&format=file,GSE73313_RAW.tar,7.9 Mb,TAR (of TXT),unknown
+783,GSE73362,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE73362&format=file&file=GSE73362%5FSupTable%5Fhuman%5FSCNT%5F8Cell%5Fgenes%5Ffpkm%5F140720%2Etxt%2Egz,GSE73362_SupTable_human_SCNT_8Cell_genes_fpkm_140720.txt.gz,355.0 Kb,TXT,unknown
+784,GSE73471,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE73471&format=file&file=GSE73471%5FRPKM%5Fintron69%2Etxt%2Egz,GSE73471_RPKM_intron69.txt.gz,18.2 Mb,TXT,unknown
+785,GSE73502,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE73502&format=file,GSE73502_RAW.tar,150.3 Mb,TAR (of TXT),unknown
+786,GSE73527,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE73527&format=file&file=GSE73527%5FBC%5FRNA%5Fseq%2Exlsx,GSE73527_BC_RNA_seq.xlsx,4.3 Mb,XLSX,unknown
+787,GSE73721,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE73721&format=file&file=GSE73721%5FHuman%5Fand%5Fmouse%5Ftable%2Ecsv%2Egz,GSE73721_Human_and_mouse_table.csv.gz,643.4 Kb,CSV,unknown
+788,GSE73765,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE73765&format=file,GSE73765_RAW.tar,150.6 Mb,TAR (of TXT),unknown
+789,GSE73853,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE73853&format=file,GSE73853_RAW.tar,9.9 Gb,"TAR (of BED, BW)",unknown
+790,GSE73887,null,null,null,null,unknown
+791,GSE73929,null,null,null,null,unknown
+792,GSE73936,null,null,null,null,unknown
+793,GSE73986,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE73986&format=file,GSE73986_RAW.tar,1.4 Mb,TAR (of TXT),unknown
+794,GSE74029,null,null,null,null,unknown
+795,GSE74041,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE74041&format=file,GSE74041_RAW.tar,990.0 Kb,TAR (of TXT),unknown
+796,GSE74235,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE74235&format=file,GSE74235_RAW.tar,2.5 Mb,TAR (of TXT),unknown
+797,GSE74279,null,null,null,null,unknown
+798,GSE74322,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE74322&format=file&file=GSE74322%5F2015%2E02%2E24%2EHMVEC%5FLYvsHMVEC%5FBL%2Etxt%2Egz,GSE74322_2015.02.24.HMVEC_LYvsHMVEC_BL.txt.gz,3.0 Mb,TXT,unknown
+799,GSE74324,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE74324&format=file&file=GSE74324%5FALL%5Fsamples%5Frpkm%2Etxt%2Egz,GSE74324_ALL_samples_rpkm.txt.gz,8.2 Mb,TXT,unknown
+800,GSE74328,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE74328&format=file,GSE74328_RAW.tar,3.5 Gb,TAR (of BIGWIG),unknown
+801,GSE74339,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE74339&format=file&file=GSE74339%5FFrancis%5Fand%5FMilford%5Fet%5Fal%5FCRLF2%5FRNASeq%5Fmatrix%2Exlsx%2Egz,GSE74339_Francis_and_Milford_et_al_CRLF2_RNASeq_matrix.xlsx.gz,1.6 Mb,XLSX,unknown
+802,GSE74369,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE74369&format=file&file=GSE74369%5FCOMPLETE%5FRAW%5FFPKM%5FTABLE%2Exlsx,GSE74369_COMPLETE_RAW_FPKM_TABLE.xlsx,7.6 Mb,XLSX,unknown
+803,GSE74508,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE74508&format=file,GSE74508_RAW.tar,2.3 Mb,TAR (of TXT),unknown
+804,GSE74924,null,null,null,null,unknown
+805,GSE74974,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE74974&format=file&file=GSE74974%5FFPKM%5Fcont%5F24h%5F72h%2Etxt%2Egz,GSE74974_FPKM_cont_24h_72h.txt.gz,527.9 Kb,TXT,unknown
+806,GSE74977,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE74977&format=file,GSE74977_RAW.tar,3.1 Gb,TAR (of TDF),unknown
+807,GSE75011,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE75011&format=file&file=GSE75011%5FRaw%5Fcounts%2Etsv%2Egz,GSE75011_Raw_counts.tsv.gz,1.7 Mb,TSV,unknown
+808,GSE75042,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE75042&format=file&file=GSE75042%5Fprocessed%5FRNAseq%5Fdata%2Exls%2Egz,GSE75042_processed_RNAseq_data.xls.gz,1.4 Mb,XLS,unknown
+809,GSE75130,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE75130&format=file&file=GSE75130%5FGeneDiffExp%5Ffiles%2Etxt%2Etar%2Egz,GSE75130_GeneDiffExp_files.txt.tar.gz,14.0 Mb,TAR,unknown
+810,GSE75364,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE75364&format=file,GSE75364_RAW.tar,1.2 Gb,"TAR (of BW, TXT)",unknown
+811,GSE75643,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE75643&format=file&file=GSE75643%5Freadcounts%2Etxt%2Egz,GSE75643_readcounts.txt.gz,1.7 Mb,TXT,unknown
+812,GSE75659,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE75659&format=file,GSE75659_RAW.tar,1.2 Gb,TAR (of TXT),unknown
+813,GSE75885,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE75885&format=file&file=GSE75885%5FExpression%5F117%5Fsarcomas%2Etsv%2Egz,GSE75885_Expression_117_sarcomas.tsv.gz,14.7 Mb,TSV,unknown
+814,GSE75935,null,null,null,null,unknown
+815,GSE75990,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE75990&format=file&file=GSE75990%5FTPM%5FGEO%2Etxt%2Egz,GSE75990_TPM_GEO.txt.gz,976.1 Kb,TXT,unknown
+816,GSE76125,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE76125&format=file&file=GSE76125%5FFPKM%5FMatrix%2Ecsv%2Egz,GSE76125_FPKM_Matrix.csv.gz,2.5 Mb,CSV,unknown
+817,GSE76270,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE76270&format=file,GSE76270_RAW.tar,10.2 Gb,"TAR (of BED, BEDGRAPH)",unknown
+818,GSE76381,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE76381&format=file&file=GSE76381%5FiPSMoleculeCounts%2Ecef%2Etxt%2Egz,GSE76381_iPSMoleculeCounts.cef.txt.gz,1001.2 Kb,TXT,unknown
+819,GSE76425,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE76425&format=file,GSE76425_RAW.tar,52.0 Mb,TAR (of TXT),unknown
+820,GSE76445,null,null,null,null,unknown
+821,GSE76572,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE76572&format=file,GSE76572_RAW.tar,22.2 Mb,TAR (of FPKM_TRACKING),unknown
+822,GSE76605,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE76605&format=file,GSE76605_RAW.tar,184.3 Mb,TAR (of PAIR),unknown
+823,GSE76663,null,null,null,null,unknown
+824,GSE76743,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE76743&format=file&file=GSE76743%5FHUVEC%5FHYPOXIA%5FRaw%5FCounts%2Etxt%2Egz,GSE76743_HUVEC_HYPOXIA_Raw_Counts.txt.gz,561.9 Kb,TXT,unknown
+825,GSE76878,null,null,null,null,unknown
+826,GSE77108,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE77108&format=file&file=GSE77108%5Fcount%5Fmatrix%2Etxt%2Egz,GSE77108_count_matrix.txt.gz,804.2 Kb,TXT,unknown
+827,GSE77129,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE77129&format=file&file=GSE77129%5Ffpkm%2Etxt%2Egz,GSE77129_fpkm.txt.gz,1.9 Mb,TXT,unknown
+828,GSE77131,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE77131&format=file&file=GSE77131%5Fsailfish%5FtranscriptTPM%2Ecsv%2Egz,GSE77131_sailfish_transcriptTPM.csv.gz,2.3 Mb,CSV,unknown
+829,GSE77136,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE77136&format=file,GSE77136_RAW.tar,355.6 Mb,TAR (of IDAT),unknown
+830,GSE77370,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE77370&format=file&file=GSE77370%5Frace%2ERPKM%5Fmatrix%2Ecsv%2Egz,GSE77370_race.RPKM_matrix.csv.gz,5.5 Mb,CSV,unknown
+831,GSE77371,null,null,null,null,unknown
+832,GSE77443,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE77443&format=file&file=GSE77443%5FFPKM%5FHF%5FDay5%2Etxt%2Egz,GSE77443_FPKM_HF_Day5.txt.gz,707.3 Kb,TXT,unknown
+833,GSE77522,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE77522&format=file&file=GSE77522%5Fcount%5Fmatrix%2Etxt%2Egz,GSE77522_count_matrix.txt.gz,827.4 Kb,TXT,unknown
+834,GSE77523,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE77523&format=file&file=GSE77523%5Fraw%2Dread%2Dcounts%2Etxt%2Egz,GSE77523_raw-read-counts.txt.gz,266.1 Kb,TXT,unknown
+835,GSE77524,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE77524&format=file,GSE77524_RAW.tar,1.2 Gb,TAR (of BW),unknown
+836,GSE77597,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE77597&format=file,GSE77597_RAW.tar,5.0 Mb,TAR (of TXT),unknown
+837,GSE77598,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE77598&format=file&file=GSE77598%5FBinder%5FMertk%5FRnaseq%2Etxt%2Egz,GSE77598_Binder_Mertk_Rnaseq.txt.gz,3.5 Mb,TXT,unknown
+838,GSE77649,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE77649&format=file,GSE77649_RAW.tar,490.0 Kb,TAR (of TXT),unknown
+839,GSE77675,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE77675&format=file&file=GSE77675%5FOld%5Fvs%5FYoung%5Fisoforms%5Fexpression%2Etxt%2Egz,GSE77675_Old_vs_Young_isoforms_expression.txt.gz,17.3 Mb,TXT,unknown
+840,GSE77742,null,null,null,null,unknown
+841,GSE77808,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE77808&format=file&file=GSE77808%5FdataCount%2Ecsv%2Egz,GSE77808_dataCount.csv.gz,870.5 Kb,CSV,unknown
+842,GSE78081,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78081&format=file&file=GSE78081%5Ffpkm%2Ecsv%2Egz,GSE78081_fpkm.csv.gz,1.6 Mb,CSV,unknown
+843,GSE78138,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78138&format=file,GSE78138_RAW.tar,61.5 Mb,TAR (of BW),unknown
+844,GSE78142,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78142&format=file,GSE78142_RAW.tar,1.1 Gb,TAR (of BW),unknown
+845,GSE78220,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78220&format=file&file=GSE78220%5FPatientFPKM%2Exlsx,GSE78220_PatientFPKM.xlsx,6.8 Mb,XLSX,unknown
+846,GSE78236,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78236&format=file&file=GSE78236%5FHCCcomparison%2EFPKMvalue%2Etxt%2Egz,GSE78236_HCCcomparison.FPKMvalue.txt.gz,1.4 Mb,TXT,unknown
+847,GSE78275,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78275&format=file,GSE78275_RAW.tar,2.4 Mb,TAR (of TXT),unknown
+848,GSE78276,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78276&format=file&file=GSE78276%5FAll%5FRPKM%2Exlsx,GSE78276_All_RPKM.xlsx,3.2 Mb,XLSX,unknown
+849,GSE78324,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78324&format=file,GSE78324_RAW.tar,269.9 Mb,"TAR (of BIGWIG, TSV, TXT)",unknown
+850,GSE78379,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78379&format=file,GSE78379_RAW.tar,2.0 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+851,GSE78395,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78395&format=file,GSE78395_RAW.tar,420.0 Mb,"TAR (of BIGWIG, TSV, TXT)",unknown
+852,GSE78438,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78438&format=file,GSE78438_RAW.tar,327.4 Mb,"TAR (of BIGWIG, TSV, TXT)",unknown
+853,GSE78446,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78446&format=file,GSE78446_RAW.tar,305.6 Mb,"TAR (of BIGWIG, TSV, TXT)",unknown
+854,GSE78476,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78476&format=file,GSE78476_RAW.tar,378.0 Mb,"TAR (of BIGWIG, TSV, TXT)",unknown
+855,GSE78529,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78529&format=file,GSE78529_RAW.tar,5.7 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+856,GSE78533,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78533&format=file,GSE78533_RAW.tar,6.4 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+857,GSE78536,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78536&format=file,GSE78536_RAW.tar,4.2 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+858,GSE78537,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78537&format=file,GSE78537_RAW.tar,5.4 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+859,GSE78538,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78538&format=file,GSE78538_RAW.tar,5.3 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+860,GSE78540,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78540&format=file,GSE78540_RAW.tar,5.5 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+861,GSE78542,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78542&format=file,GSE78542_RAW.tar,6.0 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+862,GSE78543,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78543&format=file,GSE78543_RAW.tar,4.6 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+863,GSE78585,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78585&format=file,GSE78585_RAW.tar,3.5 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+864,GSE78588,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78588&format=file,GSE78588_RAW.tar,3.5 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+865,GSE78589,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78589&format=file,GSE78589_RAW.tar,2.5 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+866,GSE78590,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78590&format=file,GSE78590_RAW.tar,7.4 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+867,GSE78595,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78595&format=file,GSE78595_RAW.tar,3.2 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+868,GSE78598,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78598&format=file,GSE78598_RAW.tar,577.1 Mb,"TAR (of BIGWIG, TSV, TXT)",unknown
+869,GSE78599,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78599&format=file,GSE78599_RAW.tar,3.9 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+870,GSE78600,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78600&format=file,GSE78600_RAW.tar,3.9 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+871,GSE78601,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78601&format=file,GSE78601_RAW.tar,8.7 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+872,GSE78603,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78603&format=file,GSE78603_RAW.tar,4.2 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+873,GSE78609,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78609&format=file,GSE78609_RAW.tar,5.3 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+874,GSE78610,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78610&format=file,GSE78610_RAW.tar,7.1 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+875,GSE78612,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78612&format=file,GSE78612_RAW.tar,5.3 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+876,GSE78613,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78613&format=file,GSE78613_RAW.tar,8.3 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+877,GSE78614,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78614&format=file,GSE78614_RAW.tar,6.0 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+878,GSE78621,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78621&format=file,GSE78621_RAW.tar,3.2 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+879,GSE78626,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78626&format=file,GSE78626_RAW.tar,1.1 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+880,GSE78642,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78642&format=file,GSE78642_RAW.tar,2.6 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+881,GSE78645,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78645&format=file,GSE78645_RAW.tar,1.8 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+882,GSE78660,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78660&format=file,GSE78660_RAW.tar,1.8 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+883,GSE78670,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78670&format=file,GSE78670_RAW.tar,1.4 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+884,GSE78671,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78671&format=file,GSE78671_RAW.tar,1.8 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+885,GSE78680,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78680&format=file,GSE78680_RAW.tar,969.1 Mb,"TAR (of BIGWIG, TSV, TXT)",unknown
+886,GSE78682,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78682&format=file,GSE78682_RAW.tar,3.8 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+887,GSE78922,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78922&format=file&file=GSE78922%5FIL6%5FCD4%5FT1D%5FrawCounts%2Ecsv%2Egz,GSE78922_IL6_CD4_T1D_rawCounts.csv.gz,657.8 Kb,CSV,unknown
+888,GSE78925,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78925&format=file&file=GSE78925%5FRSEM%2ETPM%2Etxt%2Egz,GSE78925_RSEM.TPM.txt.gz,217.8 Kb,TXT,unknown
+889,GSE78930,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78930&format=file,GSE78930_RAW.tar,1.6 Mb,TAR (of TXT),unknown
+890,GSE78932,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE78932&format=file,GSE78932_RAW.tar,52.4 Mb,"TAR (of CEL, TXT)",unknown
+891,GSE79027,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE79027&format=file,GSE79027_RAW.tar,2.3 Mb,TAR (of TXT),unknown
+892,GSE79120,null,null,null,null,unknown
+893,GSE79160,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE79160&format=file&file=GSE79160%5Fgenes%2Efpkm%5Ftracking%2Egz,GSE79160_genes.fpkm_tracking.gz,975.2 Kb,FPKM_TRACKING,unknown
+894,GSE79253,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE79253&format=file&file=GSE79253%5Fprimary%5FT%5Fall%5Ffpkm%5Fexprs%5Fnorm%2Etxt%2Egz,GSE79253_primary_T_all_fpkm_exprs_norm.txt.gz,1.5 Mb,TXT,unknown
+895,GSE79272,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE79272&format=file,GSE79272_RAW.tar,5.9 Mb,TAR (of TXT),unknown
+896,GSE79290,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE79290&format=file,GSE79290_RAW.tar,1.7 Gb,"TAR (of BEDGRAPH, WIG)",unknown
+897,GSE79306,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE79306&format=file&file=GSE79306%5FRPKM%5FSingleCell%2Etxt%2Egz,GSE79306_RPKM_SingleCell.txt.gz,4.4 Mb,TXT,unknown
+898,GSE79469,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE79469&format=file,GSE79469_RAW.tar,1.0 Mb,TAR (of TXT),unknown
+899,GSE79470,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE79470&format=file&file=GSE79470%5Fprocessed%5Ffpkm%2Etxt%2Egz,GSE79470_processed_fpkm.txt.gz,1.3 Mb,TXT,unknown
+900,GSE79544,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE79544&format=file,GSE79544_RAW.tar,9.2 Mb,TAR (of TXT),unknown
+901,GSE79552,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE79552&format=file,GSE79552_RAW.tar,10.1 Gb,TAR (of BW),unknown
+902,GSE79613,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE79613&format=file&file=GSE79613%5FRNA%2Dseq%5Fraw%5Fread%5Fcounts%2Etxt%2Egz,GSE79613_RNA-seq_raw_read_counts.txt.gz,515.0 Kb,TXT,unknown
+903,GSE79684,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE79684&format=file&file=GSE79684%5FGEO%5Fvalue%5FMD901%2EshCREBBP%5FRNAseq%2Exlsx,GSE79684_GEO_value_MD901.shCREBBP_RNAseq.xlsx,3.3 Mb,XLSX,unknown
+904,GSE79686,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE79686&format=file,GSE79686_RAW.tar,6.3 Gb,"TAR (of BIGBED, BW)",unknown
+905,GSE79833,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE79833&format=file,GSE79833_RAW.tar,1.2 Mb,TAR (of TXT),unknown
+906,GSE79842,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE79842&format=file&file=GSE79842%5FHTSeq%5Fin%5Flym%5Fcounts%2Etxt%2Egz,GSE79842_HTSeq_in_lym_counts.txt.gz,461.6 Kb,TXT,unknown
+907,GSE79879,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE79879&format=file&file=GSE79879%5Fprocessed%5Fdata%2Exls%2Egz,GSE79879_processed_data.xls.gz,9.3 Mb,XLS,unknown
+908,GSE79888,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE79888&format=file&file=GSE79888%5FGEO%5Fvalue%5FGCB%2EDLBCL%5FRNAseq%2Exlsx,GSE79888_GEO_value_GCB.DLBCL_RNAseq.xlsx,6.2 Mb,XLSX,unknown
+909,GSE79968,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE79968&format=file,GSE79968_RAW.tar,60.0 Mb,TAR (of TXT),unknown
+910,GSE80062,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE80062&format=file&file=GSE80062%5FAll%5Fsamples%5FFPKM%5Ffilter%2Etxt%2Egz,GSE80062_All_samples_FPKM_filter.txt.gz,53.5 Kb,TXT,unknown
+911,GSE80072,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE80072&format=file&file=GSE80072%5FRA%5Fjoint%2Dspecific%5FRNAseq%5Fprocessed%5Fmatrix%2Etxt%2Egz,GSE80072_RA_joint-specific_RNAseq_processed_matrix.txt.gz,1.7 Mb,TXT,unknown
+912,GSE80095,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE80095&format=file,GSE80095_RAW.tar,74.7 Mb,TAR (of GTF),unknown
+913,GSE80212,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE80212&format=file&file=GSE80212%5Fnorm%5Flog%5Ftpm%2Ecsv%2Egz,GSE80212_norm_log_tpm.csv.gz,8.4 Mb,CSV,unknown
+914,GSE80282,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE80282&format=file,GSE80282_RAW.tar,32.3 Mb,TAR (of TXT),unknown
+915,GSE80325,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE80325&format=file,GSE80325_RAW.tar,26.2 Mb,TAR,unknown
+916,GSE80333,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE80333&format=file&file=GSE80333%5Ffibroblast%5FRNA%2DSeq%5Fcounts%5Ftable%2Etsv%2Egz,GSE80333_fibroblast_RNA-Seq_counts_table.tsv.gz,415.8 Kb,TSV,unknown
+917,GSE80338,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE80338&format=file,GSE80338_RAW.tar,5.9 Mb,TAR (of TXT),unknown
+918,GSE80361,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE80361&format=file,GSE80361_RAW.tar,2.6 Mb,TAR (of TXT),unknown
+919,GSE80442,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE80442&format=file&file=GSE80442%5FGenesRPKM%2Etxt%2Egz,GSE80442_GenesRPKM.txt.gz,1.3 Mb,TXT,unknown
+920,GSE80714,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE80714&format=file&file=GSE80714%5FFPKM%5Ffrom%5Fall%5Fsamples%5FBefore%5F%2Exlsx,GSE80714_FPKM_from_all_samples_Before_.xlsx,2.2 Mb,XLSX,unknown
+921,GSE80727,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE80727&format=file&file=GSE80727%5Fh3k27ac%5Fcounts%5FforGEO%2Etxt%2Egz,GSE80727_h3k27ac_counts_forGEO.txt.gz,575.7 Kb,TXT,unknown
+922,GSE80953,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE80953&format=file,GSE80953_RAW.tar,5.1 Mb,TAR (of TXT),unknown
+923,GSE80988,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE80988&format=file&file=GSE80988%5Fprocessed%5Fdata%2Etxt%2Egz,GSE80988_processed_data.txt.gz,1.2 Mb,TXT,unknown
+924,GSE81025,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE81025&format=file,GSE81025_RAW.tar,470.4 Mb,"TAR (of CEL, CYCHP, IDAT)",unknown
+925,GSE81046,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE81046&format=file,GSE81046_RAW.tar,1.9 Gb,TAR (of TXT),unknown
+926,GSE81063,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE81063&format=file,GSE81063_RAW.tar,870.0 Kb,TAR (of TXT),unknown
+927,GSE81087,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE81087&format=file,GSE81087_RAW.tar,684.9 Mb,TAR (of TXT),unknown
+928,GSE81147,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE81147&format=file&file=GSE81147%5F4SURNASeqCPM%2Etxt%2Egz,GSE81147_4SURNASeqCPM.txt.gz,617.2 Kb,TXT,unknown
+929,GSE81148,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE81148&format=file&file=GSE81148%5FshRNASeqCPM%2Etxt%2Egz,GSE81148_shRNASeqCPM.txt.gz,993.6 Kb,TXT,unknown
+930,GSE81239,null,null,null,null,unknown
+931,GSE81252,null,null,null,null,unknown
+932,GSE81274,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE81274&format=file,GSE81274_RAW.tar,28.7 Gb,"TAR (of BIGWIG, NARROWPEAK)",unknown
+933,GSE81405,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE81405&format=file,GSE81405_RAW.tar,2.8 Mb,TAR (of TXT),unknown
+934,GSE81406,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE81406&format=file,GSE81406_RAW.tar,47.5 Mb,TAR (of TXT),unknown
+935,GSE81444,null,null,null,null,unknown
+936,GSE81585,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE81585&format=file,GSE81585_RAW.tar,1.1 Gb,TAR (of BW),unknown
+937,GSE81671,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE81671&format=file,GSE81671_RAW.tar,5.6 Mb,"TAR (of BED, FPKM_TRACKING)",unknown
+938,GSE81791,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE81791&format=file&file=GSE81791%5FRPKM%5Ftable%2Exlsx,GSE81791_RPKM_table.xlsx,4.7 Mb,XLSX,unknown
+939,GSE81794,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE81794&format=file,GSE81794_RAW.tar,2.0 Gb,"TAR (of IDAT, WIG)",unknown
+940,GSE81802,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE81802&format=file&file=GSE81802%5FM81%5Fviral%5Fgenes%5FRPKM%2Etxt%2Egz,GSE81802_M81_viral_genes_RPKM.txt.gz,3.4 Kb,TXT,unknown
+941,GSE81809,null,null,null,null,unknown
+942,GSE81810,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE81810&format=file,GSE81810_RAW.tar,3.3 Mb,TAR (of TXT),unknown
+943,GSE81982,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE81982&format=file,GSE81982_RAW.tar,1.9 Mb,TAR (of FPKM_TRACKING),unknown
+944,GSE81984,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE81984&format=file,GSE81984_RAW.tar,23.5 Mb,"TAR (of CEL, FPKM_TRACKING)",unknown
+945,GSE82227,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE82227&format=file&file=GSE82227%5Fcounts%5FDESeq%2Enormalized%2Ecsv%2Egz,GSE82227_counts_DESeq.normalized.csv.gz,4.9 Mb,CSV,unknown
+946,GSE83299,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE83299&format=file,GSE83299_RAW.tar,1.0 Mb,TAR (of TXT),unknown
+947,GSE83314,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE83314&format=file,GSE83314_RAW.tar,560.0 Kb,TAR (of TXT),unknown
+948,GSE83370,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE83370&format=file,GSE83370_RAW.tar,26.7 Mb,TAR (of TXT),unknown
+949,GSE83381,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE83381&format=file,GSE83381_RAW.tar,10.2 Mb,TAR (of TXT),unknown
+950,GSE83415,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE83415&format=file,GSE83415_RAW.tar,4.8 Mb,TAR (of TXT),unknown
+951,GSE83450,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE83450&format=file&file=GSE83450%5FRiboSpec%5FIFNgTNFaVsCNT%5FseperateDDS%5FfluidigmGenes%2Ecsv%2Egz,GSE83450_RiboSpec_IFNgTNFaVsCNT_seperateDDS_fluidigmGenes.csv.gz,5.7 Kb,CSV,unknown
+952,GSE83451,null,null,null,null,unknown
+953,GSE83482,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE83482&format=file&file=GSE83482%5FeMatrixS%2Etxt%2Egz,GSE83482_eMatrixS.txt.gz,5.7 Mb,TXT,unknown
+954,GSE83484,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE83484&format=file,GSE83484_RAW.tar,6.7 Mb,TAR (of TXT),unknown
+955,GSE83549,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE83549&format=file,GSE83549_RAW.tar,2.8 Mb,TAR (of TXT),unknown
+956,GSE83551,null,null,null,null,unknown
+957,GSE83601,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE83601&format=file&file=GSE83601%5FAll%5Fgenes%5Fin%5Fcontrols%5Fand%5FPTSD%2Etxt%2Egz,GSE83601_All_genes_in_controls_and_PTSD.txt.gz,1.6 Mb,TXT,unknown
+958,GSE83671,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE83671&format=file&file=GSE83671%5FEPZ5676%5Frpkm%2Etxt%2Egz,GSE83671_EPZ5676_rpkm.txt.gz,989.2 Kb,TXT,unknown
+959,GSE83694,null,null,null,null,unknown
+960,GSE83719,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE83719&format=file&file=GSE83719%5FRPKMvalues%2Etxt%2Egz,GSE83719_RPKMvalues.txt.gz,670.3 Kb,TXT,unknown
+961,GSE83724,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE83724&format=file,GSE83724_RAW.tar,7.9 Mb,TAR (of FPKM_TRACKING),unknown
+962,GSE83728,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE83728&format=file,GSE83728_RAW.tar,39.6 Mb,"TAR (of BED, BEDGRAPH, FPKM_TRACKING)",unknown
+963,GSE83763,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE83763&format=file,GSE83763_RAW.tar,3.0 Gb,TAR (of BIGWIG),unknown
+964,GSE83834,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE83834&format=file&file=GSE83834%5FGeneLevelFPKMmatrix%2Exlsx,GSE83834_GeneLevelFPKMmatrix.xlsx,8.3 Mb,XLSX,unknown
+965,GSE84013,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE84013&format=file,GSE84013_RAW.tar,5.1 Gb,TAR (of BW),unknown
+966,GSE84070,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE84070&format=file&file=GSE84070%5FNormCounts%2Etxt%2Egz,GSE84070_NormCounts.txt.gz,669.8 Kb,TXT,unknown
+967,GSE84188,null,null,null,null,unknown
+968,GSE84197,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE84197&format=file,GSE84197_RAW.tar,976.3 Mb,TAR (of BW),unknown
+969,GSE84203,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE84203&format=file,GSE84203_RAW.tar,1.6 Gb,"TAR (of BIGBED, BW)",unknown
+970,GSE84204,null,null,null,null,unknown
+971,GSE84237,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE84237&format=file&file=GSE84237%5F2014%2E11%2E04%2ETIME%5FKSHVvsTIME%5FMock%2Etxt%2Egz,GSE84237_2014.11.04.TIME_KSHVvsTIME_Mock.txt.gz,2.7 Mb,TXT,unknown
+972,GSE84385,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE84385&format=file&file=GSE84385%5FEC%5FModel%5FHuman%5FMay2015%5Fcounts%2Egct%2Egz,GSE84385_EC_Model_Human_May2015_counts.gct.gz,577.5 Kb,GCT,unknown
+973,GSE84465,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE84465&format=file,GSE84465_RAW.tar,237.7 Mb,TAR (of CSV),unknown
+974,GSE84678,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE84678&format=file,GSE84678_RAW.tar,1.2 Mb,TAR (of TXT),unknown
+975,GSE84686,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE84686&format=file&file=GSE84686%5Fconsolidated%5Fraw%5Fcounts%5Ffinal%2Etxt%2Egz,GSE84686_consolidated_raw_counts_final.txt.gz,625.5 Kb,TXT,unknown
+976,GSE84691,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE84691&format=file&file=GSE84691%5FRNAseq%5FFPKM%2Etxt%2Egz,GSE84691_RNAseq_FPKM.txt.gz,958.5 Kb,TXT,unknown
+977,GSE84692,null,null,null,null,unknown
+978,GSE84773,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE84773&format=file,GSE84773_RAW.tar,1.5 Mb,TAR (of TXT),unknown
+979,GSE84775,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE84775&format=file,GSE84775_RAW.tar,10.8 Mb,"TAR (of TXT, WIG)",unknown
+980,GSE84789,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE84789&format=file&file=GSE84789%5Ffcount%5Fprimary%5Foutput%2Etxt%2Egz,GSE84789_fcount_primary_output.txt.gz,4.6 Mb,TXT,unknown
+981,GSE84799,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE84799&format=file,GSE84799_RAW.tar,270.0 Kb,TAR (of RCC),unknown
+982,GSE84865,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE84865&format=file&file=GSE84865%5Fisoforms%5Fexpression%5Ftpm%2Etsv%2Egz,GSE84865_isoforms_expression_tpm.tsv.gz,2.0 Mb,TSV,unknown
+983,GSE84877,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE84877&format=file&file=GSE84877%5Fmatrix%2Etxt%2Egz,GSE84877_matrix.txt.gz,941.4 Kb,TXT,unknown
+984,GSE85037,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE85037&format=file&file=GSE85037%5FNormalized%2Ecpms%2Ecsv%2Egz,GSE85037_Normalized.cpms.csv.gz,641.0 Kb,CSV,unknown
+985,GSE85112,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE85112&format=file,GSE85112_RAW.tar,45.4 Mb,TAR (of TXT),unknown
+986,GSE85201,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE85201&format=file,GSE85201_RAW.tar,17.3 Gb,TAR (of BIGWIG),unknown
+987,GSE85223,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE85223&format=file,GSE85223_RAW.tar,7.4 Mb,TAR (of TXT),unknown
+988,GSE85263,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE85263&format=file&file=GSE85263%5FPvRAS%5FTMM%5FNormalized%2Exlsx,GSE85263_PvRAS_TMM_Normalized.xlsx,8.3 Mb,XLSX,unknown
+989,GSE85361,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE85361&format=file,GSE85361_RAW.tar,425.7 Mb,TAR (of TXT),unknown
+990,GSE85527,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE85527&format=file&file=GSE85527%5FAbATE%5Fsingle%5Fcell%5Fprofile%5Fraw%5Fcounts%2Etxt%2Egz,GSE85527_AbATE_single_cell_profile_raw_counts.txt.gz,1.8 Mb,TXT,unknown
+991,GSE85530,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE85530&format=file&file=GSE85530%5FAbATE%5FP54%5Fbulk%5Fraw%5Fcounts%2Etxt%2Egz,GSE85530_AbATE_P54_bulk_raw_counts.txt.gz,1.8 Mb,TXT,unknown
+992,GSE85534,null,null,null,null,unknown
+993,GSE85573,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE85573&format=file,GSE85573_RAW.tar,26.2 Mb,TAR,unknown
+994,GSE85606,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE85606&format=file&file=GSE85606%5FRNAseq%5Fprocessed%2Ecsv%2Egz,GSE85606_RNAseq_processed.csv.gz,493.2 Kb,CSV,unknown
+995,GSE85782,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE85782&format=file,GSE85782_RAW.tar,7.2 Mb,TAR (of TSV),unknown
+996,GSE85784,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE85784&format=file,GSE85784_RAW.tar,36.5 Mb,TAR (of TSV),unknown
+997,GSE85799,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE85799&format=file&file=GSE85799%5Fprocessed%5FrawCounts%5FJin031416%2Etxt%2Egz,GSE85799_processed_rawCounts_Jin031416.txt.gz,396.3 Kb,TXT,unknown
+998,GSE85908,null,null,null,null,unknown
+999,GSE85953,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE85953&format=file&file=GSE85953%5Fgene%5Ffpkm%2Etxt%2Egz,GSE85953_gene_fpkm.txt.gz,957.8 Kb,TXT,unknown
+1000,GSE85988,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE85988&format=file&file=GSE85988%5FEPZ5676%5Frpkm%2Etxt%2Egz,GSE85988_EPZ5676_rpkm.txt.gz,527.4 Kb,TXT,unknown
+1001,GSE86001,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE86001&format=file&file=GSE86001%5FNVS%2DSM1%5Frpkms%2Egct%2Egz,GSE86001_NVS-SM1_rpkms.gct.gz,377.4 Kb,GCT,unknown
+1002,GSE86237,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE86237&format=file&file=GSE86237%5Fgeo%5Fmatrix%2Etxt%2Egz,GSE86237_geo_matrix.txt.gz,1.3 Mb,TXT,unknown
+1003,GSE86244,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE86244&format=file&file=GSE86244%5FFINAL%5Fmaster%5Flist%5Fof%5Fgenes%5Fcounts%5FMIN%2ERNA%5FPooling%5FExperiment%5F29%5Fsamples%2EhighExp%2Etxt%2Egz,GSE86244_FINAL_master_list_of_genes_counts_MIN.RNA_Pooling_Experiment_29_samples.highExp.txt.gz,1.6 Mb,TXT,unknown
+1004,GSE86260,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE86260&format=file,GSE86260_RAW.tar,613.0 Mb,"TAR (of CEL, IDAT)",unknown
+1005,GSE86430,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE86430&format=file&file=GSE86430%5Fnormalized%5Fcounts%5FDESeq%5FREADME%2Etxt,GSE86430_normalized_counts_DESeq_README.txt,485 b,TXT,unknown
+1006,GSE86497,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE86497&format=file&file=GSE86497%5FCountTable%2Etxt%2Egz,GSE86497_CountTable.txt.gz,511.7 Kb,TXT,unknown
+1007,GSE86550,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE86550&format=file&file=GSE86550%5FallSamples%5FRNASeq%5FRSEM%5FTPM%2Etsv%2Egz,GSE86550_allSamples_RNASeq_RSEM_TPM.tsv.gz,1.1 Mb,TSV,unknown
+1008,GSE86577,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE86577&format=file&file=GSE86577%5Fprocessed%5Fresults%2Exlsx,GSE86577_processed_results.xlsx,6.8 Mb,XLSX,unknown
+1009,GSE86791,null,null,null,null,unknown
+1010,GSE86867,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE86867&format=file&file=GSE86867%5FWT%5Fquiescent%5F456%5Fvs%5FWT%5Fdividing%5F123%2Etxt%2Egz,GSE86867_WT_quiescent_456_vs_WT_dividing_123.txt.gz,2.0 Mb,TXT,unknown
+1011,GSE86926,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE86926&format=file,GSE86926_RAW.tar,8.4 Mb,TAR (of TXT),unknown
+1012,GSE86940,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE86940&format=file,GSE86940_RAW.tar,940.8 Mb,"TAR (of BW, TXT)",unknown
+1013,GSE87040,null,null,null,null,unknown
+1014,GSE87041,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE87041&format=file,GSE87041_RAW.tar,9.2 Gb,TAR (of BW),unknown
+1015,GSE87186,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE87186&format=file&file=GSE87186%5FAERAS%2EGeneCounts%2Etxt%2Egz,GSE87186_AERAS.GeneCounts.txt.gz,3.0 Mb,TXT,unknown
+1016,GSE87254,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE87254&format=file&file=GSE87254%5FHuman%5FCD4%5Fstim%5FRPKM%5FCount%5FFDR%5Fsignifcant%2Exls%2Egz,GSE87254_Human_CD4_stim_RPKM_Count_FDR_signifcant.xls.gz,626.8 Kb,XLS,unknown
+1017,GSE87290,null,null,null,null,unknown
+1018,GSE87360,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE87360&format=file&file=GSE87360%5FRawData%5FWilting1%2Exls%2Egz,GSE87360_RawData_Wilting1.xls.gz,1.7 Mb,XLS,unknown
+1019,GSE87392,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE87392&format=file,GSE87392_RAW.tar,940.0 Kb,TAR (of CSV),unknown
+1020,GSE87399,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE87399&format=file&file=GSE87399%5FRaw%5Fcounts%2Etxt%2Egz,GSE87399_Raw_counts.txt.gz,465.6 Kb,TXT,unknown
+1021,GSE87419,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE87419&format=file,GSE87419_RAW.tar,50.0 Mb,"TAR (of CSV, TXT, XLSX)",unknown
+1022,GSE87424,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE87424&format=file,GSE87424_RAW.tar,424.4 Mb,"TAR (of BED, CSV, IDAT, TXT, XLSX)",unknown
+1023,GSE87517,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE87517&format=file&file=GSE87517%5FHuh%5FGil%2Ddel%2DAlcazar%5FLeukocytes%5FRNA%2DSeq%5Fcounts%2Ecsv%2Egz,GSE87517_Huh_Gil-del-Alcazar_Leukocytes_RNA-Seq_counts.csv.gz,869.1 Kb,CSV,unknown
+1024,GSE87534,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE87534&format=file&file=GSE87534%5Fraw%5FB%5FJin022316%2Etxt%2Egz,GSE87534_raw_B_Jin022316.txt.gz,281.8 Kb,TXT,unknown
+1025,GSE87540,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE87540&format=file&file=GSE87540%5FS16041%5Fallres%2Exlsx,GSE87540_S16041_allres.xlsx,15.6 Mb,XLSX,unknown
+1026,GSE87554,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE87554&format=file&file=GSE87554%5Fraw%5Fsi%5FJin020216%2Etxt%2Egz,GSE87554_raw_si_Jin020216.txt.gz,278.3 Kb,TXT,unknown
+1027,GSE87563,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE87563&format=file,GSE87563_RAW.tar,1.7 Mb,TAR (of TXT),unknown
+1028,GSE87564,null,null,null,null,unknown
+1029,GSE87692,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE87692&format=file&file=GSE87692%5FPrimary%5FHsESF%5FTPMs%5F073015%2Etxt%2Egz,GSE87692_Primary_HsESF_TPMs_073015.txt.gz,1.5 Mb,TXT,unknown
+1030,GSE87849,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE87849&format=file&file=GSE87849%5FCount%5Ftable%2Etxt%2Egz,GSE87849_Count_table.txt.gz,2.7 Mb,TXT,unknown
+1031,GSE87891,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE87891&format=file&file=GSE87891%5FRodriguez%5FNormalized%5FRNASeq%5Fdata%2Exlsx,GSE87891_Rodriguez_Normalized_RNASeq_data.xlsx,2.3 Mb,XLSX,unknown
+1032,GSE88051,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE88051&format=file,GSE88051_RAW.tar,5.1 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+1033,GSE88219,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE88219&format=file,GSE88219_RAW.tar,1.4 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+1034,GSE88324,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE88324&format=file,GSE88324_RAW.tar,944.1 Mb,"TAR (of BIGWIG, TSV, TXT)",unknown
+1035,GSE88508,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE88508&format=file,GSE88508_RAW.tar,1.3 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+1036,GSE88553,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE88553&format=file,GSE88553_RAW.tar,4.0 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+1037,GSE88589,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE88589&format=file,GSE88589_RAW.tar,3.0 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+1038,GSE88592,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE88592&format=file,GSE88592_RAW.tar,1.5 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+1039,GSE88615,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE88615&format=file,GSE88615_RAW.tar,2.6 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+1040,GSE88671,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE88671&format=file,GSE88671_RAW.tar,3.0 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+1041,GSE88750,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE88750&format=file&file=GSE88750%5FRNASeqCPM%2Etxt%2Egz,GSE88750_RNASeqCPM.txt.gz,992.1 Kb,TXT,unknown
+1042,GSE88751,null,null,null,null,unknown
+1043,GSE88888,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE88888&format=file&file=GSE88888%5Ftpm%2Etsv%2Egz,GSE88888_tpm.tsv.gz,2.0 Mb,TSV,unknown
+1044,GSE88931,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE88931&format=file&file=GSE88931%5FRNA%2Dseq%5FMergedReadCounts%2Etsv%2Egz,GSE88931_RNA-seq_MergedReadCounts.tsv.gz,78.3 Kb,TSV,unknown
+1045,GSE88933,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE88933&format=file,GSE88933_RAW.tar,4.2 Gb,TAR (of CGMAP),unknown
+1046,GSE88956,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE88956&format=file&file=GSE88956%5FGEO%5FRNASeq%5Fprocessed%2Exlsx,GSE88956_GEO_RNASeq_processed.xlsx,6.4 Mb,XLSX,unknown
+1047,GSE88957,null,null,null,null,unknown
+1048,GSE89056,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE89056&format=file,GSE89056_RAW.tar,3.7 Mb,TAR (of TXT),unknown
+1049,GSE89072,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE89072&format=file,GSE89072_RAW.tar,2.4 Gb,"TAR (of BW, TXT)",unknown
+1050,GSE89087,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE89087&format=file,GSE89087_RAW.tar,1.5 Mb,TAR (of TXT),unknown
+1051,GSE89124,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE89124&format=file&file=GSE89124%5FRNAseq%5FCCD18Co%5Fwnt3A%5Fprocesados%5Fnormalizados%5FRPKM%2Etxt%2Egz,GSE89124_RNAseq_CCD18Co_wnt3A_procesados_normalizados_RPKM.txt.gz,723.5 Kb,TXT,unknown
+1052,GSE89232,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE89232&format=file&file=GSE89232%5FexpMatrix%2Etxt%2Egz,GSE89232_expMatrix.txt.gz,29.5 Mb,TXT,unknown
+1053,GSE89266,null,null,null,null,unknown
+1054,GSE89339,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE89339&format=file&file=GSE89339%5Fprocessed%5Fdata%2Etxt%2Egz,GSE89339_processed_data.txt.gz,755.8 Kb,TXT,unknown
+1055,GSE89403,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE89403&format=file&file=GSE89403%5FrawCounts%5FGeneNames%5FAllSamples%2Ecsv%2Egz,GSE89403_rawCounts_GeneNames_AllSamples.csv.gz,12.6 Mb,CSV,unknown
+1056,GSE89404,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE89404&format=file,GSE89404_RAW.tar,44.1 Mb,TAR (of CSV),unknown
+1057,GSE89475,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE89475&format=file,GSE89475_RAW.tar,2.2 Mb,TAR (of TXT),unknown
+1058,GSE89484,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE89484&format=file&file=GSE89484%5FFinal%5Fcounts%5FJ4%2Etxt%2Egz,GSE89484_Final_counts_J4.txt.gz,383.0 Kb,TXT,unknown
+1059,GSE89485,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE89485&format=file,GSE89485_RAW.tar,81.8 Gb,TAR (of BW),unknown
+1060,GSE89669,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE89669&format=file,GSE89669_RAW.tar,21.3 Gb,TAR (of BW),unknown
+1061,GSE89774,null,null,null,null,unknown
+1062,GSE89777,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE89777&format=file&file=GSE89777%5Fprocessed%5Fdata%5Flog2%5F1plusTPM%2Etxt%2Egz,GSE89777_processed_data_log2_1plusTPM.txt.gz,2.5 Mb,TXT,unknown
+1063,GSE89778,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE89778&format=file,GSE89778_RAW.tar,568.1 Mb,TAR (of IDAT),unknown
+1064,GSE89831,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE89831&format=file,GSE89831_RAW.tar,5.8 Mb,TAR (of TXT),unknown
+1065,GSE89838,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE89838&format=file,GSE89838_RAW.tar,7.6 Mb,TAR (of TXT),unknown
+1066,GSE89839,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE89839&format=file,GSE89839_RAW.tar,7.8 Mb,TAR (of TXT),unknown
+1067,GSE89840,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE89840&format=file,GSE89840_RAW.tar,7.8 Mb,TAR (of TXT),unknown
+1068,GSE89841,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE89841&format=file,GSE89841_RAW.tar,513.5 Mb,"TAR (of BEDGRAPH, BW, TXT)",unknown
+1069,GSE89876,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE89876&format=file,GSE89876_RAW.tar,234.8 Mb,"TAR (of BED, BW, TXT)",unknown
+1070,GSE89950,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE89950&format=file,GSE89950_RAW.tar,1.7 Mb,TAR (of TXT),unknown
+1071,GSE89970,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE89970&format=file&file=GSE89970%5FHAEC%2Erna%2Erpkm%2Etxt%2Egz,GSE89970_HAEC.rna.rpkm.txt.gz,4.6 Mb,TXT,unknown
+1072,GSE89975,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE89975&format=file,GSE89975_RAW.tar,2.3 Mb,TAR (of TSV),unknown
+1073,GSE89980,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE89980&format=file,GSE89980_RAW.tar,34.4 Mb,TAR (of GTF),unknown
+1074,GSE90014,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE90014&format=file,GSE90014_RAW.tar,65.4 Mb,TAR (of TSV),unknown
+1075,GSE90015,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE90015&format=file,GSE90015_RAW.tar,1.2 Gb,"TAR (of BW, IDAT, TSV)",unknown
+1076,GSE90068,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE90068&format=file&file=GSE90068%5Fhg38%2EmRNA%2ENCBI%2EfCounts%2Eprimary%2Etab%2Etxt%2Egz,GSE90068_hg38.mRNA.NCBI.fCounts.primary.tab.txt.gz,877.4 Kb,TXT,unknown
+1077,GSE90221,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE90221&format=file,GSE90221_RAW.tar,2.2 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+1078,GSE90243,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE90243&format=file,GSE90243_RAW.tar,2.1 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+1079,GSE90254,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE90254&format=file,GSE90254_RAW.tar,395.9 Mb,"TAR (of BIGWIG, TSV, TXT)",unknown
+1080,GSE90257,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE90257&format=file,GSE90257_RAW.tar,3.6 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+1081,GSE90260,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE90260&format=file,GSE90260_RAW.tar,1.5 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+1082,GSE90262,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE90262&format=file,GSE90262_RAW.tar,4.1 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+1083,GSE90263,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE90263&format=file,GSE90263_RAW.tar,2.0 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+1084,GSE90268,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE90268&format=file,GSE90268_RAW.tar,2.4 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+1085,GSE90269,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE90269&format=file,GSE90269_RAW.tar,2.5 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+1086,GSE90270,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE90270&format=file,GSE90270_RAW.tar,2.4 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+1087,GSE90272,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE90272&format=file,GSE90272_RAW.tar,2.2 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+1088,GSE90455,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE90455&format=file&file=GSE90455%5FRPKM%5FTable%5FRNA%2Etxt%2Egz,GSE90455_RPKM_Table_RNA.txt.gz,2.8 Mb,TXT,unknown
+1089,GSE90456,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE90456&format=file,GSE90456_RAW.tar,339.3 Mb,"TAR (of BED, TXT)",unknown
+1090,GSE90468,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE90468&format=file&file=GSE90468%5Frpkm%2Etxt%2Egz,GSE90468_rpkm.txt.gz,2.4 Mb,TXT,unknown
+1091,GSE90489,null,null,null,null,unknown
+1092,GSE90514,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE90514&format=file&file=GSE90514%5Fprocessed%5Fdata%5Ffiles%2Etxt%2Egz,GSE90514_processed_data_files.txt.gz,824.9 Kb,TXT,unknown
+1093,GSE90711,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE90711&format=file&file=GSE90711%5FDESeq%5Fexpression%5Fmatrix%2Etxt%2Egz,GSE90711_DESeq_expression_matrix.txt.gz,3.7 Mb,TXT,unknown
+1094,GSE90718,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE90718&format=file&file=GSE90718%5FRNA%5Fall%5Fadjusted%5Fcounts%2Etxt%2Egz,GSE90718_RNA_all_adjusted_counts.txt.gz,2.5 Mb,TXT,unknown
+1095,GSE90728,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE90728&format=file&file=GSE90728%5FAll%5FCounts%2Elung%5Fcancer%2Exlsx%2Egz,GSE90728_All_Counts.lung_cancer.xlsx.gz,6.8 Mb,XLSX,unknown
+1096,GSE90729,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE90729&format=file&file=GSE90729%5FAll%5FCounts%2EHNSCC%2Exlsx%2Egz,GSE90729_All_Counts.HNSCC.xlsx.gz,4.2 Mb,XLSX,unknown
+1097,GSE90730,null,null,null,null,unknown
+1098,GSE90748,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE90748&format=file,GSE90748_RAW.tar,11.0 Mb,TAR (of TXT),unknown
+1099,GSE90772,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE90772&format=file,GSE90772_RAW.tar,2.0 Gb,"TAR (of BIGWIG, TXT)",unknown
+1100,GSE90813,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE90813&format=file&file=GSE90813%5FP5%2DSFTPC%5FscRNA%2Dseq%5FRPKM%2Etxt%2Egz,GSE90813_P5-SFTPC_scRNA-seq_RPKM.txt.gz,5.8 Mb,TXT,unknown
+1101,GSE90897,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE90897&format=file&file=GSE90897%5FmDC%5FrawCounts%2Ecsv%2Egz,GSE90897_mDC_rawCounts.csv.gz,488.4 Kb,CSV,unknown
+1102,GSE90982,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE90982&format=file&file=GSE90982%5Fhg19%5FAd%2Dnull%5FAd%2DKLF4%2Etxt%2Egz,GSE90982_hg19_Ad-null_Ad-KLF4.txt.gz,444.5 Kb,TXT,unknown
+1103,GSE92293,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE92293&format=file,GSE92293_RAW.tar,2.4 Mb,TAR (of TXT),unknown
+1104,GSE92506,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE92506&format=file&file=GSE92506%5FRawCounts%2Etxt%2Egz,GSE92506_RawCounts.txt.gz,1.0 Mb,TXT,unknown
+1105,GSE92532,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE92532&format=file&file=GSE92532%5Fcounts%5F1n2%5Fcombined%2Etsv%2Egz,GSE92532_counts_1n2_combined.tsv.gz,2.8 Mb,TSV,unknown
+1106,GSE92541,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE92541&format=file&file=GSE92541%5Fbmb%5Fhuvec%5Fprocessed%5Fdata%2Exlsx,GSE92541_bmb_huvec_processed_data.xlsx,760.2 Kb,XLSX,unknown
+1107,GSE92543,null,null,null,null,unknown
+1108,GSE92724,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE92724&format=file,GSE92724_RAW.tar,5.5 Mb,TAR (of TXT),unknown
+1109,GSE92839,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE92839&format=file,GSE92839_RAW.tar,19.4 Mb,TAR (of TXT),unknown
+1110,GSE92852,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE92852&format=file&file=GSE92852%5FHeine%5Fet%5Fal%5FDESeq2%5Fnormalized%5Fexpression%5Fvalues%2Etxt%2Egz,GSE92852_Heine_et_al_DESeq2_normalized_expression_values.txt.gz,513.2 Kb,TXT,unknown
+1111,GSE92904,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE92904&format=file,GSE92904_RAW.tar,294.8 Mb,TAR (of TXT),unknown
+1112,GSE92917,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE92917&format=file,GSE92917_RAW.tar,1.2 Mb,TAR (of TXT),unknown
+1113,GSE93030,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE93030&format=file&file=GSE93030%5FRNA%2Dseq%2Dfpkm%2Exlsx,GSE93030_RNA-seq-fpkm.xlsx,643.8 Kb,XLSX,unknown
+1114,GSE93155,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE93155&format=file&file=GSE93155%5FRNAseq%5FMEM%5Fall%5Fgenes%2Exls%2Egz,GSE93155_RNAseq_MEM_all_genes.xls.gz,4.2 Mb,XLS,unknown
+1115,GSE93156,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE93156&format=file&file=GSE93156%5FTMD8%5FIdela%5FRNASeq%5Flog2CPM%2Etxt%2Egz,GSE93156_TMD8_Idela_RNASeq_log2CPM.txt.gz,1.3 Mb,TXT,unknown
+1116,GSE93206,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE93206&format=file&file=GSE93206%5FProcessed%5Fdata%5Ffiles%2Exlsx,GSE93206_Processed_data_files.xlsx,13.1 Mb,XLSX,unknown
+1117,GSE93226,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE93226&format=file,GSE93226_RAW.tar,9.9 Mb,TAR (of TXT),unknown
+1118,GSE93263,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE93263&format=file,GSE93263_RAW.tar,7.9 Mb,TAR (of TXT),unknown
+1119,GSE93265,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE93265&format=file&file=GSE93265%5FRawCounts%2Exlsx%2Egz,GSE93265_RawCounts.xlsx.gz,4.5 Mb,XLSX,unknown
+1120,GSE93268,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE93268&format=file,GSE93268_RAW.tar,48.9 Mb,"TAR (of NARROWPEAK, TXT)",unknown
+1121,GSE93330,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE93330&format=file,GSE93330_RAW.tar,4.5 Mb,TAR (of TXT),unknown
+1122,GSE93386,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE93386&format=file,GSE93386_RAW.tar,840.0 Kb,TAR (of TXT),unknown
+1123,GSE93500,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE93500&format=file,GSE93500_RAW.tar,1.8 Gb,"TAR (of BIGWIG, TSV, TXT)",unknown
+1124,GSE93511,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE93511&format=file&file=GSE93511%5FRSEM%5Fresults%2Exlsx,GSE93511_RSEM_results.xlsx,11.2 Mb,XLSX,unknown
+1125,GSE93535,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE93535&format=file,GSE93535_RAW.tar,42.4 Mb,TAR (of GTF),unknown
+1126,GSE93590,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE93590&format=file&file=GSE93590%5FNormalizedGeneCounts%2Etxt%2Egz,GSE93590_NormalizedGeneCounts.txt.gz,3.2 Mb,TXT,unknown
+1127,GSE93627,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE93627&format=file&file=GSE93627%5Ffpkm%5Ftable%5Fnalm%2D6%2Etsv%2Egz,GSE93627_fpkm_table_nalm-6.tsv.gz,548.1 Kb,TSV,unknown
+1128,GSE93628,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE93628&format=file,GSE93628_RAW.tar,2.1 Gb,TAR (of BIGWIG),unknown
+1129,GSE93672,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE93672&format=file&file=GSE93672%5Fgene%5Fcounts%2Ecsv%2Egz,GSE93672_gene_counts.csv.gz,870.3 Kb,CSV,unknown
+1130,GSE93705,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE93705&format=file,GSE93705_RAW.tar,2.5 Mb,TAR (of TXT),unknown
+1131,GSE93706,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE93706&format=file,GSE93706_RAW.tar,909.8 Mb,"TAR (of BW, FPKM_TRACKING)",unknown
+1132,GSE93783,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE93783&format=file&file=GSE93783%5Figenomes%5Fknown%5FGENES%5Fcounts%5Fnormalized%2Ecounts%2ECPM%2EFibro%2Etab%2Egz,GSE93783_igenomes_known_GENES_counts_normalized.counts.CPM.Fibro.tab.gz,3.3 Mb,TAB,unknown
+1133,GSE93902,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE93902&format=file&file=GSE93902%5Freads%5Fcounts%2Etxt%2Egz,GSE93902_reads_counts.txt.gz,474.6 Kb,TXT,unknown
+1134,GSE93904,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE93904&format=file&file=GSE93904%5Fgene%5Fcounts%2Etxt%2Egz,GSE93904_gene_counts.txt.gz,3.4 Mb,TXT,unknown
+1135,GSE94019,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE94019&format=file&file=GSE94019%5FPartek%5FEM%5Fgene%5Freads%2Etxt%2Egz,GSE94019_Partek_EM_gene_reads.txt.gz,1.8 Mb,TXT,unknown
+1136,GSE94053,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE94053&format=file,GSE94053_RAW.tar,13.0 Mb,TAR (of TXT),unknown
+1137,GSE94057,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE94057&format=file&file=GSE94057%5FHogg%5FAT3%5F3mRNAseq%5Fcountsmatrix%2Etxt%2Egz,GSE94057_Hogg_AT3_3mRNAseq_countsmatrix.txt.gz,314.5 Kb,TXT,unknown
+1138,GSE94111,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE94111&format=file&file=GSE94111%5FPK4C9%5Frpkms%2Egct%2Egz,GSE94111_PK4C9_rpkms.gct.gz,525.9 Kb,GCT,unknown
+1139,GSE94116,null,null,null,null,unknown
+1140,GSE94134,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE94134&format=file,GSE94134_RAW.tar,17.7 Mb,TAR (of TXT),unknown
+1141,GSE94149,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE94149&format=file,GSE94149_RAW.tar,6.3 Mb,TAR (of TXT),unknown
+1142,GSE94150,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE94150&format=file,GSE94150_RAW.tar,8.1 Mb,TAR (of TXT),unknown
+1143,GSE94152,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE94152&format=file,GSE94152_RAW.tar,14.4 Mb,TAR (of TXT),unknown
+1144,GSE94155,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE94155&format=file,GSE94155_RAW.tar,2.8 Mb,TAR (of TXT),unknown
+1145,GSE94162,null,null,null,null,unknown
+1146,GSE94165,null,null,null,null,unknown
+1147,GSE94169,null,null,null,null,unknown
+1148,GSE94171,null,null,null,null,unknown
+1149,GSE94176,null,null,null,null,unknown
+1150,GSE94180,null,null,null,null,unknown
+1151,GSE94188,null,null,null,null,unknown
+1152,GSE94189,null,null,null,null,unknown
+1153,GSE94191,null,null,null,null,unknown
+1154,GSE94194,null,null,null,null,unknown
+1155,GSE94197,null,null,null,null,unknown
+1156,GSE94204,null,null,null,null,unknown
+1157,GSE94205,null,null,null,null,unknown
+1158,GSE94207,null,null,null,null,unknown
+1159,GSE94208,null,null,null,null,unknown
+1160,GSE94210,null,null,null,null,unknown
+1161,GSE94214,null,null,null,null,unknown
+1162,GSE94215,null,null,null,null,unknown
+1163,GSE94218,null,null,null,null,unknown
+1164,GSE94225,null,null,null,null,unknown
+1165,GSE94280,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE94280&format=file,GSE94280_RAW.tar,15.2 Mb,TAR (of TSV),unknown
+1166,GSE94330,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE94330&format=file,GSE94330_RAW.tar,5.9 Gb,TAR (of WIG),unknown
+1167,GSE94332,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE94332&format=file,GSE94332_RAW.tar,6.6 Mb,TAR (of TSV),unknown
+1168,GSE94367,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE94367&format=file&file=GSE94367%5FProcessed%5Fdata%5Ffile%5FRNASeq%5FWPMY%2Exlsx,GSE94367_Processed_data_file_RNASeq_WPMY.xlsx,1.2 Mb,XLSX,unknown
+1169,GSE94395,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE94395&format=file,GSE94395_RAW.tar,4.5 Mb,TAR (of FPKM_TRACKING),unknown
+1170,GSE94494,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE94494&format=file,GSE94494_RAW.tar,6.5 Mb,TAR (of CSV),unknown
+1171,GSE94800,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE94800&format=file&file=GSE94800%5Fall%5Fsamples%5Fmolecule%5Fcounts%2Etxt%2Egz,GSE94800_all_samples_molecule_counts.txt.gz,1.3 Mb,TXT,unknown
+1172,GSE94892,null,null,null,null,unknown
+1173,GSE94897,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE94897&format=file&file=GSE94897%5FExpression%2Etxt%2Egz,GSE94897_Expression.txt.gz,1.3 Mb,TXT,unknown
+1174,GSE94928,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE94928&format=file,GSE94928_RAW.tar,8.3 Mb,TAR (of TXT),unknown
+1175,GSE94968,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE94968&format=file,GSE94968_RAW.tar,180.0 Kb,TAR (of TXT),unknown
+1176,GSE94969,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE94969&format=file&file=GSE94969%5FRNA%2DSeq%5FNormalized%5FResults%2Exlsx,GSE94969_RNA-Seq_Normalized_Results.xlsx,7.5 Mb,XLSX,unknown
+1177,GSE94979,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE94979&format=file,GSE94979_RAW.tar,95.5 Mb,TAR (of TXT),unknown
+1178,GSE94980,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE94980&format=file,GSE94980_RAW.tar,128.1 Mb,TAR (of TXT),unknown
+1179,GSE94999,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE94999&format=file,GSE94999_RAW.tar,78.0 Mb,TAR (of TXT),unknown
+1180,GSE95011,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE95011&format=file,GSE95011_RAW.tar,405.1 Mb,TAR (of TXT),unknown
+1181,GSE95013,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE95013&format=file,GSE95013_RAW.tar,991.8 Mb,TAR (of TXT),unknown
+1182,GSE95020,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE95020&format=file,GSE95020_RAW.tar,79.5 Mb,TAR (of TXT),unknown
+1183,GSE95021,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE95021&format=file,GSE95021_RAW.tar,311.3 Mb,TAR (of TXT),unknown
+1184,GSE95059,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE95059&format=file&file=GSE95059%5FSupplementary%5FTable3%5FRNAseq%5FFPKM%5Fdata%2Exls%2Egz,GSE95059_Supplementary_Table3_RNAseq_FPKM_data.xls.gz,2.3 Mb,XLS,unknown
+1185,GSE95077,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE95077&format=file&file=GSE95077%5FNormalized%5FCount%5FMatrix%5FTG003%2Etxt%2Egz,GSE95077_Normalized_Count_Matrix_TG003.txt.gz,473.8 Kb,TXT,unknown
+1186,GSE95245,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE95245&format=file&file=GSE95245%5Fgenes%2Efpkm%5Ftracking%2Egz,GSE95245_genes.fpkm_tracking.gz,1.1 Mb,FPKM_TRACKING,unknown
+1187,GSE95297,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE95297&format=file&file=GSE95297%5Frawcounts%2Etxt%2Egz,GSE95297_rawcounts.txt.gz,2.2 Mb,TXT,unknown
+1188,GSE95389,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE95389&format=file&file=GSE95389%5FmRNA%2Etxt%2Egz,GSE95389_mRNA.txt.gz,488.9 Kb,TXT,unknown
+1189,GSE95391,null,null,null,null,unknown
+1190,GSE95461,null,null,null,null,unknown
+1191,GSE95462,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE95462&format=file,GSE95462_RAW.tar,384.2 Mb,TAR (of IDAT),unknown
+1192,GSE95573,null,null,null,null,unknown
+1193,GSE95820,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE95820&format=file&file=GSE95820%5Fnormalized%5Fcounts%5Ftable%2Etxt%2Egz,GSE95820_normalized_counts_table.txt.gz,1.4 Mb,TXT,unknown
+1194,GSE96075,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE96075&format=file,GSE96075_RAW.tar,4.3 Mb,TAR (of TAB),unknown
+1195,GSE96077,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE96077&format=file&file=GSE96077%5FProcessedMONOFORGEO%2Etxt%2Egz,GSE96077_ProcessedMONOFORGEO.txt.gz,5.5 Mb,TXT,unknown
+1196,GSE96097,null,null,null,null,unknown
+1197,GSE96564,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE96564&format=file&file=GSE96564%5Fraw%5Fcounts%5Finfluenza%5FCD8%2Etxt%2Egz,GSE96564_raw_counts_influenza_CD8.txt.gz,378.9 Kb,TXT,unknown
+1198,GSE96568,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE96568&format=file&file=GSE96568%5Fraw%5Fcounts%5FT1D%5Fsingle%5Fcell%2Etxt%2Egz,GSE96568_raw_counts_T1D_single_cell.txt.gz,2.1 Mb,TXT,unknown
+1199,GSE96578,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE96578&format=file&file=GSE96578%5FAH%5FPBMC%5FRNAseq%5Frawcounts%2Etxt%2Egz,GSE96578_AH_PBMC_RNAseq_rawcounts.txt.gz,780.2 Kb,TXT,unknown
+1200,GSE96583,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE96583&format=file,GSE96583_RAW.tar,72.7 Mb,"TAR (of MAT, MTX, TSV)",unknown
+1201,GSE96590,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE96590&format=file&file=GSE96590%5FRPKM%2Evalues%2Etsv%2Egz,GSE96590_RPKM.values.tsv.gz,1.4 Mb,TSV,unknown
+1202,GSE96713,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE96713&format=file&file=GSE96713%5FGEO%5FSchultze%5FRNASeq%5FKD%5Fprocessed%5FNORM%5FFILT%2Etxt%2Egz,GSE96713_GEO_Schultze_RNASeq_KD_processed_NORM_FILT.txt.gz,276.3 Kb,TXT,unknown
+1203,GSE96719,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE96719&format=file,GSE96719_RAW.tar,32.4 Mb,TAR,unknown
+1204,GSE96783,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE96783&format=file&file=GSE96783%5Fraw%5Fcounts%5Fureca23%2Etxt%2Egz,GSE96783_raw_counts_ureca23.txt.gz,16.2 Mb,TXT,unknown
+1205,GSE96815,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE96815&format=file&file=GSE96815%5FTPM%5FGEO%2Etxt%2Egz,GSE96815_TPM_GEO.txt.gz,478.7 Kb,TXT,unknown
+1206,GSE96962,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE96962&format=file&file=GSE96962%5FSMC%2DIL%2Dnormalized%2Dgene%5Fexp%2Ediff%2Egz,GSE96962_SMC-IL-normalized-gene_exp.diff.gz,909.5 Kb,DIFF,unknown
+1207,GSE96975,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE96975&format=file&file=GSE96975%5FRaw%5Fcounts%5FTGFB1%5FBasal%5F4patients%2Etxt%2Egz,GSE96975_Raw_counts_TGFB1_Basal_4patients.txt.gz,563.1 Kb,TXT,unknown
+1208,GSE97038,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE97038&format=file&file=GSE97038%5Ftransformed%5Fdata%2Etxt%2Egz,GSE97038_transformed_data.txt.gz,1.3 Mb,TXT,unknown
+1209,GSE97100,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE97100&format=file&file=GSE97100%5FHD%5FiBMEC%5FRA%5F5DEC2014%5Fgene%5Fcounts%5F24MAR2017%2Etxt%2Egz,GSE97100_HD_iBMEC_RA_5DEC2014_gene_counts_24MAR2017.txt.gz,804.0 Kb,TXT,unknown
+1210,GSE97117,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE97117&format=file,GSE97117_RAW.tar,8.7 Mb,TAR (of CSV),unknown
+1211,GSE97265,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE97265&format=file,GSE97265_RAW.tar,5.2 Mb,TAR (of TXT),unknown
+1212,GSE97324,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE97324&format=file&file=GSE97324%5F20161025%5FGad%5FRNAseq%5Fgmax%5FNQ%2Etxt%2Egz,GSE97324_20161025_Gad_RNAseq_gmax_NQ.txt.gz,3.5 Mb,TXT,unknown
+1213,GSE97341,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE97341&format=file&file=GSE97341%5FOme%5FMat%5FRPKM%2Etxt%2Egz,GSE97341_Ome_Mat_RPKM.txt.gz,3.0 Mb,TXT,unknown
+1214,GSE97358,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE97358&format=file&file=GSE97358%5F168%5Ffibroblast%5Fsamples%5Fgene%5Fcounts%2Etxt%2Egz,GSE97358_168_fibroblast_samples_gene_counts.txt.gz,5.9 Mb,TXT,unknown
+1215,GSE97395,null,null,null,null,unknown
+1216,GSE97575,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE97575&format=file,GSE97575_RAW.tar,2.3 Mb,TAR (of TXT),unknown
+1217,GSE97672,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE97672&format=file&file=GSE97672%5FMDM%5FFPKM%2Ecsv%2Egz,GSE97672_MDM_FPKM.csv.gz,9.8 Mb,CSV,unknown
+1218,GSE97727,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE97727&format=file,GSE97727_RAW.tar,4.6 Mb,TAR (of TXT),unknown
+1219,GSE97744,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE97744&format=file&file=GSE97744%5Fexpression%2Elog2%2ECPM%2Etxt%2Egz,GSE97744_expression.log2.CPM.txt.gz,3.2 Mb,TXT,unknown
+1220,GSE97930,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE97930&format=file&file=GSE97930%5FVisualCortex%5FsnDrop%2Dseq%5FUMI%5FCount%5FMatrix%5F08%2D01%2D2017%2Etxt%2Egz,GSE97930_VisualCortex_snDrop-seq_UMI_Count_Matrix_08-01-2017.txt.gz,27.0 Mb,TXT,unknown
+1221,GSE97942,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE97942&format=file,GSE97942_RAW.tar,57.9 Gb,TAR (of TAR),unknown
+1222,GSE97964,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE97964&format=file,GSE97964_RAW.tar,26.2 Mb,TAR,unknown
+1223,GSE98011,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE98011&format=file&file=GSE98011%5FTPM%5Fhuman%5Fblood%5FpreDC%2Etxt%2Egz,GSE98011_TPM_human_blood_preDC.txt.gz,1.6 Mb,TXT,unknown
+1224,GSE98052,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE98052&format=file,GSE98052_RAW.tar,2.6 Mb,TAR (of TXT),unknown
+1225,GSE98060,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE98060&format=file&file=GSE98060%5FGene%5FExpression%5Fraw%2Etxt%2Egz,GSE98060_Gene_Expression_raw.txt.gz,2.4 Mb,TXT,unknown
+1226,GSE98111,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE98111&format=file,GSE98111_RAW.tar,450.0 Kb,TAR (of TXT),unknown
+1227,GSE98113,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE98113&format=file,GSE98113_RAW.tar,20.0 Kb,TAR (of TXT),unknown
+1228,GSE98115,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE98115&format=file,GSE98115_RAW.tar,259.0 Mb,"TAR (of BIGWIG, TXT)",unknown
+1229,GSE98136,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE98136&format=file,GSE98136_RAW.tar,2.6 Mb,TAR (of TXT),unknown
+1230,GSE98289,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE98289&format=file,GSE98289_RAW.tar,22.2 Mb,TAR (of TXT),unknown
+1231,GSE98290,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE98290&format=file,GSE98290_RAW.tar,70.7 Mb,TAR (of TXT),unknown
+1232,GSE98368,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE98368&format=file&file=GSE98368%5FsiCtrl%5FsiMAF%5FRPKM%5Ftable%2Etxt%2Egz,GSE98368_siCtrl_siMAF_RPKM_table.txt.gz,325.3 Kb,TXT,unknown
+1233,GSE98369,null,null,null,null,unknown
+1234,GSE98448,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE98448&format=file,GSE98448_RAW.tar,154.4 Mb,"TAR (of BEDPE, MTX, TSV, TXT)",unknown
+1235,GSE98454,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE98454&format=file,GSE98454_RAW.tar,15.0 Mb,TAR (of TXT),unknown
+1236,GSE98485,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE98485&format=file,GSE98485_RAW.tar,42.4 Mb,TAR (of GTF),unknown
+1237,GSE98624,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE98624&format=file&file=GSE98624%5FCuff%5FIsoform%5FCounts%2Ecsv%2Egz,GSE98624_Cuff_Isoform_Counts.csv.gz,2.2 Mb,CSV,unknown
+1238,GSE98638,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE98638&format=file&file=GSE98638%5FHCC%2ETCell%2ES5063%2ETPM%2Etxt%2Egz,GSE98638_HCC.TCell.S5063.TPM.txt.gz,158.4 Mb,TXT,unknown
+1239,GSE98665,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE98665&format=file&file=GSE98665%5FGene%5Fexpression%5FRPKM%2Exls%2Egz,GSE98665_Gene_expression_RPKM.xls.gz,1.0 Mb,XLS,unknown
+1240,GSE98710,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE98710&format=file,GSE98710_RAW.tar,690.0 Kb,TAR (of TXT),unknown
+1241,GSE98758,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE98758&format=file,GSE98758_RAW.tar,22.8 Mb,"TAR (of BW, TXT)",unknown
+1242,GSE98884,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE98884&format=file,GSE98884_RAW.tar,2.9 Mb,TAR (of TXT),unknown
+1243,GSE99006,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE99006&format=file&file=GSE99006%5FRA%5FNormalized%5Fcounts%2Etxt%2Egz,GSE99006_RA_Normalized_counts.txt.gz,951.8 Kb,TXT,unknown
+1244,GSE99028,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE99028&format=file&file=GSE99028%5Fread%5Fcount%2Etxt%2Egz,GSE99028_read_count.txt.gz,301.2 Kb,TXT,unknown
+1245,GSE99065,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE99065&format=file,GSE99065_RAW.tar,1.1 Mb,TAR (of CSV),unknown
+1246,GSE99068,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE99068&format=file&file=GSE99068%5FFPKM%5FRUN1861%2Exlsx%2Egz,GSE99068_FPKM_RUN1861.xlsx.gz,3.5 Mb,XLSX,unknown
+1247,GSE99079,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE99079&format=file,GSE99079_RAW.tar,2.6 Mb,TAR (of TXT),unknown
+1248,GSE99212,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE99212&format=file&file=GSE99212%5FTumor%5Fgenes%2Ecounts%2Ematrix%2ETMM%5Fnormalized%2EFPKM%2Exls%2Egz,GSE99212_Tumor_genes.counts.matrix.TMM_normalized.FPKM.xls.gz,773.1 Kb,XLS,unknown
+1249,GSE99246,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE99246&format=file&file=GSE99246%5Fcounts%2Etsv%2Egz,GSE99246_counts.tsv.gz,1.4 Mb,TSV,unknown
+1250,GSE99247,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE99247&format=file&file=GSE99247%5FGEO%5Fgene%5Fexp%5FJNA%5FNF%2Etxt%2Egz,GSE99247_GEO_gene_exp_JNA_NF.txt.gz,1.6 Mb,TXT,unknown
+1251,GSE99254,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE99254&format=file&file=GSE99254%5FNSCLC%2ETCell%2ES12346%2ETPM%2Etxt%2Egz,GSE99254_NSCLC.TCell.S12346.TPM.txt.gz,326.8 Mb,TXT,unknown
+1252,GSE99373,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE99373&format=file&file=GSE99373%5FRawCounts%5FCD4%2Exlsx,GSE99373_RawCounts_CD4.xlsx,4.2 Mb,XLSX,unknown
+1253,GSE99389,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE99389&format=file&file=GSE99389%5Fnormalized%5Fcount%5Fmatrix%2Etxt%2Egz,GSE99389_normalized_count_matrix.txt.gz,606.9 Kb,TXT,unknown
+1254,GSE99454,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE99454&format=file&file=GSE99454%5Frawdata%5Ftable%2Etab%2Egz,GSE99454_rawdata_table.tab.gz,1.1 Mb,TAB,unknown
+1255,GSE99503,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE99503&format=file,GSE99503_RAW.tar,4.0 Mb,TAR (of TXT),unknown
+1256,GSE99668,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE99668&format=file&file=GSE99668%5FAll%5FHTSeq%5FCounts%2Etsv%2Egz,GSE99668_All_HTSeq_Counts.tsv.gz,355.0 Kb,TSV,unknown
+1257,GSE99778,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE99778&format=file&file=GSE99778%5FRawData%5FLphn2%5Fkd%5FHUVEC%5Frnaseq%2Exlsx,GSE99778_RawData_Lphn2_kd_HUVEC_rnaseq.xlsx,6.7 Mb,XLSX,unknown
+1258,GSE99816,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE99816&format=file&file=GSE99816%5FNormalized%5FFibroblast%5FExpression%5FData%2Ecsv%2Egz,GSE99816_Normalized_Fibroblast_Expression_Data.csv.gz,937.9 Kb,CSV,unknown
+1259,GSE99987,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE99987&format=file,GSE99987_RAW.tar,8.8 Mb,TAR (of TXT),unknown
+1260,GSE99999,https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE99999&format=file&file=GSE99999%5FCountsMatrix%5FTST10990%2Ecsv%2Egz,GSE99999_CountsMatrix_TST10990.csv.gz,4.7 Mb,CSV,unknown

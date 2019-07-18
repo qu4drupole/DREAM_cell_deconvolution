@@ -1,0 +1,4878 @@
+# Log file for parsing, downloading, formatting RNA-seq data
+--------------------------
+GSENAME__GSE107011
+--------------------------
+SKIPPED: (GSE107011) geneConverter(): Unknown problem 
+--------------------------
+GSENAME__GSE107019
+--------------------------
+SKIPPED: (GSE107019) GSE record is super series
+--------------------------
+GSENAME__GSE118165
+--------------------------
+SKIPPED: (GSE118165) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE115736
+--------------------------
+SKIPPED: (GSE115736) geneConverter(): Unknown problem 
+--------------------------
+GSENAME__GSE115978
+--------------------------
+SKIPPED: (GSE115978) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE116672
+--------------------------
+SKIPPED: (GSE116672) Supplemental file too large
+--------------------------
+GSENAME__GSE64655
+--------------------------
+SKIPPED: (GSE64655) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE109761
+--------------------------
+SKIPPED: (GSE109761) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE114407
+--------------------------
+--------------------------
+GSENAME__GSE51984
+--------------------------
+SKIPPED: (GSE51984) readFormat(): too complicated
+--------------------------
+GSENAME__GSE74246
+--------------------------
+SKIPPED: (GSE74246) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE49417
+--------------------------
+SKIPPED: (GSE49417) Supplemental file too large
+--------------------------
+GSENAME__GSE70106
+--------------------------
+SKIPPED: (GSE70106) writeDataToSQL() Dendritic_cells There is something strange about the gene symbols 
+SKIPPED: (GSE70106) writeDataToSQL() Monocytes There is something strange about the gene symbols 
+--------------------------
+GSENAME__GSE76371
+--------------------------
+SKIPPED: (GSE76371) readFormat(): too complicated
+--------------------------
+GSENAME__GSE83115
+--------------------------
+SKIPPED: (GSE83115) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE83808
+--------------------------
+SKIPPED: (GSE83808) GeneColumnName(): Gene annotations too complicated, too lazy to parse
+--------------------------
+GSENAME__GSE100501
+--------------------------
+SKIPPED: (GSE100501) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE110999
+--------------------------
+--------------------------
+GSENAME__GSE112483
+--------------------------
+SKIPPED: (GSE112483) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE113386
+--------------------------
+SKIPPED: (GSE113386) popDataAndFormat(): unknown problem 
+--------------------------
+GSENAME__GSE113585
+--------------------------
+--------------------------
+GSENAME__GSE115898
+--------------------------
+--------------------------
+GSENAME__GSE117614
+--------------------------
+--------------------------
+GSENAME__GSE26284
+--------------------------
+SKIPPED: (GSE26284) Supplemental file too large
+--------------------------
+GSENAME__GSE30567
+--------------------------
+SKIPPED: (GSE30567) Supplemental file too large
+--------------------------
+GSENAME__GSE34448
+--------------------------
+SKIPPED: (GSE34448) Supplemental file too large
+--------------------------
+GSENAME__GSE62483
+--------------------------
+SKIPPED: (GSE62483) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE62486
+--------------------------
+SKIPPED: (GSE62486) GSE record is super series
+--------------------------
+GSENAME__GSE66117
+--------------------------
+--------------------------
+GSENAME__GSE66261
+--------------------------
+SKIPPED: (GSE66261) writeDataToSQL() Th1_cells There is something strange about the gene symbols 
+SKIPPED: (GSE66261) writeDataToSQL() Th2_cells There is something strange about the gene symbols 
+SKIPPED: (GSE66261) writeDataToSQL() Th17_cells There is something strange about the gene symbols 
+--------------------------
+GSENAME__GSE69239
+--------------------------
+SKIPPED: (GSE69239) popDataAndFormat(): unknown problem 
+--------------------------
+GSENAME__GSE79044
+--------------------------
+--------------------------
+GSENAME__GSE79046
+--------------------------
+SKIPPED: (GSE79046) Supplemental file too large
+--------------------------
+GSENAME__GSE80306
+--------------------------
+SKIPPED: (GSE80306) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE87055
+--------------------------
+SKIPPED: (GSE87055) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE96993
+--------------------------
+SKIPPED: (GSE96993) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE98852
+--------------------------
+SKIPPED: (GSE98852) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE99733
+--------------------------
+SKIPPED: (GSE99733) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE102045
+--------------------------
+SKIPPED: (GSE102045) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE102335
+--------------------------
+SKIPPED: (GSE102335) Something went wrong with the file merging
+--------------------------
+GSENAME__GSE103147
+--------------------------
+SKIPPED: (GSE103147) geneConverter(): Unknown problem 
+--------------------------
+GSENAME__GSE103477
+--------------------------
+SKIPPED: (GSE103477) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE106391
+--------------------------
+SKIPPED: (GSE106391) readFormat(): unknown problem 
+--------------------------
+GSENAME__GSE106540
+--------------------------
+SKIPPED: (GSE106540) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE106542
+--------------------------
+SKIPPED: (GSE106542) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE106991
+--------------------------
+--------------------------
+GSENAME__GSE107680
+--------------------------
+SKIPPED: (GSE107680) formatCheck(): difficulty understanding file formatting
+--------------------------
+GSENAME__GSE108546
+--------------------------
+SKIPPED: (GSE108546) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE109161
+--------------------------
+--------------------------
+GSENAME__GSE111377
+--------------------------
+SKIPPED: (GSE111377) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE111543
+--------------------------
+SKIPPED: (GSE111543) Supplemental file too large
+--------------------------
+GSENAME__GSE111546
+--------------------------
+SKIPPED: (GSE111546) Supplemental file too large
+--------------------------
+GSENAME__GSE111793
+--------------------------
+SKIPPED: (GSE111793) makeGSEsampleIDs(): unknown problem 
+--------------------------
+GSENAME__GSE111901
+--------------------------
+SKIPPED: (GSE111901) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE111907
+--------------------------
+SKIPPED: (GSE111907) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE111968
+--------------------------
+SKIPPED: (GSE111968) Something went wrong with the file merging
+--------------------------
+GSENAME__GSE112845
+--------------------------
+SKIPPED: (GSE112845) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE112923
+--------------------------
+SKIPPED: (GSE112923) Just confusing
+--------------------------
+GSENAME__GSE113675
+--------------------------
+SKIPPED: (GSE113675) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE113839
+--------------------------
+SKIPPED: (GSE113839) Just confusing
+--------------------------
+GSENAME__GSE115203
+--------------------------
+SKIPPED: (GSE115203) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE115686
+--------------------------
+SKIPPED: (GSE115686) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE117637
+--------------------------
+SKIPPED: (GSE117637) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE118209
+--------------------------
+SKIPPED: (GSE118209) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE118951
+--------------------------
+--------------------------
+GSENAME__GSE118974
+--------------------------
+--------------------------
+GSENAME__GSE16190
+--------------------------
+SKIPPED: (GSE16190) Supplemental file too large
+--------------------------
+GSENAME__GSE16256
+--------------------------
+SKIPPED: (GSE16256) Supplemental file too large
+--------------------------
+GSENAME__GSE16368
+--------------------------
+SKIPPED: (GSE16368) Supplemental file too large
+--------------------------
+GSENAME__GSE26530
+--------------------------
+SKIPPED: (GSE26530) geneConverter(): Unknown problem 
+--------------------------
+GSENAME__GSE26878
+--------------------------
+SKIPPED: (GSE26878) GSE record is super series
+--------------------------
+GSENAME__GSE33772
+--------------------------
+SKIPPED: (GSE33772) Supplemental file too large
+--------------------------
+GSENAME__GSE37521
+--------------------------
+SKIPPED: (GSE37521) formatCheck(): Error reading count file
+--------------------------
+GSENAME__GSE43070
+--------------------------
+SKIPPED: (GSE43070) Supplemental file too large
+--------------------------
+GSENAME__GSE45176
+--------------------------
+SKIPPED: (GSE45176) Something went wrong with the file merging
+--------------------------
+GSENAME__GSE45982
+--------------------------
+SKIPPED: (GSE45982) Supplemental file too large
+--------------------------
+GSENAME__GSE47792
+--------------------------
+SKIPPED: (GSE47792) Supplemental file too large
+--------------------------
+GSENAME__GSE50721
+--------------------------
+SKIPPED: (GSE50721) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE53837
+--------------------------
+SKIPPED: (GSE53837) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE54733
+--------------------------
+SKIPPED: (GSE54733) readFormat(): too complicated
+--------------------------
+GSENAME__GSE58310
+--------------------------
+SKIPPED: (GSE58310) Supplemental file too large
+--------------------------
+GSENAME__GSE58596
+--------------------------
+SKIPPED: (GSE58596) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE58597
+--------------------------
+SKIPPED: (GSE58597) GSE record is super series
+--------------------------
+GSENAME__GSE59846
+--------------------------
+--------------------------
+GSENAME__GSE59860
+--------------------------
+SKIPPED: (GSE59860) GSE record is super series
+--------------------------
+GSENAME__GSE62772
+--------------------------
+SKIPPED: (GSE62772) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE62777
+--------------------------
+SKIPPED: (GSE62777) Supplemental file too large
+--------------------------
+GSENAME__GSE63733
+--------------------------
+SKIPPED: (GSE63733) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE63843
+--------------------------
+SKIPPED: (GSE63843) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE63935
+--------------------------
+SKIPPED: (GSE63935) Just confusing
+--------------------------
+GSENAME__GSE67945
+--------------------------
+SKIPPED: (GSE67945) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE69622
+--------------------------
+--------------------------
+GSENAME__GSE69626
+--------------------------
+SKIPPED: (GSE69626) Supplemental file too large
+--------------------------
+GSENAME__GSE69905
+--------------------------
+SKIPPED: (GSE69905) readFormat(): unknown problem 
+--------------------------
+GSENAME__GSE70050
+--------------------------
+SKIPPED: (GSE70050) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE71645
+--------------------------
+SKIPPED: (GSE71645) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE71646
+--------------------------
+SKIPPED: (GSE71646) GSE record is super series
+--------------------------
+GSENAME__GSE71691
+--------------------------
+SKIPPED: (GSE71691) GSE record is super series
+--------------------------
+GSENAME__GSE72202
+--------------------------
+--------------------------
+GSENAME__GSE72204
+--------------------------
+SKIPPED: (GSE72204) GSE record is super series
+--------------------------
+GSENAME__GSE73213
+--------------------------
+SKIPPED: (GSE73213) readFormat(): Can not parse gene IDs
+--------------------------
+GSENAME__GSE73214
+--------------------------
+SKIPPED: (GSE73214) Supplemental file too large
+--------------------------
+GSENAME__GSE74250
+--------------------------
+SKIPPED: (GSE74250) Supplemental file too large
+--------------------------
+GSENAME__GSE74850
+--------------------------
+SKIPPED: (GSE74850) Supplemental file too large
+--------------------------
+GSENAME__GSE74978
+--------------------------
+SKIPPED: (GSE74978) Just confusing
+--------------------------
+GSENAME__GSE74979
+--------------------------
+SKIPPED: (GSE74979) GSE record is super series
+--------------------------
+GSENAME__GSE76511
+--------------------------
+SKIPPED: (GSE76511) GeneColumnName(): unknown problem 
+--------------------------
+GSENAME__GSE79636
+--------------------------
+SKIPPED: (GSE79636) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE81975
+--------------------------
+SKIPPED: (GSE81975) formatCheck(): Error reading count file
+--------------------------
+GSENAME__GSE83637
+--------------------------
+SKIPEED: (GSE83637) Problem with gene conversion--unknown gene type 
+--------------------------
+GSENAME__GSE84022
+--------------------------
+SKIPPED: (GSE84022) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE84471
+--------------------------
+SKIPPED: (GSE84471) Just confusing
+--------------------------
+GSENAME__GSE84531
+--------------------------
+--------------------------
+GSENAME__GSE85243
+--------------------------
+SKIPPED: (GSE85243) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE85246
+--------------------------
+SKIPPED: (GSE85246) Supplemental file too large
+--------------------------
+GSENAME__GSE85294
+--------------------------
+SKIPPED: (GSE85294) GeneColumnName(): Can not find counts
+--------------------------
+GSENAME__GSE86452
+--------------------------
+SKIPPED: (GSE86452) geneConverter(): Unknown problem 
+--------------------------
+GSENAME__GSE86887
+--------------------------
+SKIPPED: (GSE86887) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE86888
+--------------------------
+SKIPPED: (GSE86888) GSE record is super series
+--------------------------
+GSENAME__GSE89020
+--------------------------
+SKIPPED: (GSE89020) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE89134
+--------------------------
+SKIPPED: (GSE89134) Just confusing
+--------------------------
+GSENAME__GSE89189
+--------------------------
+SKIPPED: (GSE89189) geneConverter(): Unknown problem 
+--------------------------
+GSENAME__GSE89225
+--------------------------
+SKIPPED: (GSE89225) popDataAndFormat(): unknown problem 
+--------------------------
+GSENAME__GSE89323
+--------------------------
+SKIPPED: (GSE89323) readFormat(): Multiple numeric types found in file
+SKIPPED: (GSE89323) Something went wrong with the file merging
+--------------------------
+GSENAME__GSE89442
+--------------------------
+--------------------------
+GSENAME__GSE89926
+--------------------------
+SKIPPED: (GSE89926) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE90569
+--------------------------
+SKIPPED: (GSE90569) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE90600
+--------------------------
+SKIPPED: (GSE90600) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE92495
+--------------------------
+SKIPPED: (GSE92495) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE94396
+--------------------------
+--------------------------
+GSENAME__GSE94631
+--------------------------
+SKIPPED: (GSE94631) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE94820
+--------------------------
+SKIPPED: (GSE94820) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE94859
+--------------------------
+SKIPPED: (GSE94859) Just confusing
+--------------------------
+GSENAME__GSE96538
+--------------------------
+SKIPPED: (GSE96538) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE97033
+--------------------------
+SKIPPED: (GSE97033) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE97861
+--------------------------
+SKIPPED: (GSE97861) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE97862
+--------------------------
+SKIPPED: (GSE97862) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE97987
+--------------------------
+--------------------------
+GSENAME__GSE98310
+--------------------------
+SKIPPED: (GSE98310) readFormat(): too complicated
+--------------------------
+GSENAME__GSE100223
+--------------------------
+SKIPPED: (GSE100223) Just confusing
+--------------------------
+GSENAME__GSE100337
+--------------------------
+SKIPPED: (GSE100337) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE100382
+--------------------------
+SKIPPED: (GSE100382) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE100441
+--------------------------
+SKIPPED: (GSE100441) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE100469
+--------------------------
+SKIPPED: (GSE100469) geneConverter(): Unknown problem 
+--------------------------
+GSENAME__GSE100562
+--------------------------
+SKIPPED: (GSE100562) GeneColumnName(): Gene annotations too complicated, too lazy to parse
+--------------------------
+GSENAME__GSE100563
+--------------------------
+SKIPPED: (GSE100563) GSE record is super series
+--------------------------
+GSENAME__GSE100576
+--------------------------
+SKIPPED: (GSE100576) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE100587
+--------------------------
+SKIPPED: (GSE100587) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE100709
+--------------------------
+SKIPPED: (GSE100709) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE100745
+--------------------------
+SKIPPED: (GSE100745) Just confusing
+--------------------------
+GSENAME__GSE100791
+--------------------------
+--------------------------
+GSENAME__GSE100855
+--------------------------
+--------------------------
+GSENAME__GSE100882
+--------------------------
+--------------------------
+GSENAME__GSE100889
+--------------------------
+SKIPPED: (GSE100889) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE101209
+--------------------------
+SKIPPED: (GSE101209) readFormat(): too complicated
+--------------------------
+GSENAME__GSE101396
+--------------------------
+SKIPPED: (GSE101396) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE101497
+--------------------------
+SKIPPED: (GSE101497) readFormat(): Multiple numeric types found in file
+--------------------------
+GSENAME__GSE101665
+--------------------------
+SKIPPED: (GSE101665) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE101756
+--------------------------
+SKIPPED: (GSE101756) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE101824
+--------------------------
+SKIPPED: (GSE101824) Just confusing
+--------------------------
+GSENAME__GSE101872
+--------------------------
+SKIPPED: (GSE101872) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE101878
+--------------------------
+SKIPPED: (GSE101878) Just confusing
+--------------------------
+GSENAME__GSE102025
+--------------------------
+SKIPPED: (GSE102025) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE102033
+--------------------------
+SKIPPED: (GSE102033) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE102035
+--------------------------
+SKIPPED: (GSE102035) Supplemental file too large
+--------------------------
+GSENAME__GSE102069
+--------------------------
+SKIPPED: (GSE102069) readFormat(): Multiple numeric types found in file
+--------------------------
+GSENAME__GSE102090
+--------------------------
+SKIPPED: (GSE102090) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE102132
+--------------------------
+--------------------------
+GSENAME__GSE102187
+--------------------------
+SKIPPED: (GSE102187) GeneColumnName(): Weird format; could not find Ensemble IDs
+--------------------------
+GSENAME__GSE102215
+--------------------------
+SKIPPED: (GSE102215) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE102220
+--------------------------
+SKIPPED: (GSE102220) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE102250
+--------------------------
+SKIPPED: (GSE102250) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE102283
+--------------------------
+SKIPPED: (GSE102283) Something went wrong with the file merging
+--------------------------
+GSENAME__GSE102352
+--------------------------
+SKIPPED: (GSE102352) Just confusing
+--------------------------
+GSENAME__GSE102460
+--------------------------
+SKIPPED: (GSE102460) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE102498
+--------------------------
+--------------------------
+GSENAME__GSE102728
+--------------------------
+SKIPPED: (GSE102728) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE102729
+--------------------------
+SKIPPED: (GSE102729) GeneColumnName(): Gene annotations too complicated, too lazy to parse
+--------------------------
+GSENAME__GSE102767
+--------------------------
+SKIPPED: (GSE102767) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE102770
+--------------------------
+SKIPPED: (GSE102770) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE102860
+--------------------------
+SKIPPED: (GSE102860) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE102864
+--------------------------
+--------------------------
+GSENAME__GSE103057
+--------------------------
+SKIPPED: (GSE103057) Supplemental file too large
+--------------------------
+GSENAME__GSE103075
+--------------------------
+SKIPPED: (GSE103075) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE103078
+--------------------------
+SKIPPED: (GSE103078) Supplemental file too large
+--------------------------
+GSENAME__GSE103114
+--------------------------
+SKIPPED: (GSE103114) GeneColumnName(): Gene annotations too complicated, too lazy to parse
+--------------------------
+GSENAME__GSE103170
+--------------------------
+SKIPPED: (GSE103170) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE103270
+--------------------------
+SKIPPED: (GSE103270) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE103366
+--------------------------
+SKIPPED: (GSE103366) Supplemental file too large
+--------------------------
+GSENAME__GSE103383
+--------------------------
+SKIPPED: (GSE103383) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE103501
+--------------------------
+--------------------------
+GSENAME__GSE103510
+--------------------------
+SKIPPED: (GSE103510) Stupid STAR format
+--------------------------
+GSENAME__GSE103544
+--------------------------
+SKIPPED: (GSE103544) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE103559
+--------------------------
+SKIPPED: (GSE103559) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE103568
+--------------------------
+SKIPPED: (GSE103568) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE103643
+--------------------------
+SKIPPED: (GSE103643) formatCheck(): Error reading count file
+--------------------------
+GSENAME__GSE103666
+--------------------------
+SKIPPED: (GSE103666) readFormat(): too complicated
+--------------------------
+GSENAME__GSE103672
+--------------------------
+SKIPPED: (GSE103672) writeDataToSQL() endothelial There is something strange about the gene symbols 
+--------------------------
+GSENAME__GSE103763
+--------------------------
+SKIPPED: (GSE103763) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE103844
+--------------------------
+SKIPPED: (GSE103844) GeneColumnName(): Weird format; could not find Ensemble IDs
+--------------------------
+GSENAME__GSE103930
+--------------------------
+--------------------------
+GSENAME__GSE103938
+--------------------------
+SKIPPED: (GSE103938) Just confusing
+--------------------------
+GSENAME__GSE103945
+--------------------------
+SKIPPED: (GSE103945) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE104149
+--------------------------
+SKIPPED: (GSE104149) Supplemental file too large
+--------------------------
+GSENAME__GSE104174
+--------------------------
+--------------------------
+GSENAME__GSE104227
+--------------------------
+SKIPPED: (GSE104227) Supplemental file too large
+--------------------------
+GSENAME__GSE104282
+--------------------------
+SKIPPED: (GSE104282) Supplemental file too large
+--------------------------
+GSENAME__GSE104288
+--------------------------
+--------------------------
+GSENAME__GSE104354
+--------------------------
+SKIPPED: (GSE104354) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE104458
+--------------------------
+SKIPPED: (GSE104458) readFormat(): Multiple numeric types found in file
+--------------------------
+GSENAME__GSE104490
+--------------------------
+SKIPPED: (GSE104490) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE104589
+--------------------------
+--------------------------
+GSENAME__GSE104664
+--------------------------
+SKIPPED: (GSE104664) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE105211
+--------------------------
+SKIPPED: (GSE105211) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE105216
+--------------------------
+SKIPPED: (GSE105216) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE105253
+--------------------------
+SKIPPED: (GSE105253) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE105771
+--------------------------
+SKIPPED: (GSE105771) formatCheck(): Error reading count file
+--------------------------
+GSENAME__GSE105884
+--------------------------
+--------------------------
+GSENAME__GSE105937
+--------------------------
+SKIPPED: (GSE105937) Supplemental file too large
+--------------------------
+GSENAME__GSE105951
+--------------------------
+SKIPPED: (GSE105951) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE106288
+--------------------------
+SKIPPED: (GSE106288) GeneColumnName(): Gene annotations too complicated, too lazy to parse
+--------------------------
+GSENAME__GSE106359
+--------------------------
+SKIPPED: (GSE106359) Supplemental file too large
+--------------------------
+GSENAME__GSE106414
+--------------------------
+SKIPPED: (GSE106414) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE106420
+--------------------------
+--------------------------
+GSENAME__GSE106503
+--------------------------
+SKIPPED: (GSE106503) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE106520
+--------------------------
+SKIPPED: (GSE106520) readFormat(): unknown problem 
+--------------------------
+GSENAME__GSE106543
+--------------------------
+SKIPPED: (GSE106543) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE106851
+--------------------------
+SKIPPED: (GSE106851) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE107029
+--------------------------
+SKIPPED: (GSE107029) Just confusing
+--------------------------
+GSENAME__GSE107033
+--------------------------
+SKIPPED: (GSE107033) GSE record is super series
+--------------------------
+GSENAME__GSE107111
+--------------------------
+--------------------------
+GSENAME__GSE107112
+--------------------------
+SKIPPED: (GSE107112) GSE record is super series
+--------------------------
+GSENAME__GSE107185
+--------------------------
+SKIPPED: (GSE107185) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE107218
+--------------------------
+SKIPPED: (GSE107218) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE107319
+--------------------------
+--------------------------
+GSENAME__GSE107321
+--------------------------
+SKIPPED: (GSE107321) GSE record is super series
+--------------------------
+GSENAME__GSE107572
+--------------------------
+SKIPPED: (GSE107572) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE107574
+--------------------------
+SKIPPED: (GSE107574) GeneColumnName(): Can not find counts
+--------------------------
+GSENAME__GSE107821
+--------------------------
+SKIPPED: (GSE107821) GeneColumnName(): Gene annotations too complicated, too lazy to parse
+--------------------------
+GSENAME__GSE107965
+--------------------------
+--------------------------
+GSENAME__GSE107981
+--------------------------
+SKIPPED: (GSE107981) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE108012
+--------------------------
+--------------------------
+GSENAME__GSE108026
+--------------------------
+SKIPPED: (GSE108026) readFormat(): Multiple numeric types found in file
+--------------------------
+GSENAME__GSE108028
+--------------------------
+SKIPPED: (GSE108028) Supplemental file too large
+--------------------------
+GSENAME__GSE108352
+--------------------------
+SKIPPED: (GSE108352) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE108443
+--------------------------
+SKIPPED: (GSE108443) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE108444
+--------------------------
+SKIPPED: (GSE108444) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE108465
+--------------------------
+SKIPPED: (GSE108465) writeDataToSQL() endothelial There is something strange about the gene symbols 
+--------------------------
+GSENAME__GSE108526
+--------------------------
+--------------------------
+GSENAME__GSE108651
+--------------------------
+SKIPPED: (GSE108651) Something went wrong with the file merging
+--------------------------
+GSENAME__GSE108663
+--------------------------
+SKIPPED: (GSE108663) readFormat(): too complicated
+--------------------------
+GSENAME__GSE108680
+--------------------------
+SKIPPED: (GSE108680) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE108694
+--------------------------
+SKIPPED: (GSE108694) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE108849
+--------------------------
+SKIPPED: (GSE108849) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE108905
+--------------------------
+SKIPPED: (GSE108905) geneConverter(): Unknown problem 
+--------------------------
+GSENAME__GSE108919
+--------------------------
+SKIPPED: (GSE108919) writeDataToSQL() endothelial There is something strange about the gene symbols 
+--------------------------
+GSENAME__GSE108989
+--------------------------
+SKIPPED: (GSE108989) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE109084
+--------------------------
+SKIPPED: (GSE109084) Just confusing
+--------------------------
+GSENAME__GSE109265
+--------------------------
+SKIPPED: (GSE109265) formatCheck(): difficulty understanding file formatting
+--------------------------
+GSENAME__GSE109322
+--------------------------
+SKIPPED: (GSE109322) formatCheck(): Error reading count file
+--------------------------
+GSENAME__GSE109342
+--------------------------
+--------------------------
+GSENAME__GSE109367
+--------------------------
+SKIPPED: (GSE109367) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE109448
+--------------------------
+SKIPPED: (GSE109448) geneConverter(): Could not convert gene ID format
+--------------------------
+GSENAME__GSE109449
+--------------------------
+SKIPPED: (GSE109449) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE109450
+--------------------------
+SKIPPED: (GSE109450) GSE record is super series
+--------------------------
+GSENAME__GSE109460
+--------------------------
+--------------------------
+GSENAME__GSE109535
+--------------------------
+SKIPPED: (GSE109535) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE109542
+--------------------------
+SKIPPED: (GSE109542) readFormat(): too complicated
+--------------------------
+GSENAME__GSE109625
+--------------------------
+SKIPPED: (GSE109625) Supplemental file too large
+--------------------------
+GSENAME__GSE109626
+--------------------------
+SKIPPED: (GSE109626) Supplemental file too large
+--------------------------
+GSENAME__GSE109683
+--------------------------
+--------------------------
+GSENAME__GSE109700
+--------------------------
+SKIPPED: (GSE109700) formatCheck(): difficulty understanding file formatting
+--------------------------
+GSENAME__GSE109823
+--------------------------
+SKIPPED: (GSE109823) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE109841
+--------------------------
+SKIPPED: (GSE109841) GeneColumnName(): Gene annotations too complicated, too lazy to parse
+--------------------------
+GSENAME__GSE109976
+--------------------------
+--------------------------
+GSENAME__GSE110097
+--------------------------
+SKIPPED: (GSE110097) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE110219
+--------------------------
+SKIPPED: (GSE110219) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE110248
+--------------------------
+--------------------------
+GSENAME__GSE110309
+--------------------------
+SKIPPED: (GSE110309) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE110325
+--------------------------
+SKIPPED: (GSE110325) geneConverter(): Unknown problem 
+--------------------------
+GSENAME__GSE110364
+--------------------------
+--------------------------
+GSENAME__GSE110377
+--------------------------
+SKIPPED: (GSE110377) GSE record is super series
+--------------------------
+GSENAME__GSE110525
+--------------------------
+SKIPPED: (GSE110525) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE110612
+--------------------------
+SKIPPED: (GSE110612) Supplemental file too large
+--------------------------
+GSENAME__GSE110686
+--------------------------
+SKIPPED: (GSE110686) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE110717
+--------------------------
+SKIPPED: (GSE110717) readFormat(): unknown problem 
+--------------------------
+GSENAME__GSE110720
+--------------------------
+SKIPPED: (GSE110720) GSE record is super series
+--------------------------
+GSENAME__GSE110914
+--------------------------
+SKIPPED: (GSE110914) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE110938
+--------------------------
+SKIPPED: (GSE110938) readFormat(): Multiple numeric types found in file
+--------------------------
+GSENAME__GSE110952
+--------------------------
+SKIPPED: (GSE110952) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE111036
+--------------------------
+SKIPPED: (GSE111036) Just confusing
+--------------------------
+GSENAME__GSE111049
+--------------------------
+SKIPPED: (GSE111049) readFormat(): Multiple numeric types found in file
+--------------------------
+GSENAME__GSE111231
+--------------------------
+--------------------------
+GSENAME__GSE111320
+--------------------------
+SKIPPED: (GSE111320) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE111360
+--------------------------
+SKIPPED: (GSE111360) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE111389
+--------------------------
+SKIPPED: (GSE111389) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE111545
+--------------------------
+SKIPPED: (GSE111545) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE111570
+--------------------------
+SKIPPED: (GSE111570) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE111634
+--------------------------
+--------------------------
+GSENAME__GSE111727
+--------------------------
+SKIPPED: (GSE111727) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE111789
+--------------------------
+--------------------------
+GSENAME__GSE111876
+--------------------------
+SKIPPED: (GSE111876) GeneColumnName(): Gene annotations too complicated, too lazy to parse
+--------------------------
+GSENAME__GSE111880
+--------------------------
+SKIPPED: (GSE111880) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE111927
+--------------------------
+SKIPPED: (GSE111927) writeDataToSQL() Monocytes There is something strange about the gene symbols 
+--------------------------
+GSENAME__GSE111958
+--------------------------
+SKIPPED: (GSE111958) formatCheck(): Error reading count file
+--------------------------
+GSENAME__GSE112068
+--------------------------
+--------------------------
+GSENAME__GSE112124
+--------------------------
+--------------------------
+GSENAME__GSE112201
+--------------------------
+SKIPPED: (GSE112201) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE112458
+--------------------------
+SKIPPED: (GSE112458) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE112482
+--------------------------
+SKIPPED: (GSE112482) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE112509
+--------------------------
+SKIPPED: (GSE112509) popDataAndFormat(): unknown problem 
+--------------------------
+GSENAME__GSE112523
+--------------------------
+SKIPPED: (GSE112523) formatCheck(): stupid STAR format...
+--------------------------
+GSENAME__GSE112525
+--------------------------
+SKIPPED: (GSE112525) Supplemental file too large
+--------------------------
+GSENAME__GSE112656
+--------------------------
+SKIPPED: (GSE112656) geneConverter(): Unknown problem 
+--------------------------
+GSENAME__GSE112658
+--------------------------
+SKIPPED: (GSE112658) Supplemental file too large
+--------------------------
+GSENAME__GSE113035
+--------------------------
+SKIPPED: (GSE113035) Just confusing
+--------------------------
+GSENAME__GSE113041
+--------------------------
+SKIPPED: (GSE113041) readFormat(): Multiple numeric types found in file
+--------------------------
+GSENAME__GSE113042
+--------------------------
+SKIPPED: (GSE113042) Supplemental file too large
+--------------------------
+GSENAME__GSE113098
+--------------------------
+SKIPPED: (GSE113098) geneConverter(): Unknown problem 
+--------------------------
+GSENAME__GSE113194
+--------------------------
+SKIPPED: (GSE113194) Supplemental file too large
+--------------------------
+GSENAME__GSE113210
+--------------------------
+SKIPPED: (GSE113210) formatCheck(): difficulty understanding file formatting
+--------------------------
+GSENAME__GSE113287
+--------------------------
+SKIPPED: (GSE113287) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE113504
+--------------------------
+SKIPPED: (GSE113504) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE113550
+--------------------------
+SKIPPED: (GSE113550) Just confusing
+--------------------------
+GSENAME__GSE113588
+--------------------------
+SKIPPED: (GSE113588) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE113648
+--------------------------
+SKIPPED: (GSE113648) Just confusing
+--------------------------
+GSENAME__GSE113655
+--------------------------
+SKIPPED: (GSE113655) Just confusing
+--------------------------
+GSENAME__GSE113659
+--------------------------
+SKIPPED: (GSE113659) readFormat(): File header appears to be missing 
+SKIPPED: (GSE113659) Something went wrong with the file merging
+--------------------------
+GSENAME__GSE113804
+--------------------------
+SKIPPED: (GSE113804) Just confusing
+--------------------------
+GSENAME__GSE113891
+--------------------------
+SKIPPED: (GSE113891) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE114065
+--------------------------
+SKIPPED: (GSE114065) geneConverter(): Unknown problem 
+--------------------------
+GSENAME__GSE114161
+--------------------------
+SKIPPED: (GSE114161) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE114265
+--------------------------
+--------------------------
+GSENAME__GSE114270
+--------------------------
+SKIPPED: (GSE114270) GSE record is super series
+--------------------------
+GSENAME__GSE114296
+--------------------------
+SKIPPED: (GSE114296) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE114514
+--------------------------
+--------------------------
+GSENAME__GSE114519
+--------------------------
+SKIPPED: (GSE114519) geneConverter(): Unknown problem 
+--------------------------
+GSENAME__GSE114541
+--------------------------
+SKIPPED: (GSE114541) readFormat(): too complicated
+--------------------------
+GSENAME__GSE114607
+--------------------------
+SKIPPED: (GSE114607) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE114625
+--------------------------
+SKIPPED: (GSE114625) Just confusing
+--------------------------
+GSENAME__GSE114716
+--------------------------
+SKIPPED: (GSE114716) Just confusing
+--------------------------
+GSENAME__GSE114765
+--------------------------
+--------------------------
+GSENAME__GSE114837
+--------------------------
+SKIPPED: (GSE114837) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE114883
+--------------------------
+SKIPPED: (GSE114883) geneConverter(): Unknown problem 
+--------------------------
+GSENAME__GSE115024
+--------------------------
+SKIPPED: (GSE115024) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE115189
+--------------------------
+SKIPPED: (GSE115189) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE115240
+--------------------------
+SKIPPED: (GSE115240) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE115259
+--------------------------
+SKIPPED: (GSE115259) readFormat(): Can not parse gene IDs
+--------------------------
+GSENAME__GSE115262
+--------------------------
+SKIPPED: (GSE115262) GSE record is super series
+--------------------------
+GSENAME__GSE115266
+--------------------------
+SKIPPED: (GSE115266) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE115305
+--------------------------
+SKIPPED: (GSE115305) writeDataToSQL() CD8_T_cells There is something strange about the gene symbols 
+--------------------------
+GSENAME__GSE115348
+--------------------------
+SKIPPED: (GSE115348) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE115405
+--------------------------
+SKIPPED: (GSE115405) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE115449
+--------------------------
+SKIPPED: (GSE115449) GeneColumnName(): Weird format; could not find Ensemble IDs
+--------------------------
+GSENAME__GSE115653
+--------------------------
+--------------------------
+GSENAME__GSE115655
+--------------------------
+SKIPPED: (GSE115655) popDataAndFormat(): unknown problem 
+--------------------------
+GSENAME__GSE115795
+--------------------------
+SKIPPED: (GSE115795) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE115832
+--------------------------
+SKIPPED: (GSE115832) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE115850
+--------------------------
+SKIPPED: (GSE115850) Just confusing
+--------------------------
+GSENAME__GSE116033
+--------------------------
+SKIPPED: (GSE116033) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE116073
+--------------------------
+SKIPPED: (GSE116073) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE116124
+--------------------------
+SKIPPED: (GSE116124) GeneColumnName(): unknown problem 
+--------------------------
+GSENAME__GSE116178
+--------------------------
+SKIPPED: (GSE116178) formatCheck(): Error reading count file
+--------------------------
+GSENAME__GSE116266
+--------------------------
+SKIPPED: (GSE116266) formatCheck(): Error reading count file
+--------------------------
+GSENAME__GSE116283
+--------------------------
+SKIPPED: (GSE116283) Just confusing
+--------------------------
+GSENAME__GSE116323
+--------------------------
+SKIPPED: (GSE116323) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE116327
+--------------------------
+--------------------------
+GSENAME__GSE116347
+--------------------------
+SKIPPED: (GSE116347) formatCheck(): difficulty understanding file formatting
+--------------------------
+GSENAME__GSE116405
+--------------------------
+--------------------------
+GSENAME__GSE116412
+--------------------------
+SKIPPED: (GSE116412) GSE record is super series
+--------------------------
+GSENAME__GSE116481
+--------------------------
+SKIPPED: (GSE116481) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE116500
+--------------------------
+SKIPPED: (GSE116500) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE116555
+--------------------------
+SKIPPED: (GSE116555) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE116810
+--------------------------
+--------------------------
+GSENAME__GSE116865
+--------------------------
+SKIPPED: (GSE116865) formatCheck(): Error reading count file
+--------------------------
+GSENAME__GSE116899
+--------------------------
+SKIPPED: (GSE116899) readFormat(): too complicated
+--------------------------
+GSENAME__GSE117033
+--------------------------
+SKIPPED: (GSE117033) writeDataToSQL() Too many genes. Something went wrong preparing the final dataframe 
+--------------------------
+GSENAME__GSE117040
+--------------------------
+--------------------------
+GSENAME__GSE117121
+--------------------------
+SKIPPED: (GSE117121) writeDataToSQL() fibroblast There is something strange about the gene symbols 
+--------------------------
+GSENAME__GSE117131
+--------------------------
+SKIPPED: (GSE117131) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE117133
+--------------------------
+--------------------------
+GSENAME__GSE117156
+--------------------------
+SKIPPED: (GSE117156) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE117160
+--------------------------
+SKIPPED: (GSE117160) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE117168
+--------------------------
+SKIPPED: (GSE117168) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE117238
+--------------------------
+SKIPPED: (GSE117238) geneConverter(): Could not convert gene ID format
+--------------------------
+GSENAME__GSE117254
+--------------------------
+SKIPPED: (GSE117254) Supplemental file too large
+--------------------------
+GSENAME__GSE117259
+--------------------------
+SKIPPED: (GSE117259) Supplemental file too large
+--------------------------
+GSENAME__GSE117337
+--------------------------
+SKIPPED: (GSE117337) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE117397
+--------------------------
+SKIPPED: (GSE117397) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE117444
+--------------------------
+SKIPPED: (GSE117444) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE117469
+--------------------------
+SKIPPED: (GSE117469) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE117481
+--------------------------
+--------------------------
+GSENAME__GSE117655
+--------------------------
+SKIPPED: (GSE117655) readFormat(): Multiple numeric types found in file
+--------------------------
+GSENAME__GSE117664
+--------------------------
+SKIPPED: (GSE117664) Something went wrong with the file merging
+--------------------------
+GSENAME__GSE117769
+--------------------------
+SKIPPED: (GSE117769) readFormat(): too complicated
+--------------------------
+GSENAME__GSE117828
+--------------------------
+SKIPPED: (GSE117828) GeneColumnName(): Gene annotations too complicated, too lazy to parse
+--------------------------
+GSENAME__GSE117988
+--------------------------
+SKIPPED: (GSE117988) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE118056
+--------------------------
+SKIPPED: (GSE118056) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE118113
+--------------------------
+SKIPPED: (GSE118113) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE118157
+--------------------------
+--------------------------
+GSENAME__GSE118179
+--------------------------
+--------------------------
+GSENAME__GSE118305
+--------------------------
+SKIPPED: (GSE118305) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE118538
+--------------------------
+--------------------------
+GSENAME__GSE118588
+--------------------------
+SKIPPED: (GSE118588) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE118644
+--------------------------
+SKIPPED: (GSE118644) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE118900
+--------------------------
+SKIPPED: (GSE118900) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE118901
+--------------------------
+--------------------------
+GSENAME__GSE119025
+--------------------------
+SKIPPED: (GSE119025) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE119117
+--------------------------
+SKIPPED: (GSE119117) geneConverter(): Unknown problem 
+--------------------------
+GSENAME__GSE119191
+--------------------------
+--------------------------
+GSENAME__GSE119192
+--------------------------
+SKIPPED: (GSE119192) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE119232
+--------------------------
+SKIPPED: (GSE119232) GeneColumnName(): Gene annotations too complicated, too lazy to parse
+--------------------------
+GSENAME__GSE119320
+--------------------------
+SKIPPED: (GSE119320) Just confusing
+--------------------------
+GSENAME__GSE119331
+--------------------------
+SKIPPED: (GSE119331) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE119373
+--------------------------
+SKIPPED: (GSE119373) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE119375
+--------------------------
+SKIPPED: (GSE119375) GSE record is super series
+--------------------------
+GSENAME__GSE119427
+--------------------------
+--------------------------
+GSENAME__GSE119428
+--------------------------
+SKIPPED: (GSE119428) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE119450
+--------------------------
+SKIPPED: (GSE119450) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE119562
+--------------------------
+SKIPPED: (GSE119562) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE119608
+--------------------------
+SKIPPED: (GSE119608) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE119705
+--------------------------
+--------------------------
+GSENAME__GSE119807
+--------------------------
+SKIPPED: (GSE119807) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE119919
+--------------------------
+SKIPPED: (GSE119919) GSE record is super series
+--------------------------
+GSENAME__GSE20071
+--------------------------
+SKIPPED: (GSE20071) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE20072
+--------------------------
+SKIPPED: (GSE20072) Supplemental file too large
+--------------------------
+GSENAME__GSE23316
+--------------------------
+SKIPPED: (GSE23316) Supplemental file too large
+--------------------------
+GSENAME__GSE29022
+--------------------------
+SKIPPED: (GSE29022) GeneColumnName(): Gene annotations too complicated, too lazy to parse
+--------------------------
+GSENAME__GSE30554
+--------------------------
+SKIPPED: (GSE30554) Supplemental file too large
+--------------------------
+GSENAME__GSE30611
+--------------------------
+SKIPPED: (GSE30611) formatCheck(): Error reading count file
+--------------------------
+GSENAME__GSE30811
+--------------------------
+SKIPPED: (GSE30811) readFormat(): too complicated
+--------------------------
+GSENAME__GSE32340
+--------------------------
+SKIPPED: (GSE32340) Supplemental file too large
+--------------------------
+GSENAME__GSE33281
+--------------------------
+SKIPPED: (GSE33281) Supplemental file too large
+--------------------------
+GSENAME__GSE33592
+--------------------------
+SKIPPED: (GSE33592) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE35394
+--------------------------
+SKIPPED: (GSE35394) readFormat(): Multiple numeric types found in file
+--------------------------
+GSENAME__GSE36952
+--------------------------
+SKIPPED: (GSE36952) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE37376
+--------------------------
+SKIPPED: (GSE37376) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE37703
+--------------------------
+SKIPPED: (GSE37703) formatCheck(): Error reading count file
+--------------------------
+GSENAME__GSE37704
+--------------------------
+SKIPPED: (GSE37704) GSE record is super series
+--------------------------
+GSENAME__GSE38006
+--------------------------
+SKIPPED: (GSE38006) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE38233
+--------------------------
+--------------------------
+GSENAME__GSE38265
+--------------------------
+SKIPPED: (GSE38265) popDataAndFormat(): unknown problem 
+--------------------------
+GSENAME__GSE38993
+--------------------------
+SKIPPED: (GSE38993) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE39229
+--------------------------
+SKIPPED: (GSE39229) Supplemental file too large
+--------------------------
+GSENAME__GSE39537
+--------------------------
+SKIPPED: (GSE39537) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE39661
+--------------------------
+SKIPPED: (GSE39661) formatCheck(): difficulty understanding file formatting
+--------------------------
+GSENAME__GSE39878
+--------------------------
+SKIPPED: (GSE39878) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE40131
+--------------------------
+SKIPPED: (GSE40131) readFormat(): Multiple numeric types found in file
+--------------------------
+GSENAME__GSE40291
+--------------------------
+SKIPPED: (GSE40291) GeneColumnName(): Weird format; could not find Ensemble IDs
+--------------------------
+GSENAME__GSE40548
+--------------------------
+SKIPPED: (GSE40548) formatCheck(): Error reading count file
+--------------------------
+GSENAME__GSE40718
+--------------------------
+SKIPPED: (GSE40718) readFormat(): Can not parse gene IDs
+--------------------------
+GSENAME__GSE40740
+--------------------------
+SKIPPED: (GSE40740) Supplemental file too large
+--------------------------
+GSENAME__GSE40783
+--------------------------
+--------------------------
+GSENAME__GSE40784
+--------------------------
+SKIPPED: (GSE40784) GSE record is super series
+--------------------------
+GSENAME__GSE41166
+--------------------------
+SKIPPED: (GSE41166) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE41180
+--------------------------
+SKIPPED: (GSE41180) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE75384
+--------------------------
+SKIPPED: (GSE75384) No suitable link found
+--------------------------
+GSENAME__GSE104744
+--------------------------
+SKIPPED: (GSE104744) No suitable link found
+--------------------------
+GSENAME__GSE110513
+--------------------------
+SKIPPED: (GSE110513) No suitable link found
+--------------------------
+GSENAME__GSE113590
+--------------------------
+SKIPPED: (GSE113590) No suitable link found
+--------------------------
+GSENAME__GSE66167
+--------------------------
+SKIPPED: (GSE66167) No suitable link found
+--------------------------
+GSENAME__GSE79843
+--------------------------
+SKIPPED: (GSE79843) No suitable link found
+--------------------------
+GSENAME__GSE106541
+--------------------------
+SKIPPED: (GSE106541) No suitable link found
+--------------------------
+GSENAME__GSE106544
+--------------------------
+SKIPPED: (GSE106544) No suitable link found
+--------------------------
+GSENAME__GSE109843
+--------------------------
+SKIPPED: (GSE109843) No suitable link found
+--------------------------
+GSENAME__GSE115007
+--------------------------
+SKIPPED: (GSE115007) No suitable link found
+--------------------------
+GSENAME__GSE117836
+--------------------------
+SKIPPED: (GSE117836) No suitable link found
+--------------------------
+GSENAME__GSE45764
+--------------------------
+SKIPPED: (GSE45764) No suitable link found
+--------------------------
+GSENAME__GSE50724
+--------------------------
+SKIPPED: (GSE50724) No suitable link found
+--------------------------
+GSENAME__GSE50781
+--------------------------
+SKIPPED: (GSE50781) No suitable link found
+--------------------------
+GSENAME__GSE52260
+--------------------------
+SKIPPED: (GSE52260) No suitable link found
+--------------------------
+GSENAME__GSE54950
+--------------------------
+SKIPPED: (GSE54950) No suitable link found
+--------------------------
+GSENAME__GSE63845
+--------------------------
+SKIPPED: (GSE63845) No suitable link found
+--------------------------
+GSENAME__GSE66385
+--------------------------
+SKIPPED: (GSE66385) No suitable link found
+--------------------------
+GSENAME__GSE75748
+--------------------------
+SKIPPED: (GSE75748) No suitable link found
+--------------------------
+GSENAME__GSE80016
+--------------------------
+SKIPPED: (GSE80016) No suitable link found
+--------------------------
+GSENAME__GSE90570
+--------------------------
+SKIPPED: (GSE90570) No suitable link found
+--------------------------
+GSENAME__GSE96569
+--------------------------
+SKIPPED: (GSE96569) No suitable link found
+--------------------------
+GSENAME__GSE97863
+--------------------------
+SKIPPED: (GSE97863) No suitable link found
+--------------------------
+GSENAME__GSE98675
+--------------------------
+SKIPPED: (GSE98675) No suitable link found
+--------------------------
+GSENAME__GSE99231
+--------------------------
+SKIPPED: (GSE99231) No suitable link found
+--------------------------
+GSENAME__GSE100250
+--------------------------
+SKIPPED: (GSE100250) No suitable link found
+--------------------------
+GSENAME__GSE101341
+--------------------------
+SKIPPED: (GSE101341) No suitable link found
+--------------------------
+GSENAME__GSE101821
+--------------------------
+SKIPPED: (GSE101821) No suitable link found
+--------------------------
+GSENAME__GSE101868
+--------------------------
+SKIPPED: (GSE101868) No suitable link found
+--------------------------
+GSENAME__GSE101880
+--------------------------
+SKIPPED: (GSE101880) No suitable link found
+--------------------------
+GSENAME__GSE102145
+--------------------------
+SKIPPED: (GSE102145) No suitable link found
+--------------------------
+GSENAME__GSE102147
+--------------------------
+SKIPPED: (GSE102147) No suitable link found
+--------------------------
+GSENAME__GSE103068
+--------------------------
+SKIPPED: (GSE103068) No suitable link found
+--------------------------
+GSENAME__GSE103831
+--------------------------
+SKIPPED: (GSE103831) No suitable link found
+--------------------------
+GSENAME__GSE104600
+--------------------------
+SKIPPED: (GSE104600) No suitable link found
+--------------------------
+GSENAME__GSE104666
+--------------------------
+SKIPPED: (GSE104666) No suitable link found
+--------------------------
+GSENAME__GSE105064
+--------------------------
+SKIPPED: (GSE105064) No suitable link found
+--------------------------
+GSENAME__GSE106508
+--------------------------
+SKIPPED: (GSE106508) No suitable link found
+--------------------------
+GSENAME__GSE107047
+--------------------------
+SKIPPED: (GSE107047) No suitable link found
+--------------------------
+GSENAME__GSE108445
+--------------------------
+SKIPPED: (GSE108445) No suitable link found
+--------------------------
+GSENAME__GSE108601
+--------------------------
+SKIPPED: (GSE108601) No suitable link found
+--------------------------
+GSENAME__GSE109822
+--------------------------
+SKIPPED: (GSE109822) No suitable link found
+--------------------------
+GSENAME__GSE111437
+--------------------------
+SKIPPED: (GSE111437) No suitable link found
+--------------------------
+GSENAME__GSE112345
+--------------------------
+SKIPPED: (GSE112345) No suitable link found
+--------------------------
+GSENAME__GSE112346
+--------------------------
+SKIPPED: (GSE112346) No suitable link found
+--------------------------
+GSENAME__GSE113211
+--------------------------
+SKIPPED: (GSE113211) No suitable link found
+--------------------------
+GSENAME__GSE114135
+--------------------------
+SKIPPED: (GSE114135) No suitable link found
+--------------------------
+GSENAME__GSE114966
+--------------------------
+SKIPPED: (GSE114966) No suitable link found
+--------------------------
+GSENAME__GSE115006
+--------------------------
+SKIPPED: (GSE115006) No suitable link found
+--------------------------
+GSENAME__GSE115353
+--------------------------
+SKIPPED: (GSE115353) No suitable link found
+--------------------------
+GSENAME__GSE115656
+--------------------------
+SKIPPED: (GSE115656) No suitable link found
+--------------------------
+GSENAME__GSE115940
+--------------------------
+SKIPPED: (GSE115940) No suitable link found
+--------------------------
+GSENAME__GSE117106
+--------------------------
+SKIPPED: (GSE117106) No suitable link found
+--------------------------
+GSENAME__GSE117125
+--------------------------
+SKIPPED: (GSE117125) No suitable link found
+--------------------------
+GSENAME__GSE118530
+--------------------------
+SKIPPED: (GSE118530) No suitable link found
+--------------------------
+GSENAME__GSE119088
+--------------------------
+SKIPPED: (GSE119088) No suitable link found
+--------------------------
+GSENAME__GSE119139
+--------------------------
+SKIPPED: (GSE119139) No suitable link found
+--------------------------
+GSENAME__GSE119193
+--------------------------
+SKIPPED: (GSE119193) No suitable link found
+--------------------------
+GSENAME__GSE119835
+--------------------------
+SKIPPED: (GSE119835) No suitable link found
+--------------------------
+GSENAME__GSE119918
+--------------------------
+SKIPPED: (GSE119918) No suitable link found
+--------------------------
+GSENAME__GSE29038
+--------------------------
+SKIPPED: (GSE29038) No suitable link found
+--------------------------
+GSENAME__GSE29041
+--------------------------
+SKIPPED: (GSE29041) No suitable link found
+--------------------------
+GSENAME__GSE30017
+--------------------------
+SKIPPED: (GSE30017) No suitable link found
+--------------------------
+GSENAME__GSE30222
+--------------------------
+SKIPPED: (GSE30222) No suitable link found
+--------------------------
+GSENAME__GSE30250
+--------------------------
+SKIPPED: (GSE30250) No suitable link found
+--------------------------
+GSENAME__GSE30251
+--------------------------
+SKIPPED: (GSE30251) No suitable link found
+--------------------------
+GSENAME__GSE30352
+--------------------------
+SKIPPED: (GSE30352) No suitable link found
+--------------------------
+GSENAME__GSE31278
+--------------------------
+SKIPPED: (GSE31278) No suitable link found
+--------------------------
+GSENAME__GSE31486
+--------------------------
+SKIPPED: (GSE31486) No suitable link found
+--------------------------
+GSENAME__GSE37378
+--------------------------
+SKIPPED: (GSE37378) No suitable link found
+--------------------------
+GSENAME__GSE39167
+--------------------------
+SKIPPED: (GSE39167) No suitable link found
+--------------------------
+GSENAME__GSE39561
+--------------------------
+SKIPPED: (GSE39561) No suitable link found
+--------------------------
+GSENAME__GSE41687
+--------------------------
+SKIPPED: (GSE41687) No suitable link found
+--------------------------
+GSENAME__GSE44646
+--------------------------
+SKIPPED: (GSE44646) No suitable link found
+--------------------------
+GSENAME__GSE45734
+--------------------------
+SKIPPED: (GSE45734) No suitable link found
+--------------------------
+GSENAME__GSE45735
+--------------------------
+SKIPPED: (GSE45735) No suitable link found
+--------------------------
+GSENAME__GSE47604
+--------------------------
+SKIPPED: (GSE47604) No suitable link found
+--------------------------
+GSENAME__GSE51741
+--------------------------
+SKIPPED: (GSE51741) No suitable link found
+--------------------------
+GSENAME__GSE53080
+--------------------------
+SKIPPED: (GSE53080) No suitable link found
+--------------------------
+GSENAME__GSE55504
+--------------------------
+SKIPPED: (GSE55504) No suitable link found
+--------------------------
+GSENAME__GSE55536
+--------------------------
+SKIPPED: (GSE55536) No suitable link found
+--------------------------
+GSENAME__GSE55727
+--------------------------
+SKIPPED: (GSE55727) No suitable link found
+--------------------------
+GSENAME__GSE58246
+--------------------------
+SKIPPED: (GSE58246) No suitable link found
+--------------------------
+GSENAME__GSE59688
+--------------------------
+SKIPPED: (GSE59688) No suitable link found
+--------------------------
+GSENAME__GSE60047
+--------------------------
+SKIPPED: (GSE60047) No suitable link found
+--------------------------
+GSENAME__GSE60216
+--------------------------
+SKIPPED: (GSE60216) No suitable link found
+--------------------------
+GSENAME__GSE60217
+--------------------------
+SKIPPED: (GSE60217) No suitable link found
+--------------------------
+GSENAME__GSE61343
+--------------------------
+SKIPPED: (GSE61343) No suitable link found
+--------------------------
+GSENAME__GSE64317
+--------------------------
+SKIPPED: (GSE64317) No suitable link found
+--------------------------
+GSENAME__GSE65515
+--------------------------
+SKIPPED: (GSE65515) No suitable link found
+--------------------------
+GSENAME__GSE66357
+--------------------------
+SKIPPED: (GSE66357) No suitable link found
+--------------------------
+GSENAME__GSE66763
+--------------------------
+SKIPPED: (GSE66763) No suitable link found
+--------------------------
+GSENAME__GSE66810
+--------------------------
+SKIPPED: (GSE66810) No suitable link found
+--------------------------
+GSENAME__GSE67470
+--------------------------
+SKIPPED: (GSE67470) No suitable link found
+--------------------------
+GSENAME__GSE67770
+--------------------------
+SKIPPED: (GSE67770) No suitable link found
+--------------------------
+GSENAME__GSE68795
+--------------------------
+SKIPPED: (GSE68795) No suitable link found
+--------------------------
+GSENAME__GSE70830
+--------------------------
+SKIPPED: (GSE70830) No suitable link found
+--------------------------
+GSENAME__GSE71164
+--------------------------
+SKIPPED: (GSE71164) No suitable link found
+--------------------------
+GSENAME__GSE72420
+--------------------------
+SKIPPED: (GSE72420) No suitable link found
+--------------------------
+GSENAME__GSE72822
+--------------------------
+SKIPPED: (GSE72822) No suitable link found
+--------------------------
+GSENAME__GSE73887
+--------------------------
+SKIPPED: (GSE73887) No suitable link found
+--------------------------
+GSENAME__GSE73929
+--------------------------
+SKIPPED: (GSE73929) No suitable link found
+--------------------------
+GSENAME__GSE73936
+--------------------------
+SKIPPED: (GSE73936) No suitable link found
+--------------------------
+GSENAME__GSE74029
+--------------------------
+SKIPPED: (GSE74029) No suitable link found
+--------------------------
+GSENAME__GSE74279
+--------------------------
+SKIPPED: (GSE74279) No suitable link found
+--------------------------
+GSENAME__GSE74924
+--------------------------
+SKIPPED: (GSE74924) No suitable link found
+--------------------------
+GSENAME__GSE75935
+--------------------------
+SKIPPED: (GSE75935) No suitable link found
+--------------------------
+GSENAME__GSE76445
+--------------------------
+SKIPPED: (GSE76445) No suitable link found
+--------------------------
+GSENAME__GSE76663
+--------------------------
+SKIPPED: (GSE76663) No suitable link found
+--------------------------
+GSENAME__GSE76878
+--------------------------
+SKIPPED: (GSE76878) No suitable link found
+--------------------------
+GSENAME__GSE77371
+--------------------------
+SKIPPED: (GSE77371) No suitable link found
+--------------------------
+GSENAME__GSE77742
+--------------------------
+SKIPPED: (GSE77742) No suitable link found
+--------------------------
+GSENAME__GSE79120
+--------------------------
+SKIPPED: (GSE79120) No suitable link found
+--------------------------
+GSENAME__GSE81239
+--------------------------
+SKIPPED: (GSE81239) No suitable link found
+--------------------------
+GSENAME__GSE81252
+--------------------------
+SKIPPED: (GSE81252) No suitable link found
+--------------------------
+GSENAME__GSE81444
+--------------------------
+SKIPPED: (GSE81444) No suitable link found
+--------------------------
+GSENAME__GSE81809
+--------------------------
+SKIPPED: (GSE81809) No suitable link found
+--------------------------
+GSENAME__GSE83451
+--------------------------
+SKIPPED: (GSE83451) No suitable link found
+--------------------------
+GSENAME__GSE83551
+--------------------------
+SKIPPED: (GSE83551) No suitable link found
+--------------------------
+GSENAME__GSE83694
+--------------------------
+SKIPPED: (GSE83694) No suitable link found
+--------------------------
+GSENAME__GSE84188
+--------------------------
+SKIPPED: (GSE84188) No suitable link found
+--------------------------
+GSENAME__GSE84204
+--------------------------
+SKIPPED: (GSE84204) No suitable link found
+--------------------------
+GSENAME__GSE84692
+--------------------------
+SKIPPED: (GSE84692) No suitable link found
+--------------------------
+GSENAME__GSE85534
+--------------------------
+SKIPPED: (GSE85534) No suitable link found
+--------------------------
+GSENAME__GSE85908
+--------------------------
+SKIPPED: (GSE85908) No suitable link found
+--------------------------
+GSENAME__GSE86791
+--------------------------
+SKIPPED: (GSE86791) No suitable link found
+--------------------------
+GSENAME__GSE87040
+--------------------------
+SKIPPED: (GSE87040) No suitable link found
+--------------------------
+GSENAME__GSE87290
+--------------------------
+SKIPPED: (GSE87290) No suitable link found
+--------------------------
+GSENAME__GSE87564
+--------------------------
+SKIPPED: (GSE87564) No suitable link found
+--------------------------
+GSENAME__GSE88751
+--------------------------
+SKIPPED: (GSE88751) No suitable link found
+--------------------------
+GSENAME__GSE88957
+--------------------------
+SKIPPED: (GSE88957) No suitable link found
+--------------------------
+GSENAME__GSE89266
+--------------------------
+SKIPPED: (GSE89266) No suitable link found
+--------------------------
+GSENAME__GSE89774
+--------------------------
+SKIPPED: (GSE89774) No suitable link found
+--------------------------
+GSENAME__GSE90489
+--------------------------
+SKIPPED: (GSE90489) No suitable link found
+--------------------------
+GSENAME__GSE90730
+--------------------------
+SKIPPED: (GSE90730) No suitable link found
+--------------------------
+GSENAME__GSE92543
+--------------------------
+SKIPPED: (GSE92543) No suitable link found
+--------------------------
+GSENAME__GSE94116
+--------------------------
+SKIPPED: (GSE94116) No suitable link found
+--------------------------
+GSENAME__GSE94162
+--------------------------
+SKIPPED: (GSE94162) No suitable link found
+--------------------------
+GSENAME__GSE94165
+--------------------------
+SKIPPED: (GSE94165) No suitable link found
+--------------------------
+GSENAME__GSE94169
+--------------------------
+SKIPPED: (GSE94169) No suitable link found
+--------------------------
+GSENAME__GSE94171
+--------------------------
+SKIPPED: (GSE94171) No suitable link found
+--------------------------
+GSENAME__GSE94176
+--------------------------
+SKIPPED: (GSE94176) No suitable link found
+--------------------------
+GSENAME__GSE94180
+--------------------------
+SKIPPED: (GSE94180) No suitable link found
+--------------------------
+GSENAME__GSE94188
+--------------------------
+SKIPPED: (GSE94188) No suitable link found
+--------------------------
+GSENAME__GSE94189
+--------------------------
+SKIPPED: (GSE94189) No suitable link found
+--------------------------
+GSENAME__GSE94191
+--------------------------
+SKIPPED: (GSE94191) No suitable link found
+--------------------------
+GSENAME__GSE94194
+--------------------------
+SKIPPED: (GSE94194) No suitable link found
+--------------------------
+GSENAME__GSE94197
+--------------------------
+SKIPPED: (GSE94197) No suitable link found
+--------------------------
+GSENAME__GSE94204
+--------------------------
+SKIPPED: (GSE94204) No suitable link found
+--------------------------
+GSENAME__GSE94205
+--------------------------
+SKIPPED: (GSE94205) No suitable link found
+--------------------------
+GSENAME__GSE94207
+--------------------------
+SKIPPED: (GSE94207) No suitable link found
+--------------------------
+GSENAME__GSE94208
+--------------------------
+SKIPPED: (GSE94208) No suitable link found
+--------------------------
+GSENAME__GSE94210
+--------------------------
+SKIPPED: (GSE94210) No suitable link found
+--------------------------
+GSENAME__GSE94214
+--------------------------
+SKIPPED: (GSE94214) No suitable link found
+--------------------------
+GSENAME__GSE94215
+--------------------------
+SKIPPED: (GSE94215) No suitable link found
+--------------------------
+GSENAME__GSE94218
+--------------------------
+SKIPPED: (GSE94218) No suitable link found
+--------------------------
+GSENAME__GSE94225
+--------------------------
+SKIPPED: (GSE94225) No suitable link found
+--------------------------
+GSENAME__GSE94892
+--------------------------
+SKIPPED: (GSE94892) No suitable link found
+--------------------------
+GSENAME__GSE95391
+--------------------------
+SKIPPED: (GSE95391) No suitable link found
+--------------------------
+GSENAME__GSE95461
+--------------------------
+SKIPPED: (GSE95461) No suitable link found
+--------------------------
+GSENAME__GSE95573
+--------------------------
+SKIPPED: (GSE95573) No suitable link found
+--------------------------
+GSENAME__GSE96097
+--------------------------
+SKIPPED: (GSE96097) No suitable link found
+--------------------------
+GSENAME__GSE97395
+--------------------------
+SKIPPED: (GSE97395) No suitable link found
+--------------------------
+GSENAME__GSE98369
+--------------------------
+SKIPPED: (GSE98369) No suitable link found
+--------------------------
+GSENAME__GSE41357
+--------------------------
+SKIPPED: (GSE41357) readFormat(): too complicated
+--------------------------
+GSENAME__GSE41616
+--------------------------
+SKIPPED: (GSE41616) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE41716
+--------------------------
+SKIPPED: (GSE41716) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE41761
+--------------------------
+--------------------------
+GSENAME__GSE42212
+--------------------------
+SKIPPED: (GSE42212) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE42213
+--------------------------
+SKIPPED: (GSE42213) Supplemental file too large
+--------------------------
+GSENAME__GSE42509
+--------------------------
+SKIPPED: (GSE42509) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE42960
+--------------------------
+--------------------------
+GSENAME__GSE43440
+--------------------------
+SKIPPED: (GSE43440) Something went wrong with the file merging
+--------------------------
+GSENAME__GSE43549
+--------------------------
+SKIPPED: (GSE43549) GeneColumnName(): Weird format; could not find Ensemble IDs
+--------------------------
+GSENAME__GSE43788
+--------------------------
+SKIPPED: (GSE43788) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE43789
+--------------------------
+SKIPPED: (GSE43789) GSE record is super series
+--------------------------
+GSENAME__GSE43984
+--------------------------
+SKIPPED: (GSE43984) readFormat(): Can not parse gene IDs
+--------------------------
+GSENAME__GSE44457
+--------------------------
+SKIPPED: (GSE44457) readFormat(): Multiple numeric types found in file
+--------------------------
+GSENAME__GSE45428
+--------------------------
+SKIPPED: (GSE45428) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE45785
+--------------------------
+SKIPPED: (GSE45785) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE45833
+--------------------------
+SKIPPED: (GSE45833) Supplemental file too large
+--------------------------
+GSENAME__GSE46217
+--------------------------
+SKIPPED: (GSE46217) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE46220
+--------------------------
+SKIPPED: (GSE46220) GSE record is super series
+--------------------------
+GSENAME__GSE46502
+--------------------------
+SKIPPED: (GSE46502) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE46503
+--------------------------
+SKIPPED: (GSE46503) GSE record is super series
+--------------------------
+GSENAME__GSE46846
+--------------------------
+SKIPPED: (GSE46846) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE47636
+--------------------------
+SKIPPED: (GSE47636) readFormat(): unknown problem 
+--------------------------
+GSENAME__GSE47747
+--------------------------
+SKIPPED: (GSE47747) GSE record is super series
+--------------------------
+GSENAME__GSE47774
+--------------------------
+SKIPPED: (GSE47774) popDataAndFormat(): unknown problem 
+--------------------------
+GSENAME__GSE48305
+--------------------------
+SKIPPED: (GSE48305) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE48307
+--------------------------
+SKIPPED: (GSE48307) GSE record is super series
+--------------------------
+GSENAME__GSE48678
+--------------------------
+SKIPPED: (GSE48678) GeneColumnName(): Weird format; could not find Ensemble IDs
+--------------------------
+GSENAME__GSE48933
+--------------------------
+SKIPPED: (GSE48933) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE49074
+--------------------------
+SKIPPED: (GSE49074) GeneColumnName(): Weird format; could not find Ensemble IDs
+--------------------------
+GSENAME__GSE49159
+--------------------------
+SKIPPED: (GSE49159) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE49712
+--------------------------
+SKIPPED: (GSE49712) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE51025
+--------------------------
+SKIPPED: (GSE51025) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE51518
+--------------------------
+--------------------------
+GSENAME__GSE51519
+--------------------------
+SKIPPED: (GSE51519) Supplemental file too large
+--------------------------
+GSENAME__GSE51607
+--------------------------
+--------------------------
+GSENAME__GSE51684
+--------------------------
+SKIPPED: (GSE51684) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE52642
+--------------------------
+SKIPPED: (GSE52642) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE52742
+--------------------------
+SKIPPED: (GSE52742) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE52934
+--------------------------
+SKIPPED: (GSE52934) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE52975
+--------------------------
+--------------------------
+GSENAME__GSE52977
+--------------------------
+SKIPPED: (GSE52977) GSE record is super series
+--------------------------
+GSENAME__GSE53081
+--------------------------
+SKIPPED: (GSE53081) GSE record is super series
+--------------------------
+GSENAME__GSE53094
+--------------------------
+SKIPPED: (GSE53094) makeGSEsampleIDs(): unknown problem 
+--------------------------
+GSENAME__GSE53096
+--------------------------
+SKIPPED: (GSE53096) GSE record is super series
+--------------------------
+GSENAME__GSE53510
+--------------------------
+--------------------------
+GSENAME__GSE53635
+--------------------------
+SKIPPED: (GSE53635) readFormat(): too complicated
+--------------------------
+GSENAME__GSE53983
+--------------------------
+SKIPPED: (GSE53983) makeGSEsampleIDs(): Not human samples
+--------------------------
+GSENAME__GSE53993
+--------------------------
+SKIPPED: (GSE53993) popDataAndFormat(): unknown problem 
+--------------------------
+GSENAME__GSE54066
+--------------------------
+SKIPPED: (GSE54066) writeDataToSQL() fibroblast There is something strange about the gene symbols 
+--------------------------
+GSENAME__GSE54201
+--------------------------
+SKIPPED: (GSE54201) popDataAndFormat(): CDS does not include the GSMs mentioned in sampleMeta
+--------------------------
+GSENAME__GSE54333
+--------------------------
+SKIPPED: (GSE54333) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE54334
+--------------------------
+SKIPPED: (GSE54334) GSE record is super series
+--------------------------
+GSENAME__GSE54384
+--------------------------
+SKIPPED: (GSE54384) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE54401
+--------------------------
+SKIPPED: (GSE54401) GeneColumnName(): Weird format; could not find Ensemble IDs
+--------------------------
+GSENAME__GSE54416
+--------------------------
+SKIPPED: (GSE54416) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE54602
+--------------------------
+SKIPPED: (GSE54602) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE54726
+--------------------------
+SKIPPED: (GSE54726) GSE record is super series
+--------------------------
+GSENAME__GSE54846
+--------------------------
+SKIPPED: (GSE54846) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE54847
+--------------------------
+SKIPPED: (GSE54847) GSE record is super series
+--------------------------
+GSENAME__GSE54906
+--------------------------
+SKIPPED: (GSE54906) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE54908
+--------------------------
+SKIPPED: (GSE54908) Supplemental file too large
+--------------------------
+GSENAME__GSE54912
+--------------------------
+SKIPPED: (GSE54912) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE54968
+--------------------------
+SKIPPED: (GSE54968) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE54969
+--------------------------
+SKIPPED: (GSE54969) GSE record is super series
+--------------------------
+GSENAME__GSE55271
+--------------------------
+SKIPPED: (GSE55271) readFormat(): too complicated
+--------------------------
+GSENAME__GSE55275
+--------------------------
+SKIPPED: (GSE55275) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE55426
+--------------------------
+SKIPPED: (GSE55426) Supplemental file too large
+--------------------------
+GSENAME__GSE55534
+--------------------------
+SKIPPED: (GSE55534) GeneColumnName(): Weird format; could not find Ensemble IDs
+--------------------------
+GSENAME__GSE55949
+--------------------------
+SKIPPED: (GSE55949) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE56091
+--------------------------
+SKIPPED: (GSE56091) readFormat(): File header appears to be missing 
+SKIPPED: (GSE56091) Something went wrong with the file merging
+--------------------------
+GSENAME__GSE56093
+--------------------------
+SKIPPED: (GSE56093) GSE record is super series
+--------------------------
+GSENAME__GSE56144
+--------------------------
+SKIPPED: (GSE56144) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE56293
+--------------------------
+SKIPPED: (GSE56293) Something went wrong with the file merging
+--------------------------
+GSENAME__GSE56398
+--------------------------
+--------------------------
+GSENAME__GSE56788
+--------------------------
+SKIPPED: (GSE56788) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE57049
+--------------------------
+SKIPPED: (GSE57049) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE57253
+--------------------------
+SKIPPED: (GSE57253) formatCheck(): difficulty understanding file formatting
+--------------------------
+GSENAME__GSE57353
+--------------------------
+SKIPPED: (GSE57353) Supplemental file too large
+--------------------------
+GSENAME__GSE57494
+--------------------------
+--------------------------
+GSENAME__GSE57662
+--------------------------
+SKIPPED: (GSE57662) GeneColumnName(): Weird format; could not find Ensemble IDs
+--------------------------
+GSENAME__GSE57723
+--------------------------
+SKIPPED: (GSE57723) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE57732
+--------------------------
+SKIPPED: (GSE57732) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE57826
+--------------------------
+SKIPPED: (GSE57826) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE57828
+--------------------------
+SKIPPED: (GSE57828) GSE record is super series
+--------------------------
+GSENAME__GSE57973
+--------------------------
+SKIPPED: (GSE57973) formatCheck(): stupid STAR format...
+--------------------------
+GSENAME__GSE58122
+--------------------------
+--------------------------
+GSENAME__GSE58168
+--------------------------
+SKIPPED: (GSE58168) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE58335
+--------------------------
+SKIPPED: (GSE58335) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE58663
+--------------------------
+SKIPPED: (GSE58663) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE58740
+--------------------------
+SKIPPED: (GSE58740) Supplemental file too large
+--------------------------
+GSENAME__GSE59364
+--------------------------
+SKIPPED: (GSE59364) formatCheck(): difficulty understanding file formatting
+--------------------------
+GSENAME__GSE59365
+--------------------------
+SKIPPED: (GSE59365) GSE record is super series
+--------------------------
+GSENAME__GSE59386
+--------------------------
+SKIPPED: (GSE59386) formatCheck(): difficulty understanding file formatting
+--------------------------
+GSENAME__GSE59528
+--------------------------
+SKIPPED: (GSE59528) Just confusing
+--------------------------
+GSENAME__GSE59693
+--------------------------
+SKIPPED: (GSE59693) Supplemental file too large
+--------------------------
+GSENAME__GSE59717
+--------------------------
+SKIPPED: (GSE59717) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE60040
+--------------------------
+SKIPPED: (GSE60040) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE60196
+--------------------------
+SKIPPED: (GSE60196) Something went wrong with the file merging
+--------------------------
+GSENAME__GSE60197
+--------------------------
+SKIPPED: (GSE60197) Something went wrong with the file merging
+--------------------------
+GSENAME__GSE60198
+--------------------------
+SKIPPED: (GSE60198) GSE record is super series
+--------------------------
+GSENAME__GSE60308
+--------------------------
+SKIPPED: (GSE60308) Just confusing
+--------------------------
+GSENAME__GSE60340
+--------------------------
+SKIPPED: (GSE60340) Just confusing
+--------------------------
+GSENAME__GSE60481
+--------------------------
+SKIPPED: (GSE60481) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE60482
+--------------------------
+SKIPPED: (GSE60482) Supplemental file too large
+--------------------------
+GSENAME__GSE60548
+--------------------------
+SKIPPED: (GSE60548) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE60883
+--------------------------
+SKIPPED: (GSE60883) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE60996
+--------------------------
+SKIPPED: (GSE60996) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE61390
+--------------------------
+SKIPPED: (GSE61390) makeGSEsampleIDs(): unknown problem 
+--------------------------
+GSENAME__GSE61490
+--------------------------
+--------------------------
+GSENAME__GSE61600
+--------------------------
+--------------------------
+GSENAME__GSE61656
+--------------------------
+SKIPPED: (GSE61656) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE61657
+--------------------------
+SKIPPED: (GSE61657) GSE record is super series
+--------------------------
+GSENAME__GSE61797
+--------------------------
+SKIPPED: (GSE61797) readFormat(): unknown problem 
+--------------------------
+GSENAME__GSE62056
+--------------------------
+SKIPPED: (GSE62056) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE62058
+--------------------------
+SKIPPED: (GSE62058) Supplemental file too large
+--------------------------
+GSENAME__GSE62241
+--------------------------
+SKIPPED: (GSE62241) Supplemental file too large
+--------------------------
+GSENAME__GSE62246
+--------------------------
+SKIPPED: (GSE62246) Supplemental file too large
+--------------------------
+GSENAME__GSE62448
+--------------------------
+SKIPPED: (GSE62448) formatCheck(): Error reading count file
+--------------------------
+GSENAME__GSE62540
+--------------------------
+SKIPPED: (GSE62540) readFormat(): Multiple numeric types found in file
+--------------------------
+GSENAME__GSE62907
+--------------------------
+SKIPPED: (GSE62907) GSE record is super series
+--------------------------
+GSENAME__GSE62920
+--------------------------
+SKIPPED: (GSE62920) Just confusing
+--------------------------
+GSENAME__GSE62923
+--------------------------
+SKIPPED: (GSE62923) Supplemental file too large
+--------------------------
+GSENAME__GSE62966
+--------------------------
+SKIPPED: (GSE62966) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE62968
+--------------------------
+SKIPPED: (GSE62968) Just confusing
+--------------------------
+GSENAME__GSE62974
+--------------------------
+SKIPPED: (GSE62974) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE62982
+--------------------------
+SKIPPED: (GSE62982) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE63055
+--------------------------
+SKIPPED: (GSE63055) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE63058
+--------------------------
+SKIPPED: (GSE63058) Supplemental file too large
+--------------------------
+GSENAME__GSE63085
+--------------------------
+--------------------------
+GSENAME__GSE63144
+--------------------------
+--------------------------
+GSENAME__GSE63147
+--------------------------
+SKIPPED: (GSE63147) GSE record is super series
+--------------------------
+GSENAME__GSE63283
+--------------------------
+SKIPPED: (GSE63283) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE63577
+--------------------------
+SKIPPED: (GSE63577) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE63703
+--------------------------
+SKIPPED: (GSE63703) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE63755
+--------------------------
+SKIPPED: (GSE63755) formatCheck(): Error reading count file
+--------------------------
+GSENAME__GSE63797
+--------------------------
+SKIPPED: (GSE63797) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE63807
+--------------------------
+SKIPPED: (GSE63807) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE63840
+--------------------------
+SKIPPED: (GSE63840) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE64179
+--------------------------
+SKIPPED: (GSE64179) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE64182
+--------------------------
+SKIPPED: (GSE64182) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE64183
+--------------------------
+SKIPPED: (GSE64183) Supplemental file too large
+--------------------------
+GSENAME__GSE64553
+--------------------------
+SKIPPED: (GSE64553) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE64712
+--------------------------
+SKIPPED: (GSE64712) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE64713
+--------------------------
+SKIPPED: (GSE64713) Something went wrong with the file merging
+--------------------------
+GSENAME__GSE64882
+--------------------------
+SKIPPED: (GSE64882) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE64962
+--------------------------
+SKIPPED: (GSE64962) Supplemental file too large
+--------------------------
+GSENAME__GSE65039
+--------------------------
+SKIPPED: (GSE65039) formatCheck(): Error reading count file
+--------------------------
+GSENAME__GSE65145
+--------------------------
+SKIPPED: (GSE65145) readFormat(): Multiple numeric types found in file
+--------------------------
+GSENAME__GSE65473
+--------------------------
+--------------------------
+GSENAME__GSE65474
+--------------------------
+SKIPPED: (GSE65474) GSE record is super series
+--------------------------
+GSENAME__GSE65518
+--------------------------
+SKIPPED: (GSE65518) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE65520
+--------------------------
+SKIPPED: (GSE65520) GSE record is super series
+--------------------------
+GSENAME__GSE65545
+--------------------------
+SKIPPED: (GSE65545) formatCheck(): difficulty understanding file formatting
+--------------------------
+GSENAME__GSE65546
+--------------------------
+SKIPPED: (GSE65546) GSE record is super series
+--------------------------
+GSENAME__GSE65621
+--------------------------
+SKIPPED: (GSE65621) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE65634
+--------------------------
+SKIPPED: (GSE65634) formatCheck(): Error reading count file
+--------------------------
+GSENAME__GSE65885
+--------------------------
+SKIPPED: (GSE65885) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE65991
+--------------------------
+--------------------------
+GSENAME__GSE66053
+--------------------------
+SKIPPED: (GSE66053) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE66306
+--------------------------
+SKIPPED: (GSE66306) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE66798
+--------------------------
+SKIPPED: (GSE66798) Supplemental file too large
+--------------------------
+GSENAME__GSE66809
+--------------------------
+SKIPPED: (GSE66809) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE66895
+--------------------------
+--------------------------
+GSENAME__GSE66898
+--------------------------
+SKIPPED: (GSE66898) GSE record is super series
+--------------------------
+GSENAME__GSE67141
+--------------------------
+SKIPPED: (GSE67141) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE67250
+--------------------------
+SKIPPED: (GSE67250) readFormat(): Multiple numeric types found in file
+--------------------------
+GSENAME__GSE67427
+--------------------------
+SKIPPED: (GSE67427) writeDataToSQL() Macrophage There is something strange about the gene symbols 
+--------------------------
+GSENAME__GSE67659
+--------------------------
+SKIPPED: (GSE67659) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE67685
+--------------------------
+SKIPPED: (GSE67685) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE67835
+--------------------------
+SKIPPED: (GSE67835) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE68180
+--------------------------
+SKIPPED: (GSE68180) popDataAndFormat(): unknown problem 
+--------------------------
+GSENAME__GSE68234
+--------------------------
+SKIPPED: (GSE68234) readFormat(): too complicated
+--------------------------
+GSENAME__GSE68327
+--------------------------
+SKIPPED: (GSE68327) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE68452
+--------------------------
+--------------------------
+GSENAME__GSE68535
+--------------------------
+SKIPPED: (GSE68535) writeDataToSQL() endothelial There is something strange about the gene symbols 
+--------------------------
+GSENAME__GSE68836
+--------------------------
+--------------------------
+GSENAME__GSE68847
+--------------------------
+SKIPPED: (GSE68847) GSE record is super series
+--------------------------
+GSENAME__GSE68938
+--------------------------
+SKIPPED: (GSE68938) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE68953
+--------------------------
+SKIPPED: (GSE68953) GSE record is super series
+--------------------------
+GSENAME__GSE69110
+--------------------------
+SKIPPED: (GSE69110) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE69111
+--------------------------
+SKIPPED: (GSE69111) GSE record is super series
+--------------------------
+GSENAME__GSE69292
+--------------------------
+SKIPPED: (GSE69292) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE69351
+--------------------------
+--------------------------
+GSENAME__GSE69446
+--------------------------
+SKIPPED: (GSE69446) Supplemental file too large
+--------------------------
+GSENAME__GSE69596
+--------------------------
+SKIPPED: (GSE69596) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE69735
+--------------------------
+SKIPPED: (GSE69735) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE69737
+--------------------------
+SKIPPED: (GSE69737) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE69797
+--------------------------
+--------------------------
+GSENAME__GSE69906
+--------------------------
+SKIPPED: (GSE69906) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE70068
+--------------------------
+SKIPPED: (GSE70068) formatCheck(): Error reading count file
+--------------------------
+GSENAME__GSE70330
+--------------------------
+SKIPPED: (GSE70330) GeneColumnName(): Gene annotations too complicated, too lazy to parse
+--------------------------
+GSENAME__GSE70390
+--------------------------
+SKIPPED: (GSE70390) formatCheck(): Error reading count file
+--------------------------
+GSENAME__GSE70580
+--------------------------
+SKIPPED: (GSE70580) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE70620
+--------------------------
+--------------------------
+GSENAME__GSE70668
+--------------------------
+SKIPPED: (GSE70668) formatCheck(): difficulty understanding file formatting
+--------------------------
+GSENAME__GSE70709
+--------------------------
+SKIPPED: (GSE70709) Supplemental file too large
+--------------------------
+GSENAME__GSE70785
+--------------------------
+SKIPPED: (GSE70785) formatCheck(): Error reading count file
+--------------------------
+GSENAME__GSE71203
+--------------------------
+SKIPPED: (GSE71203) readFormat(): Multiple numeric types found in file
+--------------------------
+GSENAME__GSE71216
+--------------------------
+SKIPPED: (GSE71216) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE71382
+--------------------------
+SKIPPED: (GSE71382) Just confusing
+--------------------------
+GSENAME__GSE71536
+--------------------------
+SKIPPED: (GSE71536) Just confusing
+--------------------------
+GSENAME__GSE71595
+--------------------------
+SKIPPED: (GSE71595) GeneColumnName(): Weird format; could not find Ensemble IDs
+--------------------------
+GSENAME__GSE71597
+--------------------------
+SKIPPED: (GSE71597) Supplemental file too large
+--------------------------
+GSENAME__GSE71689
+--------------------------
+SKIPPED: (GSE71689) readFormat(): too complicated
+--------------------------
+GSENAME__GSE71709
+--------------------------
+--------------------------
+GSENAME__GSE71911
+--------------------------
+SKIPPED: (GSE71911) Supplemental file too large
+--------------------------
+GSENAME__GSE72061
+--------------------------
+SKIPPED: (GSE72061) readFormat(): too complicated
+--------------------------
+GSENAME__GSE72400
+--------------------------
+SKIPPED: (GSE72400) readFormat(): too complicated
+--------------------------
+GSENAME__GSE72501
+--------------------------
+SKIPPED: (GSE72501) formatCheck(): difficulty understanding file formatting
+--------------------------
+GSENAME__GSE72589
+--------------------------
+SKIPPED: (GSE72589) Just confusing
+--------------------------
+GSENAME__GSE72713
+--------------------------
+SKIPPED: (GSE72713) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE72821
+--------------------------
+--------------------------
+GSENAME__GSE73211
+--------------------------
+SKIPPED: (GSE73211) popDataAndFormat(): unknown problem 
+--------------------------
+GSENAME__GSE73277
+--------------------------
+SKIPPED: (GSE73277) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE73313
+--------------------------
+--------------------------
+GSENAME__GSE73362
+--------------------------
+SKIPPED: (GSE73362) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE73471
+--------------------------
+SKIPPED: (GSE73471) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE73502
+--------------------------
+SKIPPED: (GSE73502) Something went wrong with the file merging
+--------------------------
+GSENAME__GSE73527
+--------------------------
+SKIPPED: (GSE73527) DownloadData(): unknown problem 
+--------------------------
+GSENAME__GSE73721
+--------------------------
+--------------------------
+GSENAME__GSE73765
+--------------------------
+SKIPPED: (GSE73765) GSE record is super series
+--------------------------
+GSENAME__GSE73853
+--------------------------
+SKIPPED: (GSE73853) Supplemental file too large
+--------------------------
+GSENAME__GSE73986
+--------------------------
+SKIPPED: (GSE73986) readFormat(): Multiple numeric types found in file
+--------------------------
+GSENAME__GSE74235
+--------------------------
+SKIPPED: (GSE74235) readFormat(): Multiple numeric types found in file
+--------------------------
+GSENAME__GSE74322
+--------------------------
+SKIPPED: (GSE74322) Just confusing
+--------------------------
+GSENAME__GSE74324
+--------------------------
+SKIPPED: (GSE74324) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE74328
+--------------------------
+SKIPPED: (GSE74328) Supplemental file too large
+--------------------------
+GSENAME__GSE74339
+--------------------------
+SKIPPED: (GSE74339) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE74369
+--------------------------
+SKIPPED: (GSE74369) Just confusing
+--------------------------
+GSENAME__GSE74508
+--------------------------
+SKIPPED: (GSE74508) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE74974
+--------------------------
+--------------------------
+GSENAME__GSE74977
+--------------------------
+SKIPPED: (GSE74977) Supplemental file too large
+--------------------------
+GSENAME__GSE75011
+--------------------------
+--------------------------
+GSENAME__GSE75042
+--------------------------
+SKIPPED: (GSE75042) formatCheck(): difficulty understanding file formatting
+--------------------------
+GSENAME__GSE75130
+--------------------------
+SKIPPED: (GSE75130) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE75364
+--------------------------
+SKIPPED: (GSE75364) Supplemental file too large
+--------------------------
+GSENAME__GSE75643
+--------------------------
+SKIPPED: (GSE75643) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE75659
+--------------------------
+SKIPPED: (GSE75659) Supplemental file too large
+--------------------------
+GSENAME__GSE75885
+--------------------------
+SKIPPED: (GSE75885) popDataAndFormat(): unknown problem 
+--------------------------
+GSENAME__GSE75990
+--------------------------
+SKIPPED: (GSE75990) popDataAndFormat(): unknown problem 
+--------------------------
+GSENAME__GSE76125
+--------------------------
+SKIPPED: (GSE76125) formatCheck(): difficulty understanding file formatting
+--------------------------
+GSENAME__GSE76270
+--------------------------
+SKIPPED: (GSE76270) Supplemental file too large
+--------------------------
+GSENAME__GSE76381
+--------------------------
+SKIPPED: (GSE76381) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE76425
+--------------------------
+SKIPPED: (GSE76425) readFormat(): too complicated
+--------------------------
+GSENAME__GSE76572
+--------------------------
+SKIPPED: (GSE76572) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE76605
+--------------------------
+SKIPPED: (GSE76605) GSE record is super series
+--------------------------
+GSENAME__GSE76743
+--------------------------
+--------------------------
+GSENAME__GSE77108
+--------------------------
+SKIPPED: (GSE77108) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE77129
+--------------------------
+SKIPPED: (GSE77129) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE77131
+--------------------------
+SKIPPED: (GSE77131) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE77136
+--------------------------
+SKIPPED: (GSE77136) GSE record is super series
+--------------------------
+GSENAME__GSE77370
+--------------------------
+SKIPPED: (GSE77370) geneConverter(): Unknown problem 
+--------------------------
+GSENAME__GSE77443
+--------------------------
+SKIPPED: (GSE77443) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE77522
+--------------------------
+SKIPPED: (GSE77522) GeneColumnName(): Weird format; could not find Ensemble IDs
+--------------------------
+GSENAME__GSE77523
+--------------------------
+SKIPPED: (GSE77523) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE77524
+--------------------------
+SKIPPED: (GSE77524) Supplemental file too large
+--------------------------
+GSENAME__GSE77597
+--------------------------
+SKIPPED: (GSE77597) readFormat(): unknown problem 
+--------------------------
+GSENAME__GSE77598
+--------------------------
+--------------------------
+GSENAME__GSE77649
+--------------------------
+--------------------------
+GSENAME__GSE77675
+--------------------------
+SKIPPED: (GSE77675) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE77808
+--------------------------
+--------------------------
+GSENAME__GSE78081
+--------------------------
+SKIPPED: (GSE78081) writeDataToSQL() PBMC There is something strange about the gene symbols 
+--------------------------
+GSENAME__GSE78138
+--------------------------
+SKIPPED: (GSE78138) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE78142
+--------------------------
+SKIPPED: (GSE78142) Supplemental file too large
+--------------------------
+GSENAME__GSE78220
+--------------------------
+SKIPPED: (GSE78220) Just confusing
+--------------------------
+GSENAME__GSE78236
+--------------------------
+--------------------------
+GSENAME__GSE78275
+--------------------------
+SKIPPED: (GSE78275) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE78276
+--------------------------
+SKIPPED: (GSE78276) Just confusing
+--------------------------
+GSENAME__GSE78324
+--------------------------
+SKIPPED: (GSE78324) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE78379
+--------------------------
+SKIPPED: (GSE78379) Supplemental file too large
+--------------------------
+GSENAME__GSE78395
+--------------------------
+SKIPPED: (GSE78395) readFormat(): Multiple numeric types found in file
+--------------------------
+GSENAME__GSE78438
+--------------------------
+SKIPPED: (GSE78438) readFormat(): Multiple numeric types found in file
+--------------------------
+GSENAME__GSE78446
+--------------------------
+SKIPPED: (GSE78446) readFormat(): Multiple numeric types found in file
+--------------------------
+GSENAME__GSE78476
+--------------------------
+SKIPPED: (GSE78476) readFormat(): Multiple numeric types found in file
+--------------------------
+GSENAME__GSE78529
+--------------------------
+SKIPPED: (GSE78529) Supplemental file too large
+--------------------------
+GSENAME__GSE78533
+--------------------------
+SKIPPED: (GSE78533) Supplemental file too large
+--------------------------
+GSENAME__GSE78536
+--------------------------
+SKIPPED: (GSE78536) Supplemental file too large
+--------------------------
+GSENAME__GSE78537
+--------------------------
+SKIPPED: (GSE78537) Supplemental file too large
+--------------------------
+GSENAME__GSE78538
+--------------------------
+SKIPPED: (GSE78538) Supplemental file too large
+--------------------------
+GSENAME__GSE78540
+--------------------------
+SKIPPED: (GSE78540) Supplemental file too large
+--------------------------
+GSENAME__GSE78542
+--------------------------
+SKIPPED: (GSE78542) Supplemental file too large
+--------------------------
+GSENAME__GSE78543
+--------------------------
+SKIPPED: (GSE78543) Supplemental file too large
+--------------------------
+GSENAME__GSE78585
+--------------------------
+SKIPPED: (GSE78585) Supplemental file too large
+--------------------------
+GSENAME__GSE78588
+--------------------------
+SKIPPED: (GSE78588) Supplemental file too large
+--------------------------
+GSENAME__GSE78589
+--------------------------
+SKIPPED: (GSE78589) Supplemental file too large
+--------------------------
+GSENAME__GSE78590
+--------------------------
+SKIPPED: (GSE78590) Supplemental file too large
+--------------------------
+GSENAME__GSE78595
+--------------------------
+SKIPPED: (GSE78595) Supplemental file too large
+--------------------------
+GSENAME__GSE78598
+--------------------------
+SKIPPED: (GSE78598) popDataAndFormat(): CDS does not include the GSMs mentioned in sampleMeta
+--------------------------
+GSENAME__GSE78599
+--------------------------
+SKIPPED: (GSE78599) Supplemental file too large
+--------------------------
+GSENAME__GSE78600
+--------------------------
+SKIPPED: (GSE78600) Supplemental file too large
+--------------------------
+GSENAME__GSE78601
+--------------------------
+SKIPPED: (GSE78601) Supplemental file too large
+--------------------------
+GSENAME__GSE78603
+--------------------------
+SKIPPED: (GSE78603) Supplemental file too large
+--------------------------
+GSENAME__GSE78609
+--------------------------
+SKIPPED: (GSE78609) Supplemental file too large
+--------------------------
+GSENAME__GSE78610
+--------------------------
+SKIPPED: (GSE78610) Supplemental file too large
+--------------------------
+GSENAME__GSE78612
+--------------------------
+SKIPPED: (GSE78612) Supplemental file too large
+--------------------------
+GSENAME__GSE78613
+--------------------------
+SKIPPED: (GSE78613) Supplemental file too large
+--------------------------
+GSENAME__GSE78614
+--------------------------
+SKIPPED: (GSE78614) Supplemental file too large
+--------------------------
+GSENAME__GSE78621
+--------------------------
+SKIPPED: (GSE78621) Supplemental file too large
+--------------------------
+GSENAME__GSE78626
+--------------------------
+SKIPPED: (GSE78626) Supplemental file too large
+--------------------------
+GSENAME__GSE78642
+--------------------------
+SKIPPED: (GSE78642) Supplemental file too large
+--------------------------
+GSENAME__GSE78645
+--------------------------
+SKIPPED: (GSE78645) Supplemental file too large
+--------------------------
+GSENAME__GSE78660
+--------------------------
+SKIPPED: (GSE78660) Supplemental file too large
+--------------------------
+GSENAME__GSE78670
+--------------------------
+SKIPPED: (GSE78670) Supplemental file too large
+--------------------------
+GSENAME__GSE78671
+--------------------------
+SKIPPED: (GSE78671) Supplemental file too large
+--------------------------
+GSENAME__GSE78680
+--------------------------
+SKIPPED: (GSE78680) popDataAndFormat(): CDS does not include the GSMs mentioned in sampleMeta
+--------------------------
+GSENAME__GSE78682
+--------------------------
+SKIPPED: (GSE78682) Supplemental file too large
+--------------------------
+GSENAME__GSE78922
+--------------------------
+SKIPPED: (GSE78922) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE78925
+--------------------------
+SKIPPED: (GSE78925) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE78930
+--------------------------
+--------------------------
+GSENAME__GSE78932
+--------------------------
+SKIPPED: (GSE78932) GSE record is super series
+--------------------------
+GSENAME__GSE79027
+--------------------------
+SKIPPED: (GSE79027) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE79160
+--------------------------
+SKIPPED: (GSE79160) formatCheck(): Error reading count file
+--------------------------
+GSENAME__GSE79253
+--------------------------
+SKIPPED: (GSE79253) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE79272
+--------------------------
+SKIPPED: (GSE79272) readFormat(): too complicated
+--------------------------
+GSENAME__GSE79290
+--------------------------
+SKIPPED: (GSE79290) Supplemental file too large
+--------------------------
+GSENAME__GSE79306
+--------------------------
+SKIPPED: (GSE79306) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE79469
+--------------------------
+SKIPPED: (GSE79469) GSE record is super series
+--------------------------
+GSENAME__GSE79470
+--------------------------
+SKIPPED: (GSE79470) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE79544
+--------------------------
+SKIPPED: (GSE79544) Something went wrong with the file merging
+--------------------------
+GSENAME__GSE79552
+--------------------------
+SKIPPED: (GSE79552) Supplemental file too large
+--------------------------
+GSENAME__GSE79613
+--------------------------
+SKIPPED: (GSE79613) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE79684
+--------------------------
+SKIPPED: (GSE79684) Just confusing
+--------------------------
+GSENAME__GSE79686
+--------------------------
+SKIPPED: (GSE79686) Supplemental file too large
+--------------------------
+GSENAME__GSE79833
+--------------------------
+--------------------------
+GSENAME__GSE79842
+--------------------------
+SKIPPED: (GSE79842) popDataAndFormat(): unknown problem 
+--------------------------
+GSENAME__GSE79879
+--------------------------
+SKIPPED: (GSE79879) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE79888
+--------------------------
+SKIPPED: (GSE79888) Just confusing
+--------------------------
+GSENAME__GSE79968
+--------------------------
+--------------------------
+GSENAME__GSE80062
+--------------------------
+SKIPPED: (GSE80062) GeneColumnName(): Gene annotations too complicated, too lazy to parse
+--------------------------
+GSENAME__GSE80072
+--------------------------
+--------------------------
+GSENAME__GSE80095
+--------------------------
+SKIPPED: (GSE80095) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE80212
+--------------------------
+SKIPPED: (GSE80212) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE80282
+--------------------------
+SKIPEED: (GSE80282) Problem with gene conversion--unknown gene type 
+--------------------------
+GSENAME__GSE80325
+--------------------------
+SKIPPED: (GSE80325) GSE record is super series
+--------------------------
+GSENAME__GSE80338
+--------------------------
+SKIPPED: (GSE80338) Something went wrong with the file merging
+--------------------------
+GSENAME__GSE80361
+--------------------------
+SKIPPED: (GSE80361) readFormat(): Multiple numeric types found in file
+--------------------------
+GSENAME__GSE80442
+--------------------------
+SKIPPED: (GSE80442) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE80714
+--------------------------
+SKIPPED: (GSE80714) Just confusing
+--------------------------
+GSENAME__GSE80727
+--------------------------
+SKIPPED: (GSE80727) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE80953
+--------------------------
+SKIPPED: (GSE80953) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE80988
+--------------------------
+SKIPPED: (GSE80988) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE81025
+--------------------------
+SKIPPED: (GSE81025) GSE record is super series
+--------------------------
+GSENAME__GSE81046
+--------------------------
+SKIPPED: (GSE81046) Supplemental file too large
+--------------------------
+GSENAME__GSE81063
+--------------------------
+--------------------------
+GSENAME__GSE81087
+--------------------------
+SKIPPED: (GSE81087) readFormat(): too complicated
+--------------------------
+GSENAME__GSE81147
+--------------------------
+SKIPPED: (GSE81147) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE81148
+--------------------------
+SKIPPED: (GSE81148) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE81274
+--------------------------
+SKIPPED: (GSE81274) Supplemental file too large
+--------------------------
+GSENAME__GSE81405
+--------------------------
+SKIPPED: (GSE81405) readFormat(): File header appears to be missing 
+SKIPPED: (GSE81405) Something went wrong with the file merging
+--------------------------
+GSENAME__GSE81406
+--------------------------
+SKIPPED: (GSE81406) GSE record is super series
+--------------------------
+GSENAME__GSE81585
+--------------------------
+SKIPPED: (GSE81585) Supplemental file too large
+--------------------------
+GSENAME__GSE81671
+--------------------------
+SKIPPED: (GSE81671) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE81791
+--------------------------
+SKIPPED: (GSE81791) Just confusing
+--------------------------
+GSENAME__GSE81794
+--------------------------
+SKIPPED: (GSE81794) Supplemental file too large
+--------------------------
+GSENAME__GSE81802
+--------------------------
+SKIPPED: (GSE81802) popDataAndFormat(): unknown problem 
+--------------------------
+GSENAME__GSE81810
+--------------------------
+SKIPPED: (GSE81810) GeneColumnName(): Weird format; could not find Ensemble IDs
+--------------------------
+GSENAME__GSE81982
+--------------------------
+SKIPPED: (GSE81982) popDataAndFormat(): CDS does not include the GSMs mentioned in sampleMeta
+--------------------------
+GSENAME__GSE81984
+--------------------------
+SKIPPED: (GSE81984) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE82227
+--------------------------
+SKIPPED: (GSE82227) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE83299
+--------------------------
+--------------------------
+GSENAME__GSE83314
+--------------------------
+--------------------------
+GSENAME__GSE83370
+--------------------------
+SKIPPED: (GSE83370) GSE record is super series
+--------------------------
+GSENAME__GSE83381
+--------------------------
+SKIPPED: (GSE83381) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE83415
+--------------------------
+SKIPPED: (GSE83415) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE83450
+--------------------------
+SKIPPED: (GSE83450) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE83482
+--------------------------
+SKIPPED: (GSE83482) writeDataToSQL() Monocytes There is something strange about the gene symbols 
+--------------------------
+GSENAME__GSE83484
+--------------------------
+--------------------------
+GSENAME__GSE83549
+--------------------------
+SKIPPED: (GSE83549) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE83601
+--------------------------
+SKIPPED: (GSE83601) Just confusing
+--------------------------
+GSENAME__GSE83671
+--------------------------
+SKIPPED: (GSE83671) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE83719
+--------------------------
+SKIPPED: (GSE83719) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE83724
+--------------------------
+SKIPPED: (GSE83724) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE83728
+--------------------------
+SKIPPED: (GSE83728) GSE record is super series
+--------------------------
+GSENAME__GSE83763
+--------------------------
+SKIPPED: (GSE83763) Supplemental file too large
+--------------------------
+GSENAME__GSE83834
+--------------------------
+SKIPPED: (GSE83834) Just confusing
+--------------------------
+GSENAME__GSE84013
+--------------------------
+SKIPPED: (GSE84013) Supplemental file too large
+--------------------------
+GSENAME__GSE84070
+--------------------------
+--------------------------
+GSENAME__GSE84197
+--------------------------
+SKIPPED: (GSE84197) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE84203
+--------------------------
+SKIPPED: (GSE84203) Supplemental file too large
+--------------------------
+GSENAME__GSE84237
+--------------------------
+SKIPPED: (GSE84237) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE84385
+--------------------------
+SKIPPED: (GSE84385) formatCheck(): Error reading count file
+--------------------------
+GSENAME__GSE84465
+--------------------------
+SKIPPED: (GSE84465) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE84678
+--------------------------
+SKIPPED: (GSE84678) GSE record is super series
+--------------------------
+GSENAME__GSE84686
+--------------------------
+SKIPPED: (GSE84686) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE84691
+--------------------------
+SKIPPED: (GSE84691) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE84773
+--------------------------
+--------------------------
+GSENAME__GSE84775
+--------------------------
+SKIPPED: (GSE84775) GSE record is super series
+--------------------------
+GSENAME__GSE84789
+--------------------------
+SKIPPED: (GSE84789) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE84799
+--------------------------
+SKIPPED: (GSE84799) GSE record is super series
+--------------------------
+GSENAME__GSE84865
+--------------------------
+SKIPPED: (GSE84865) writeDataToSQL() Dendritic_cells There is something strange about the gene symbols 
+--------------------------
+GSENAME__GSE84877
+--------------------------
+SKIPPED: (GSE84877) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE85037
+--------------------------
+--------------------------
+GSENAME__GSE85112
+--------------------------
+SKIPPED: (GSE85112) GSE record is super series
+--------------------------
+GSENAME__GSE85201
+--------------------------
+SKIPPED: (GSE85201) Supplemental file too large
+--------------------------
+GSENAME__GSE85223
+--------------------------
+SKIPPED: (GSE85223) Something went wrong with the file merging
+--------------------------
+GSENAME__GSE85263
+--------------------------
+SKIPPED: (GSE85263) Just confusing
+--------------------------
+GSENAME__GSE85361
+--------------------------
+SKIPPED: (GSE85361) readFormat(): unknown problem 
+--------------------------
+GSENAME__GSE85527
+--------------------------
+SKIPPED: (GSE85527) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE85530
+--------------------------
+SKIPPED: (GSE85530) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE85573
+--------------------------
+SKIPPED: (GSE85573) GSE record is super series
+--------------------------
+GSENAME__GSE85606
+--------------------------
+SKIPPED: (GSE85606) geneConverter(): Unknown problem 
+--------------------------
+GSENAME__GSE85782
+--------------------------
+SKIPPED: (GSE85782) readFormat(): too complicated
+--------------------------
+GSENAME__GSE85784
+--------------------------
+SKIPPED: (GSE85784) GSE record is super series
+--------------------------
+GSENAME__GSE85799
+--------------------------
+--------------------------
+GSENAME__GSE85953
+--------------------------
+SKIPPED: (GSE85953) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE85988
+--------------------------
+SKIPPED: (GSE85988) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE86001
+--------------------------
+SKIPPED: (GSE86001) formatCheck(): Error reading count file
+--------------------------
+GSENAME__GSE86237
+--------------------------
+SKIPPED: (GSE86237) writeDataToSQL() NK_cells There is something strange about the gene symbols 
+--------------------------
+GSENAME__GSE86244
+--------------------------
+SKIPPED: (GSE86244) popDataAndFormat(): unknown problem 
+--------------------------
+GSENAME__GSE86260
+--------------------------
+SKIPPED: (GSE86260) GSE record is super series
+--------------------------
+GSENAME__GSE86430
+--------------------------
+SKIPPED: (GSE86430) DownloadData(): unknown problem 
+--------------------------
+GSENAME__GSE86497
+--------------------------
+SKIPPED: (GSE86497) formatCheck(): difficulty understanding file formatting
+--------------------------
+GSENAME__GSE86550
+--------------------------
+SKIPPED: (GSE86550) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE86577
+--------------------------
+SKIPPED: (GSE86577) Just confusing
+--------------------------
+GSENAME__GSE86867
+--------------------------
+SKIPPED: (GSE86867) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE86926
+--------------------------
+SKIPPED: (GSE86926) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE86940
+--------------------------
+SKIPPED: (GSE86940) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE87041
+--------------------------
+SKIPPED: (GSE87041) Supplemental file too large
+--------------------------
+GSENAME__GSE87186
+--------------------------
+SKIPPED: (GSE87186) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE87254
+--------------------------
+SKIPPED: (GSE87254) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE87360
+--------------------------
+--------------------------
+GSENAME__GSE87392
+--------------------------
+--------------------------
+GSENAME__GSE87399
+--------------------------
+--------------------------
+GSENAME__GSE87419
+--------------------------
+SKIPPED: (GSE87419) GeneColumnName(): Weird format; could not find Ensemble IDs
+--------------------------
+GSENAME__GSE87424
+--------------------------
+SKIPPED: (GSE87424) GSE record is super series
+--------------------------
+GSENAME__GSE87517
+--------------------------
+--------------------------
+GSENAME__GSE87534
+--------------------------
+ERROR: (GSE87534) writeDataToSQL(): Something went wrong 
+--------------------------
+GSENAME__GSE87540
+--------------------------
+SKIPPED: (GSE87540) Just confusing
+--------------------------
+GSENAME__GSE87554
+--------------------------
+SKIPPED: (GSE87554) Just confusing
+--------------------------
+GSENAME__GSE87563
+--------------------------
+SKIPPED: (GSE87563) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE87692
+--------------------------
+SKIPPED: (GSE87692) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE87849
+--------------------------
+SKIPPED: (GSE87849) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE87891
+--------------------------
+SKIPPED: (GSE87891) Just confusing
+--------------------------
+GSENAME__GSE88051
+--------------------------
+SKIPPED: (GSE88051) Supplemental file too large
+--------------------------
+GSENAME__GSE88219
+--------------------------
+SKIPPED: (GSE88219) Supplemental file too large
+--------------------------
+GSENAME__GSE88324
+--------------------------
+SKIPPED: (GSE88324) Just confusing
+--------------------------
+GSENAME__GSE88508
+--------------------------
+SKIPPED: (GSE88508) Supplemental file too large
+--------------------------
+GSENAME__GSE88553
+--------------------------
+SKIPPED: (GSE88553) Supplemental file too large
+--------------------------
+GSENAME__GSE88589
+--------------------------
+SKIPPED: (GSE88589) Supplemental file too large
+--------------------------
+GSENAME__GSE88592
+--------------------------
+SKIPPED: (GSE88592) Supplemental file too large
+--------------------------
+GSENAME__GSE88615
+--------------------------
+SKIPPED: (GSE88615) Supplemental file too large
+--------------------------
+GSENAME__GSE88671
+--------------------------
+SKIPPED: (GSE88671) Supplemental file too large
+--------------------------
+GSENAME__GSE88750
+--------------------------
+SKIPPED: (GSE88750) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE88888
+--------------------------
+SKIPPED: (GSE88888) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE88931
+--------------------------
+SKIPPED: (GSE88931) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE88933
+--------------------------
+SKIPPED: (GSE88933) Supplemental file too large
+--------------------------
+GSENAME__GSE88956
+--------------------------
+SKIPPED: (GSE88956) Just confusing
+--------------------------
+GSENAME__GSE89056
+--------------------------
+SKIPPED: (GSE89056) Something went wrong with the file merging
+--------------------------
+GSENAME__GSE89072
+--------------------------
+SKIPPED: (GSE89072) Supplemental file too large
+--------------------------
+GSENAME__GSE89087
+--------------------------
+SKIPPED: (GSE89087) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE89124
+--------------------------
+SKIPPED: (GSE89124) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE89232
+--------------------------
+SKIPPED: (GSE89232) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE89339
+--------------------------
+ERROR: (GSE89339) writeDataToSQL(): Something went wrong 
+--------------------------
+GSENAME__GSE89403
+--------------------------
+SKIPPED: (GSE89403) geneConverter(): Unknown problem 
+--------------------------
+GSENAME__GSE89404
+--------------------------
+SKIPPED: (GSE89404) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE89475
+--------------------------
+ERROR: (GSE89475) writeDataToSQL(): Something went wrong 
+--------------------------
+GSENAME__GSE89484
+--------------------------
+SKIPPED: (GSE89484) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE89485
+--------------------------
+SKIPPED: (GSE89485) Supplemental file too large
+--------------------------
+GSENAME__GSE89669
+--------------------------
+SKIPPED: (GSE89669) Supplemental file too large
+--------------------------
+GSENAME__GSE89777
+--------------------------
+SKIPPED: (GSE89777) popDataAndFormat(): unknown problem 
+--------------------------
+GSENAME__GSE89778
+--------------------------
+SKIPPED: (GSE89778) DownloadData(): unknown problem 
+--------------------------
+GSENAME__GSE89831
+--------------------------
+SKIPPED: (GSE89831) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE89838
+--------------------------
+SKIPPED: (GSE89838) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE89839
+--------------------------
+SKIPPED: (GSE89839) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE89840
+--------------------------
+SKIPPED: (GSE89840) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE89841
+--------------------------
+SKIPPED: (GSE89841) GSE record is super series
+--------------------------
+GSENAME__GSE89876
+--------------------------
+SKIPPED: (GSE89876) GSE record is super series
+--------------------------
+GSENAME__GSE89950
+--------------------------
+SKIPPED: (GSE89950) readFormat(): Multiple numeric types found in file
+--------------------------
+GSENAME__GSE89970
+--------------------------
+SKIPPED: (GSE89970) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE89975
+--------------------------
+SKIPPED: (GSE89975) readFormat(): too complicated
+--------------------------
+GSENAME__GSE89980
+--------------------------
+SKIPPED: (GSE89980) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE90014
+--------------------------
+SKIPPED: (GSE90014) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE90015
+--------------------------
+SKIPPED: (GSE90015) Supplemental file too large
+--------------------------
+GSENAME__GSE90068
+--------------------------
+SKIPPED: (GSE90068) formatCheck(): difficulty understanding file formatting
+--------------------------
+GSENAME__GSE90221
+--------------------------
+SKIPPED: (GSE90221) Supplemental file too large
+--------------------------
+GSENAME__GSE90243
+--------------------------
+SKIPPED: (GSE90243) Supplemental file too large
+--------------------------
+GSENAME__GSE90254
+--------------------------
+SKIPPED: (GSE90254) popDataAndFormat(): CDS does not include the GSMs mentioned in sampleMeta
+--------------------------
+GSENAME__GSE90257
+--------------------------
+SKIPPED: (GSE90257) Supplemental file too large
+--------------------------
+GSENAME__GSE90260
+--------------------------
+SKIPPED: (GSE90260) Supplemental file too large
+--------------------------
+GSENAME__GSE90262
+--------------------------
+SKIPPED: (GSE90262) Supplemental file too large
+--------------------------
+GSENAME__GSE90263
+--------------------------
+SKIPPED: (GSE90263) Supplemental file too large
+--------------------------
+GSENAME__GSE90268
+--------------------------
+SKIPPED: (GSE90268) Supplemental file too large
+--------------------------
+GSENAME__GSE90269
+--------------------------
+SKIPPED: (GSE90269) Supplemental file too large
+--------------------------
+GSENAME__GSE90270
+--------------------------
+SKIPPED: (GSE90270) Supplemental file too large
+--------------------------
+GSENAME__GSE90272
+--------------------------
+SKIPPED: (GSE90272) Supplemental file too large
+--------------------------
+GSENAME__GSE90455
+--------------------------
+SKIPPED: (GSE90455) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE90456
+--------------------------
+SKIPPED: (GSE90456) GSE record is super series
+--------------------------
+GSENAME__GSE90468
+--------------------------
+SKIPPED: (GSE90468) GeneColumnName(): Gene annotations too complicated, too lazy to parse
+--------------------------
+GSENAME__GSE90514
+--------------------------
+SKIPPED: (GSE90514) formatCheck(): difficulty understanding file formatting
+--------------------------
+GSENAME__GSE90711
+--------------------------
+SKIPPED: (GSE90711) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE90718
+--------------------------
+SKIPPED: (GSE90718) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE90728
+--------------------------
+ERROR: (GSE90728) writeDataToSQL(): Something went wrong 
+--------------------------
+GSENAME__GSE90729
+--------------------------
+ERROR: (GSE90729) writeDataToSQL(): Something went wrong 
+--------------------------
+GSENAME__GSE90748
+--------------------------
+ERROR: (GSE90748) writeDataToSQL(): Something went wrong 
+--------------------------
+GSENAME__GSE90772
+--------------------------
+SKIPPED: (GSE90772) Supplemental file too large
+--------------------------
+GSENAME__GSE90813
+--------------------------
+SKIPPED: (GSE90813) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE90897
+--------------------------
+SKIPPED: (GSE90897) GeneColumnName(): Can not find counts
+--------------------------
+GSENAME__GSE90982
+--------------------------
+SKIPPED: (GSE90982) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE92293
+--------------------------
+ERROR: (GSE92293) writeDataToSQL(): Something went wrong 
+--------------------------
+GSENAME__GSE92506
+--------------------------
+SKIPPED: (GSE92506) geneConverter(): Unknown problem 
+--------------------------
+GSENAME__GSE92532
+--------------------------
+SKIPPED: (GSE92532) GeneColumnName(): Gene annotations too complicated, too lazy to parse
+--------------------------
+GSENAME__GSE92541
+--------------------------
+SKIPPED: (GSE92541) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE92839
+--------------------------
+SKIPPED: (GSE92839) readFormat(): Multiple numeric types found in file
+--------------------------
+GSENAME__GSE92852
+--------------------------
+SKIPPED: (GSE92852) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE92904
+--------------------------
+SKIPPED: (GSE92904) readFormat(): Multiple numeric types found in file
+--------------------------
+GSENAME__GSE92917
+--------------------------
+SKIPPED: (GSE92917) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE93030
+--------------------------
+SKIPPED: (GSE93030) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE93155
+--------------------------
+SKIPPED: (GSE93155) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE93156
+--------------------------
+SKIPPED: (GSE93156) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE93206
+--------------------------
+SKIPPED: (GSE93206) Just confusing
+--------------------------
+GSENAME__GSE93226
+--------------------------
+SKIPPED: (GSE93226) readFormat(): too complicated
+--------------------------
+GSENAME__GSE93263
+--------------------------
+SKIPPED: (GSE93263) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE93265
+--------------------------
+SKIPPED: (GSE93265) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE93268
+--------------------------
+SKIPPED: (GSE93268) GSE record is super series
+--------------------------
+GSENAME__GSE93330
+--------------------------
+SKIPPED: (GSE93330) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE93386
+--------------------------
+ERROR: (GSE93386) writeDataToSQL(): Something went wrong 
+--------------------------
+GSENAME__GSE93500
+--------------------------
+SKIPPED: (GSE93500) Supplemental file too large
+--------------------------
+GSENAME__GSE93511
+--------------------------
+SKIPPED: (GSE93511) Just confusing
+--------------------------
+GSENAME__GSE93535
+--------------------------
+SKIPPED: (GSE93535) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE93590
+--------------------------
+SKIPPED: (GSE93590) Just confusing
+--------------------------
+GSENAME__GSE93627
+--------------------------
+SKIPPED: (GSE93627) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE93628
+--------------------------
+SKIPPED: (GSE93628) Supplemental file too large
+--------------------------
+GSENAME__GSE93672
+--------------------------
+SKIPPED: (GSE93672) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE93705
+--------------------------
+SKIPPED: (GSE93705) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE93706
+--------------------------
+SKIPPED: (GSE93706) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE93783
+--------------------------
+SKIPPED: (GSE93783) Just confusing
+--------------------------
+GSENAME__GSE93902
+--------------------------
+SKIPPED: (GSE93902) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE93904
+--------------------------
+SKIPPED: (GSE93904) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE94019
+--------------------------
+ERROR: (GSE94019) writeDataToSQL(): Something went wrong 
+--------------------------
+GSENAME__GSE94053
+--------------------------
+SKIPEED: (GSE94053) Problem with gene conversion--unknown gene type 
+--------------------------
+GSENAME__GSE94057
+--------------------------
+SKIPPED: (GSE94057) makeGSEsampleIDs(): Not human samples
+--------------------------
+GSENAME__GSE94111
+--------------------------
+SKIPPED: (GSE94111) formatCheck(): Error reading count file
+--------------------------
+GSENAME__GSE94134
+--------------------------
+SKIPPED: (GSE94134) GSE record is super series
+--------------------------
+GSENAME__GSE94149
+--------------------------
+SKIPPED: (GSE94149) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE94150
+--------------------------
+SKIPPED: (GSE94150) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE94152
+--------------------------
+SKIPPED: (GSE94152) GSE record is super series
+--------------------------
+GSENAME__GSE94155
+--------------------------
+SKIPPED: (GSE94155) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE94280
+--------------------------
+SKIPPED: (GSE94280) readFormat(): Multiple numeric types found in file
+--------------------------
+GSENAME__GSE94330
+--------------------------
+SKIPPED: (GSE94330) Supplemental file too large
+--------------------------
+GSENAME__GSE94332
+--------------------------
+SKIPPED: (GSE94332) readFormat(): too complicated
+--------------------------
+GSENAME__GSE94367
+--------------------------
+SKIPPED: (GSE94367) Just confusing
+--------------------------
+GSENAME__GSE94395
+--------------------------
+SKIPPED: (GSE94395) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE94494
+--------------------------
+SKIPPED: (GSE94494) GeneColumnName(): Gene annotations too complicated, too lazy to parse
+--------------------------
+GSENAME__GSE94800
+--------------------------
+SKIPPED: (GSE94800) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE94897
+--------------------------
+SKIPPED: (GSE94897) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE94928
+--------------------------
+SKIPPED: (GSE94928) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE94968
+--------------------------
+SKIPPED: (GSE94968) readFormat(): too complicated
+--------------------------
+GSENAME__GSE94969
+--------------------------
+SKIPPED: (GSE94969) Just confusing
+--------------------------
+GSENAME__GSE94979
+--------------------------
+SKIPPED: (GSE94979) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE94980
+--------------------------
+SKIPPED: (GSE94980) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE94999
+--------------------------
+SKIPPED: (GSE94999) popDataAndFormat(): CDS does not include the GSMs mentioned in sampleMeta
+--------------------------
+GSENAME__GSE95011
+--------------------------
+SKIPPED: (GSE95011) GSE record is super series
+--------------------------
+GSENAME__GSE95013
+--------------------------
+SKIPPED: (GSE95013) readFormat(): too complicated
+--------------------------
+GSENAME__GSE95020
+--------------------------
+SKIPPED: (GSE95020) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE95021
+--------------------------
+SKIPPED: (GSE95021) GSE record is super series
+--------------------------
+GSENAME__GSE95059
+--------------------------
+SKIPPED: (GSE95059) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE95077
+--------------------------
+SKIPPED: (GSE95077) geneConverter(): Unknown problem 
+--------------------------
+GSENAME__GSE95245
+--------------------------
+SKIPPED: (GSE95245) formatCheck(): Error reading count file
+--------------------------
+GSENAME__GSE95297
+--------------------------
+SKIPPED: (GSE95297) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE95389
+--------------------------
+SKIPPED: (GSE95389) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE95462
+--------------------------
+SKIPPED: (GSE95462) DownloadData(): unknown problem 
+--------------------------
+GSENAME__GSE95820
+--------------------------
+SKIPPED: (GSE95820) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE96075
+--------------------------
+SKIPPED: (GSE96075) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE96077
+--------------------------
+SKIPPED: (GSE96077) GeneColumnName(): Gene annotations too complicated, too lazy to parse
+--------------------------
+GSENAME__GSE96564
+--------------------------
+SKIPPED: (GSE96564) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE96568
+--------------------------
+SKIPPED: (GSE96568) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE96578
+--------------------------
+ERROR: (GSE96578) writeDataToSQL(): Something went wrong 
+--------------------------
+GSENAME__GSE96583
+--------------------------
+SKIPPED: (GSE96583) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE96590
+--------------------------
+ERROR: (GSE96590) writeDataToSQL(): Something went wrong 
+--------------------------
+GSENAME__GSE96713
+--------------------------
+ERROR: (GSE96713) writeDataToSQL(): Something went wrong 
+--------------------------
+GSENAME__GSE96719
+--------------------------
+SKIPPED: (GSE96719) GSE record is super series
+--------------------------
+GSENAME__GSE96783
+--------------------------
+SKIPPED: (GSE96783) GeneColumnName(): Gene annotations too complicated, too lazy to parse
+--------------------------
+GSENAME__GSE96815
+--------------------------
+SKIPPED: (GSE96815) makeGSEsampleIDs(): unknown problem 
+--------------------------
+GSENAME__GSE96962
+--------------------------
+SKIPPED: (GSE96962) formatCheck(): Error reading count file
+--------------------------
+GSENAME__GSE96975
+--------------------------
+SKIPPED: (GSE96975) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE97038
+--------------------------
+SKIPPED: (GSE97038) formatCheck(): Error reading count file
+--------------------------
+GSENAME__GSE97100
+--------------------------
+SKIPPED: (GSE97100) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE97117
+--------------------------
+SKIPPED: (GSE97117) GSE record is super series
+--------------------------
+GSENAME__GSE97265
+--------------------------
+ERROR: (GSE97265) writeDataToSQL(): Something went wrong 
+--------------------------
+GSENAME__GSE97324
+--------------------------
+ERROR: (GSE97324) writeDataToSQL(): Something went wrong 
+--------------------------
+GSENAME__GSE97341
+--------------------------
+SKIPPED: (GSE97341) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE97358
+--------------------------
+ERROR: (GSE97358) writeDataToSQL(): Something went wrong 
+--------------------------
+GSENAME__GSE97575
+--------------------------
+SKIPPED: (GSE97575) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE97672
+--------------------------
+SKIPPED: (GSE97672) Just confusing
+--------------------------
+GSENAME__GSE97727
+--------------------------
+SKIPPED: (GSE97727) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE97744
+--------------------------
+ERROR: (GSE97744) writeDataToSQL(): Something went wrong 
+--------------------------
+GSENAME__GSE97930
+--------------------------
+SKIPPED: (GSE97930) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE97942
+--------------------------
+SKIPPED: (GSE97942) Supplemental file too large
+--------------------------
+GSENAME__GSE97964
+--------------------------
+SKIPPED: (GSE97964) GSE record is super series
+--------------------------
+GSENAME__GSE98011
+--------------------------
+SKIPPED: (GSE98011) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE98052
+--------------------------
+SKIPPED: (GSE98052) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE98060
+--------------------------
+SKIPPED: (GSE98060) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE98111
+--------------------------
+ERROR: (GSE98111) writeDataToSQL(): Something went wrong 
+--------------------------
+GSENAME__GSE98113
+--------------------------
+SKIPPED: (GSE98113) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE98115
+--------------------------
+SKIPPED: (GSE98115) GSE record is super series
+--------------------------
+GSENAME__GSE98136
+--------------------------
+SKIPPED: (GSE98136) readFormat(): File header appears to be missing 
+--------------------------
+GSENAME__GSE98289
+--------------------------
+SKIPPED: (GSE98289) readFormat(): Multiple numeric types found in file
+--------------------------
+GSENAME__GSE98290
+--------------------------
+SKIPPED: (GSE98290) GSE record is super series
+--------------------------
+GSENAME__GSE98368
+--------------------------
+ERROR: (GSE98368) writeDataToSQL(): Something went wrong 
+--------------------------
+GSENAME__GSE98448
+--------------------------
+SKIPPED: (GSE98448) GSE record is super series
+--------------------------
+GSENAME__GSE98454
+--------------------------
+SKIPPED: (GSE98454) readFormat(): too complicated
+--------------------------
+GSENAME__GSE98485
+--------------------------
+SKIPPED: (GSE98485) dataCheck(): There's something strange about the files
+--------------------------
+GSENAME__GSE98624
+--------------------------
+SKIPPED: (GSE98624) Just confusing
+--------------------------
+GSENAME__GSE98638
+--------------------------
+SKIPPED: (GSE98638) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE98665
+--------------------------
+SKIPPED: (GSE98665) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE98710
+--------------------------
+ERROR: (GSE98710) writeDataToSQL(): Something went wrong 
+--------------------------
+GSENAME__GSE98758
+--------------------------
+SKIPPED: (GSE98758) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE99006
+--------------------------
+ERROR: (GSE99006) writeDataToSQL(): Something went wrong 
+--------------------------
+GSENAME__GSE99028
+--------------------------
+SKIPPED: (GSE99028) makeGSEsampleIDs(): Unable to parse or identify GSM accessions
+--------------------------
+GSENAME__GSE99065
+--------------------------
+SKIPPED: (GSE99065) formatCheck(): difficulty understanding file formatting
+--------------------------
+GSENAME__GSE99068
+--------------------------
+SKIPPED: (GSE99068) Just confusing
+--------------------------
+GSENAME__GSE99079
+--------------------------
+SKIPPED: (GSE99079) GSE record is super series
+--------------------------
+GSENAME__GSE99212
+--------------------------
+ERROR: (GSE99212) writeDataToSQL(): Something went wrong 
+--------------------------
+GSENAME__GSE99246
+--------------------------
+SKIPPED: (GSE99246) GeneColumnName(): Gene annotations too complicated, too lazy to parse
+--------------------------
+GSENAME__GSE99247
+--------------------------
+SKIPPED: (GSE99247) formatCheck(): supplemental file too complicated
+--------------------------
+GSENAME__GSE99254
+--------------------------
+SKIPPED: (GSE99254) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE99373
+--------------------------
+SKIPPED: (GSE99373) Just confusing
+--------------------------
+GSENAME__GSE99389
+--------------------------
+ERROR: (GSE99389) writeDataToSQL(): Something went wrong 
+--------------------------
+GSENAME__GSE99454
+--------------------------
+SKIPPED: (GSE99454) formatCheck(): Error reading count file
+--------------------------
+GSENAME__GSE99503
+--------------------------
+SKIPEED: (GSE99503) Problem with gene conversion--unknown gene type 
+--------------------------
+GSENAME__GSE99668
+--------------------------
+ERROR: (GSE99668) writeDataToSQL(): Something went wrong 
+--------------------------
+GSENAME__GSE99778
+--------------------------
+SKIPPED: (GSE99778) GSE record is not bulk transcriptomics
+--------------------------
+GSENAME__GSE99816
+--------------------------
+SKIPPED: (GSE99816) geneConverter(): Unknown problem 
+--------------------------
+GSENAME__GSE99987
+--------------------------
+ERROR: (GSE99987) writeDataToSQL(): Something went wrong 
+--------------------------
+GSENAME__GSE99999
+--------------------------
+ERROR: (GSE99999) writeDataToSQL(): Something went wrong 
