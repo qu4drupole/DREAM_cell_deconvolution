@@ -7,7 +7,8 @@ class RNAseq_data:
     import sqlalchemy as sqal
     import mysql.connector
     
-    engine = sqal.create_engine('mysql+mysqlconnector://dream_user:dream_sql_pw@192.168.130.192/test_dream')
+    engine = sqal.create_engine('mysql+mysqlconnector://dream_user:dream_sql_pw@192.168.144.21/test_dream')
+    #engine = sqal.create_engine('mysql+mysqlconnector://Simon:Bane@localhost/test_dream')
     
     # basic attributes
     def __init__(self, ct=None, norm='FPKM',  scope='fine'):
@@ -58,7 +59,7 @@ class RNAseq_data:
             print('Usage Error: scope must be of type \'course\' or \'fine\' (default)')
             return
         
-    def all_data(self):
+    def allData(self):
         df_dict = {}
         for celltype in self.ct:
             df = self.pd.read_sql_table(celltype, con=self.engine, )
@@ -66,13 +67,13 @@ class RNAseq_data:
             df_dict[celltype] = df
         return df_dict
     
-    def norm_data(self):
+    def normData(self):
         df_dict = {}
         for celltype in self.ct:
             df = self.pd.read_sql_table(celltype, con=self.engine)
             df.drop('index', 1, inplace=True)
             sampleNames = df.select_dtypes(exclude=['object']).columns.to_numpy()
-            sampleNames_idx = list(map(lambda x: re.search('norm_(.*)',x).group(1) == self.norm, sampleNames))
+            sampleNames_idx = list(map(lambda x: self.re.search('norm_(.*)',x).group(1) == self.norm, sampleNames))
             sampleNames_norm = sampleNames[sampleNames_idx]
             sampleNames_norm = self.np.insert(sampleNames_norm,0,'gene_symbol_sql')
             if len(sampleNames_norm) == 1:
@@ -82,3 +83,25 @@ class RNAseq_data:
             df_dict[celltype] = df
         return df_dict
         
+    def mergeCellTypes(self):
+        # holds the merged df and cell type list
+        merge_dict = {}
+        merge_dict['cellTypes'] = [] 
+        initial = 0
+        ct_dfs = self.normData()
+        for celltype in ct_dfs.keys():
+            if initial == 1:
+                merge_df = ct_dfs[celltype]
+                merge_df.set_index(merge_df['gene_symbol_sql'], inplace=True)
+                merge_df.drop(['gene_symbol_sql'], 1, inplace=True)
+                df = df.join(merge_df, how = 'inner')
+                merge_dict['cellTypes'].extend([celltype] * len(merge_df.columns))
+            else:
+                df = ct_dfs[celltype]
+                df.set_index(df['gene_symbol_sql'], inplace=True)
+                df.drop(['gene_symbol_sql'], 1, inplace=True)
+                merge_dict['cellTypes'].extend([celltype] * len(df.columns))
+                initial = 1
+        df.dropna(inplace=True)
+        merge_dict['merged_df'] = df
+        return merge_dict
