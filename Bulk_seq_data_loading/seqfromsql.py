@@ -3,12 +3,13 @@ class RNAseq_data:
     pd = __import__('pandas')
     np = __import__('numpy')
     re = __import__('re')
+    pk = __import__('pickle')
     #from sqlalchemy import create_engine 
     import sqlalchemy as sqal
     import mysql.connector
     
-    engine = sqal.create_engine('mysql+mysqlconnector://dream_user:dream_sql_pw@192.168.144.21/test_dream')
-    #engine = sqal.create_engine('mysql+mysqlconnector://Simon:Bane@localhost/test_dream')
+    #engine = sqal.create_engine('mysql+mysqlconnector://dream_user:dream_sql_pw@192.168.144.21/test_dream')
+    engine = sqal.create_engine('mysql+mysqlconnector://Simon:Bane@localhost/test_dream')
     
     # basic attributes
     def __init__(self, ct=None, norm='FPKM',  scope='fine'):
@@ -38,8 +39,13 @@ class RNAseq_data:
             print('Instantiate class with: RNAseq_data(CELL TYPE, NORMALIZATION, SCOPE) \n \n'
                   'where CELL TYPE is a list of cell types. Must be one or more of:'+str(cell_types)+'\n\n'
                   'where NORMALIZATION is how the counts are normalized. Must be one of: '+str(norm_types)+'\n\n'
-                  'where SCOPE is the cell type specificity. Must be either \'fine\'(default) or \'course\'')
+                  'where SCOPE is the cell type specificity. Must be either \'fine\'(default) or \'coarse\'')
             return
+        
+        with open('CellType.pkl', 'rb') as ctDictFile:
+            cellDict = self.pk.load(ctDictFile)
+            coarse_ctDict = cellDict['Coarse']['Main']
+            coarseCells = coarse_ctDict.keys()
         
         if isinstance(ct,(list,)):
             self.ct = ct
@@ -53,34 +59,87 @@ class RNAseq_data:
             print('Usage Error: normalization method must be one of: '+str(norm_types))
             return
         
-        if scope in ['course','fine']:
+        self.ctDict = {}
+        if scope in ['coarse','fine']:
             self.scope = scope
+            if scope == 'coarse':
+                if all(cell in coarseCells for cell in ct):
+                    for cell in ct:
+                        self.ctDict[cell] = coarse_ctDict[cell]
+                else:
+                    print('Usage Error: Specified cell type not a coarse cell type \n')
+                    print('Must be one or more of: \n'+str(coarseCells))
+                    return
         else:
-            print('Usage Error: scope must be of type \'course\' or \'fine\' (default)')
+            print('Usage Error: scope must be of type \'coarse\' or \'fine\' (default)')
             return
-        
+    
+    def mergeTest():
+        #check too make sure not too many NAs exist...
+        pass
+    
     def allData(self):
         df_dict = {}
-        for celltype in self.ct:
-            df = self.pd.read_sql_table(celltype, con=self.engine, )
-            df.drop('index', 1, inplace=True)
-            df_dict[celltype] = df
+        if len(self.ctDict) > 0:
+            for celltype in self.ctDict.keys():
+                token = 0
+                for subcell in self.ctDict[celltype]:
+                    try:
+                        df = self.pd.read_sql_table(subcell, con=self.engine, )
+                        df.drop('index', 1, inplace=True)
+                        df.set_index('gene_symbol_sql', inplace=True)
+                        if token == 0:
+                            token = 1
+                            df_dict[celltype] = df
+                        else:
+                            df_dict[celltype] = df_dict[celltype].join(df, how='inner')
+                    except:
+                        pass
+        else: 
+            for celltype in self.ct:
+                df = self.pd.read_sql_table(celltype, con=self.engine, )
+                df.drop('index', 1, inplace=True)
+                df_dict[celltype] = df
         return df_dict
     
     def normData(self):
         df_dict = {}
-        for celltype in self.ct:
-            df = self.pd.read_sql_table(celltype, con=self.engine)
-            df.drop('index', 1, inplace=True)
-            sampleNames = df.select_dtypes(exclude=['object']).columns.to_numpy()
-            sampleNames_idx = list(map(lambda x: self.re.search('norm_(.*)',x).group(1) == self.norm, sampleNames))
-            sampleNames_norm = sampleNames[sampleNames_idx]
-            sampleNames_norm = self.np.insert(sampleNames_norm,0,'gene_symbol_sql')
-            if len(sampleNames_norm) == 1:
-                df = None
-            else: 
-                df = df[sampleNames_norm]
-            df_dict[celltype] = df
+        if len(self.ctDict) > 0:
+            for celltype in self.ctDict.keys():
+                token = 0
+                for subcell in self.ctDict[celltype]:
+                    try:
+                        df = self.pd.read_sql_table(subcell, con=self.engine)
+                        df.drop('index', 1, inplace=True)
+                        df.set_index('gene_symbol_sql', inplace=True)
+                        sampleNames = df.select_dtypes(exclude=['object']).columns
+                        sampleNames_idx = list(map(lambda x: self.re.search('norm_(.*)',x).group(1) == self.norm, sampleNames))
+                        sampleNames_norm = sampleNames[sampleNames_idx]
+                        if len(sampleNames_norm) == 1:
+                            df = None
+                            continue
+                        else:
+                            df = df[sampleNames_norm]
+                        if token == 0:
+                            token = 1
+                            df_dict[celltype] = df
+                        else:
+                            df_dict[celltype] = df_dict[celltype].join(df, how='inner')
+                    except:
+                        pass
+        else:
+            for celltype in self.ct:
+                df = self.pd.read_sql_table(celltype, con=self.engine)
+                df.drop('index', 1, inplace=True)
+                sampleNames = df.select_dtypes(exclude=['object']).columns.to_numpy()
+                sampleNames_idx = list(map(lambda x: self.re.search('norm_(.*)',x).group(1) == self.norm, sampleNames))
+                sampleNames_norm = sampleNames[sampleNames_idx]
+                sampleNames_norm = self.np.insert(sampleNames_norm,0,'gene_symbol_sql')
+                if len(sampleNames_norm) == 1:
+                    df = None
+                else: 
+                    df = df[sampleNames_norm]
+                df_dict[celltype] = df
         return df_dict
         
     def mergeCellTypes(self):
