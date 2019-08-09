@@ -3,7 +3,7 @@
 
 library(readr)
 library(tibble)
-library(WGCNA)
+# library(WGCNA)
 
 # print(list.files())
 # print(getwd())

@@ -5,8 +5,9 @@ FROM rocker/tidyverse:3.6.0
 
 ## RUN Rscript -e 'source("http://bioconductor.org/biocLite.R"); biocLite("plyr")'
 ## RUN echo "r <- getOption('repos'); r['CRAN'] <- 'http://cran.us.r-project.org'; options(repos = r);" > ~/.Rprofile
-RUN Rscript -e "install.packages('BiocManager')"
-RUN Rscript -e "BiocManager::install("WGCNA")"
+
+## RUN Rscript -e "install.packages('BiocManager')"
+## RUN Rscript -e "BiocManager::install("WGCNA")"
 
 ## install.packages("BiocManager") 
 ## BiocManager::install("WGCNA") 
@@ -15,7 +16,7 @@ RUN Rscript -e "BiocManager::install("WGCNA")"
 COPY bin/docker_test.R ./
 
 ## Make script executable
-RUN chmod a+x mcpcounter.R
+RUN chmod a+x docker_test.R
 
 ## Make Docker container executable
-ENTRYPOINT ["Rscript", "mcpcounter.R"]
+ENTRYPOINT ["Rscript", "docker_test.R"]
