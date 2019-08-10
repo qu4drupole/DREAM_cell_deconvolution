@@ -6,8 +6,8 @@ FROM rocker/tidyverse:3.6.0
 ## RUN Rscript -e 'source("http://bioconductor.org/biocLite.R"); biocLite("plyr")'
 ## RUN echo "r <- getOption('repos'); r['CRAN'] <- 'http://cran.us.r-project.org'; options(repos = r);" > ~/.Rprofile
 
-## RUN Rscript -e "install.packages('BiocManager')"
-## RUN Rscript -e "BiocManager::install("WGCNA")"
+RUN Rscript -e "install.packages('BiocManager')"
+RUN Rscript -e "BiocManager::install("WGCNA")"
 
 ## install.packages("BiocManager") 
 ## BiocManager::install("WGCNA") 
