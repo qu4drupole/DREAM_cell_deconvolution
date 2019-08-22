@@ -12,6 +12,7 @@ library(FNN)
 library(dplyr)
 library(cluster)
 library(MASS)
+# library(LaplacesDemon)
 
 coarse_data = read.csv('RMA_coarse_081419.csv')
 cellTypes = coarse_data$cellType
@@ -69,8 +70,6 @@ plotDendroAndColors(geneTree, cbind(module.colours, mergedColors),
 neutro_colors = mergedColors
 neutro_MEs = mergedMEs
 
-# THIS PROCESS WAS REPEATED FOR ALL COARSE CELL TYPES
-
 #####
 # CALCULATING MODULE ENRICHMENT...
 #   1. make a list of all modules
@@ -121,13 +120,44 @@ for(mod_color in unique(neutro_colors)){
                         mono_mod_test, endo_mod_test, fibro_mod_test)
   mod_silhouette <- silhouette(clusterCodes, dist(t(coarse_mod_df)))
   s = summary(mod_silhouette)
-  print(mean(s$clus.avg.widths))
+  print(mean(s$clus.avg.widths)/var(s$clus.avg.widths))
 }
 
 # I think the higher the score the more unique the silhouette 
 # Based on the scores and module sizes (shooting for ~100), "salmon" is my top choice
 
-# 'darkturquoise' is the best
+# 'darkturquoise' and 'orange' are both good
+neutro_darkturquoise_df = neutro_cell_df[,neutro_colors=='darkturquoise']
+neutro_orange_df = neutro_cell_df[,neutro_colors=='orange']
+
+# making the 'darkturquoise' gene topology
+neutro_ME_dist = matrix(0, nrow = ncol(neutro_orange_df), ncol = ncol(neutro_orange_df))
+for(i in 1:ncol(neutro_orange_df)){
+  # gene_ME_dist = matrix(0, nrow = ncol(neutro_orange_df), ncol = nrow(neutro_orange_df))
+  gene_dist_matrix = matrix(0, nrow = ncol(neutro_orange_df), ncol = nrow(neutro_orange_df))
+  for(j in 1:nrow(neutro_orange_df)){
+    # gene_scaler = neutro_orange_df[j,i]-neutro_MEs$MEorange[j]
+    # ME_dist = sapply(unlist(neutro_orange_df[j,]), function(x) ((x - neutro_MEs$MEorange[j])/gene_scaler)**2)
+    gene_dist = sapply(unlist(neutro_orange_df[j,]), function(x) x/neutro_orange_df[j,i])
+    gene_dist_matrix[,j] = gene_dist
+  }
+  neutro_avg_dist = apply(gene_dist_matrix, 1, mean)
+  neutro_ME_dist[i,] <- neutro_avg_dist
+}
+
+# Flipping the above loop to get gene-specific distances per sample
+# neutro_ME_dist = matrix(0, nrow = nrow(neutro_darkturquoise_df), ncol = ncol(neutro_darkturquoise_df))
+# for(i in 1:nrow(neutro_darkturquoise_df)){
+#   # browser()
+#   gene_ME_dist = matrix(0, nrow = ncol(neutro_darkturquoise_df), ncol = ncol(neutro_darkturquoise_df))
+#   for(j in 1:ncol(neutro_darkturquoise_df)){
+#     gene_scaler = abs(neutro_darkturquoise_df[i,j]-neutro_MEs$MEdarkturquoise[i])
+#     ME_dist = sapply(unlist(neutro_darkturquoise_df[i,]), function(x) abs(x - neutro_MEs$MEdarkturquoise[i])/gene_scaler)
+#     gene_ME_dist[,j] = ME_dist
+#   }
+#   neutro_avg_dist = apply(gene_ME_dist, 1, mean)
+#   neutro_ME_dist[i,] <- neutro_avg_dist
+# }
 
 #####
 # 1. CREATING ME GLMNET MODELS
@@ -136,8 +166,8 @@ for(mod_color in unique(neutro_colors)){
 #####
 
 # 1...
-neutro_darkturquoise_df = neutro_cell_df[,neutro_colors=='darkturquoise']
-neutro_ME_model = cv.glmnet(as.matrix(neutro_darkturquoise_df), matrix(neutro_MEs$MEdarkturquoise, nrow = nrow(neutro_darkturquoise_df), ncol = 1), 
+
+neutro_ME_model = cv.glmnet(as.matrix(neutro_orange_df), matrix(neutro_MEs$MEorange, nrow = nrow(neutro_orange_df), ncol = 1), 
                           family = 'gaussian', alpha = 0.5)
 
 # how does the ME work for the other cell types?
@@ -157,30 +187,45 @@ for(g in sample(1:sum(neutro_colors=='darkturquoise'),3)){
 
 # testing the module on in silico mixtures
 
-neutro_100mix = read.csv('../mixed_dfs/neutro_coarse_100.csv')
+neutro_90mix = read.csv('../mixed_dfs/neutro_coarse_all_90.csv')
 # a little restructring...
-neutro_100mix <- as.data.frame(neutro_100mix)
-row.names(neutro_100mix) = neutro_100mix$gene_symbol_sql
-neutro_100mix = subset(neutro_100mix, select = -c(gene_symbol_sql))
-neutro_100mix = t(neutro_100mix)
+neutro_90mix <- as.data.frame(neutro_90mix)
+row.names(neutro_90mix) = neutro_90mix$gene_symbol_sql
+neutro_90mix = subset(neutro_90mix, select = -c(gene_symbol_sql))
+neutro_90mix = t(neutro_90mix)
 # a little more formatting
-mix_cols = colnames(neutro_100mix)[colnames(neutro_100mix) %in% colnames(coarse_df)]
-neutro_100mix = neutro_100mix[,mix_cols]
-missing_genes = colnames(coarse_df)[(!(colnames(coarse_df) %in% colnames(neutro_100mix)))]
-median_expression = apply(neutro_100mix,1,median)
+mix_cols = colnames(neutro_90mix)[colnames(neutro_90mix) %in% colnames(coarse_df)]
+neutro_90mix = neutro_90mix[,mix_cols]
+missing_genes = colnames(coarse_df)[(!(colnames(coarse_df) %in% colnames(neutro_90mix)))]
+median_expression = apply(neutro_90mix,1,median)
 missing_genes_df = sapply(missing_genes, function(g) median_expression, simplify = 'array')
-neutro_100mix_all = cbind(neutro_100mix, missing_genes_df)
-neutro_100mix_all = neutro_100mix_all[,colnames(coarse_df)]
-neutro_100mix_mod = neutro_100mix_all[,neutro_colors=='darkturquoise']
-neutro_100mix_ME = predict(neutro_ME_model, s=neutro_ME_model$lambda.1se, newx = as.matrix(neutro_100mix_mod))
+neutro_90mix_all = cbind(neutro_90mix, missing_genes_df)
+neutro_90mix_all = neutro_90mix_all[,colnames(coarse_df)]
+neutro_90mix_mod = neutro_90mix_all[,neutro_colors=='darkturquoise']
+neutro_90mix_ME = predict(neutro_ME_model, s=neutro_ME_model$lambda.1se, newx = as.matrix(neutro_90mix_mod))
 
-par(mfrow=c(3,5))
-for(g in sample(1:sum(neutro_colors=='darkturquoise'),3)){
-  plot(neutro_MEs$MEdarkturquoise~neutro_darkturquoise_df[,g], main="training")
+# redoing some stuff for the orange module
+
+# neutro_90mix_mod = neutro_90mix_all[,neutro_colors=='orange']
+# neutro_70mix_mod = neutro_70mix_all[,neutro_colors=='orange']
+# neutro_50mix_mod = neutro_50mix_all[,neutro_colors=='orange']
+# neutro_30mix_mod = neutro_30mix_all[,neutro_colors=='orange']
+# neutro_10mix_mod = neutro_10mix_all[,neutro_colors=='orange']
+# neutro_100mix_ME = predict(neutro_ME_model, s=neutro_ME_model$lambda.1se, newx = as.matrix(neutro_100mix_mod))
+# neutro_80mix_ME = predict(neutro_ME_model, s=neutro_ME_model$lambda.1se, newx = as.matrix(neutro_80mix_mod))
+# neutro_60mix_ME = predict(neutro_ME_model, s=neutro_ME_model$lambda.1se, newx = as.matrix(neutro_60mix_mod))
+# neutro_40mix_ME = predict(neutro_ME_model, s=neutro_ME_model$lambda.1se, newx = as.matrix(neutro_40mix_mod))
+# neutro_20mix_ME = predict(neutro_ME_model, s=neutro_ME_model$lambda.1se, newx = as.matrix(neutro_20mix_mod))
+
+par(mfrow=c(3,6))
+par(mar=c(1,1,1,1))
+for(g in sample(1:sum(neutro_colors=='orange'),3)){
+  plot(neutro_MEs$MEorange~neutro_orange_df[,g], main="training")
   plot(neutro_100mix_ME~neutro_100mix_mod[,g], main="100% neutro")
-  plot(neutro_75mix_ME~neutro_75mix_mod[,g], main="75% neutro")
-  plot(neutro_50mix_ME~neutro_50mix_mod[,g], main="50% neutro")
-  plot(neutro_25mix_ME~neutro_25mix_mod[,g], main="25% neutro")
+  plot(neutro_80mix_ME~neutro_80mix_mod[,g], main="80% neutro")
+  plot(neutro_60mix_ME~neutro_60mix_mod[,g], main="60% neutro")
+  plot(neutro_40mix_ME~neutro_40mix_mod[,g], main="40% neutro")
+  plot(neutro_20mix_ME~neutro_20mix_mod[,g], main="20% neutro")
 }
 
 #some genes separate convolutions well...others don't
@@ -188,25 +233,39 @@ for(g in sample(1:sum(neutro_colors=='darkturquoise'),3)){
 # 2...
 # repeat loop for each mixture
 
-neutro25_ME_dist = matrix(0, nrow = ncol(neutro_25mix_mod), ncol = ncol(neutro_25mix_mod))
-for(i in 1:ncol(neutro_25mix_mod)){
-  gene_ME_dist = matrix(0, nrow = ncol(neutro_25mix_mod), ncol = nrow(neutro_25mix_mod))
-  for(j in 1:nrow(neutro_25mix_mod)){
-    gene_scaler = abs(neutro_25mix_mod[j,i]-neutro_25mix_ME[j])
-    ME_dist = sapply(unlist(neutro_25mix_mod[j,]), function(x) abs(x - neutro_25mix_ME[j])/gene_scaler)
+neutro90_ME_dist = matrix(0, nrow = ncol(neutro_90mix_mod), ncol = ncol(neutro_90mix_mod))
+for(i in 1:ncol(neutro_90mix_mod)){
+  gene_ME_dist = matrix(0, nrow = ncol(neutro_90mix_mod), ncol = nrow(neutro_90mix_mod))
+  for(j in 1:nrow(neutro_90mix_mod)){
+    gene_scaler = abs(neutro_90mix_mod[j,i]-neutro_90mix_ME[j])
+    ME_dist = sapply(unlist(neutro_90mix_mod[j,]), function(x) abs(x - neutro_90mix_ME[j])/gene_scaler)
     gene_ME_dist[,j] = ME_dist
   }
   neutro_avg_dist = apply(gene_ME_dist, 1, mean)
-  neutro25_ME_dist[i,] <- neutro_avg_dist
+  neutro90_ME_dist[i,] <- neutro_avg_dist
 }
 
+# Flipping the above loop to get sample-specific distances per gene
+neutro10_ME_dist = array(matrix(0, nrow = ncol(neutro_10mix_mod), ncol = ncol(neutro_10mix_mod)),
+                          dim = c(ncol(neutro_10mix_mod),ncol(neutro_10mix_mod),nrow(neutro_10mix_mod)))
+for(i in 1:nrow(neutro_10mix_mod)){
+  # browser()
+  gene_ME_dist = matrix(0, nrow = ncol(neutro_10mix_mod), ncol = ncol(neutro_10mix_mod))
+  for(j in 1:ncol(neutro_10mix_mod)){
+    # gene_scaler = neutro_10mix_mod[i,j]-neutro_10mix_ME[i]
+    ME_dist = sapply(unlist(neutro_10mix_mod[i,]), function(x) x/neutro_10mix_mod[i,j])
+    gene_ME_dist[j,] = ME_dist
+  }
+  # neutro_avg_dist = apply(gene_ME_dist, 1, mean)
+  neutro10_ME_dist[,,i] <- gene_ME_dist
+}
 
-par(mfrow=c(5,3))
+par(mfrow=c(6,3))
 par(mar=c(1,1,1,1))
-neutroMixList = list('training' = neutro_ME_dist, '100' = neutro100_ME_dist, '75' = neutro75_ME_dist,
-                     '50' = neutro50_ME_dist, '25' = neutro25_ME_dist)
+neutroMixList = list('training' = neutro_ME_dist, '100' = neutro100_ME_dist, '80' = neutro80_ME_dist,
+                     '60' = neutro60_ME_dist, '40' = neutro40_ME_dist, '20' = neutro20_ME_dist)
 
-randomGenes <- sample(1:sum(neutro_colors=='darkturquoise'),3)
+randomGenes <- sample(1:sum(neutro_colors=='orange'),3)
 for(data in 1:length(neutroMixList)){
   for(g in randomGenes){
     x = unname(neutroMixList[[data]])[,g]
@@ -218,15 +277,162 @@ for(data in 1:length(neutroMixList)){
   }
 }
 
+# Trying to look at genes by individual samples
+# randomGenes <- sample(1:sum(neutro_colors=='darkturquoise'),3)
+neutroArrayList = list('100' = neutro100_ME_dist, '80' = neutro80_ME_dist,
+                     '60' = neutro60_ME_dist, '40' = neutro40_ME_dist, '20' = neutro20_ME_dist)
+randomSample <- sample(1:100,1)
+randomGenes <- sample(1:sum(neutro_colors=='orange'),3)
+for(g in randomGenes){
+  x = neutro_ME_dist[g,]
+  x.fit <- seq(min(x), max(x), length=length(x))
+  h = hist(neutro_ME_dist[g,], breaks=20, xlim = c(0.5,2), main = 'training')
+  fit = fitdistr(neutro_ME_dist[g,], 'Gamma')
+  x.gamma <- dgamma(x.fit, shape=fit$estimate[1], rate=fit$estimate[2])
+  lines(x.fit, x.gamma/max(x.gamma)*max(h$density), col='green', lwd=2)
+}
+for(data in 1:length(neutroArrayList)){
+  for(g in randomGenes){
+    x = unname(neutroArrayList[[data]])[g,,randomSample]
+    x.fit <- seq(min(x), max(x), length=length(x))
+    h = hist(neutroArrayList[[data]][g,,randomSample], breaks=20, xlim = c(0.5,2), main = names(neutroArrayList[data]))
+    fit = fitdistr(neutroArrayList[[data]][g,,randomSample], 'Gamma')
+    x.gamma <- dgamma(x.fit, shape=fit$estimate[1], rate=fit$estimate[2])
+    lines(x.fit, x.gamma/max(x.gamma)*max(h$density), col='green', lwd=2)
+  }
+}
+
+
 #####
-# 1. Calculate a divergence/entropy score from fitted distributions
-# 
-#
+# 1a. Calculate a divergence/entropy score from fitted distributions
+# 1b. Divergence doesn't work so well, a correlation/covariance seems to match much better
+#     ...interestingly, the gene-wise covariance don't seem to be that tightly correlated
+# 2. Make a full correlation data frame of all mixtures
+#     - Make a train and test set
+# 3. Model the covariance with mixture proporation
 #####
 
-KL.divergence(neutro_ME_dist[,10],neutro100_ME_dist[,10],20)
+randomGene <- sample(1:sum(neutro_colors=='orange'),1)
+randomSample <- sample(1:100,1)
+for(data in 1:length(neutroArrayList)){
+  # gene_divergence = sapply(1:sum(neutro_colors=='darkturquoise'),
+                          # function(x) KL.divergence(neutro_ME_dist[,x],neutroArrayList[[data]][,x,18],2)[2])
+  # print(mean(gene_divergence))
+  # print(KL.divergence(neutro_ME_dist[randomGene,],neutroArrayList[[data]][randomGene,,randomSample]))
+  # print(cor(neutro_ME_dist[randomGene,],neutroArrayList[[data]][randomGene,,randomSample]))
+  gene_correlation = sapply(1:sum(neutro_colors=='orange'),
+                            function(x) cor(neutro_ME_dist[x,],neutroArrayList[[data]][x,,randomSample]))
+  print(mean(gene_correlation))
+  # plot(neutro_ME_dist[,randomGene],neutroArrayList[[data]][,randomGene,25])
+}
+
+cov_test =t(sapply(1:3, function(i) sapply(1:5,
+       function(x) cov(neutro_ME_dist[x,],neutroArrayList[[5]][x,,i]))))
 
 
+# Step 2...
+neutroArrayList = list('100' = neutro100_ME_dist, '90' = neutro90_ME_dist, '80' = neutro80_ME_dist,
+                       '70' = neutro70_ME_dist, '60' = neutro60_ME_dist, '50' = neutro50_ME_dist,
+                       '40' = neutro40_ME_dist, '30' = neutro30_ME_dist, '20' = neutro20_ME_dist,
+                       '10' = neutro10_ME_dist, '0' = neutro0_ME_dist)
+
+initial = 0
+for(idx in 1:length(neutroArrayList)){
+  if(initial == 0){
+    all_cov_matrix = t(sapply(1:100, function(i) sapply(1:sum(neutro_colors=='orange'), 
+                                                  function(x) cov(neutro_ME_dist[x,],neutroArrayList[[idx]][x,,i]))))
+    all_cov_matrix = cbind(all_cov_matrix, rep(as.integer(names(neutroArrayList)[idx]),100))
+    colnames(all_cov_matrix) = c(colnames(neutro_orange_df), "mix")
+    initial = 1
+  } else {
+    cov_matrix = t(sapply(1:100, function(i) sapply(1:sum(neutro_colors=='orange'), 
+                                                        function(x) cov(neutro_ME_dist[x,],neutroArrayList[[idx]][x,,i]))))
+    cov_matrix = cbind(cov_matrix, rep(as.integer(names(neutroArrayList)[idx]),100))
+    colnames(cov_matrix) = c(colnames(neutro_orange_df), "mix")
+    all_cov_matrix = rbind(all_cov_matrix, cov_matrix)
+    }
+  }
+
+
+test_idx <- sample(1:1000,100)
+test_cov_matrix <- all_cov_matrix[test_idx,]
+train_cov_matrix <- all_cov_matrix[-test_idx,]
+
+# Step 3...
+
+#Finding the best alpha
+
+for (i in 0:10) {
+  assign(paste("fit", i, sep=""), cv.glmnet(subset(train_cov_matrix, select = -c(mix)), train_cov_matrix[,'mix'], 
+                                            type.measure="mse", alpha=i/10,family="gaussian"))
+}
+
+yhat0 <- predict(fit0, s=fit0$lambda.1se, newx=subset(test_cov_matrix, select = -c(mix)))
+yhat1 <- predict(fit1, s=fit1$lambda.1se, newx=subset(test_cov_matrix, select = -c(mix)))
+yhat2 <- predict(fit2, s=fit2$lambda.1se, newx=subset(test_cov_matrix, select = -c(mix)))
+yhat3 <- predict(fit3, s=fit3$lambda.1se, newx=subset(test_cov_matrix, select = -c(mix)))
+yhat4 <- predict(fit4, s=fit4$lambda.1se, newx=subset(test_cov_matrix, select = -c(mix)))
+yhat5 <- predict(fit5, s=fit5$lambda.1se, newx=subset(test_cov_matrix, select = -c(mix)))
+yhat6 <- predict(fit6, s=fit6$lambda.1se, newx=subset(test_cov_matrix, select = -c(mix)))
+yhat7 <- predict(fit7, s=fit7$lambda.1se, newx=subset(test_cov_matrix, select = -c(mix)))
+yhat8 <- predict(fit8, s=fit8$lambda.1se, newx=subset(test_cov_matrix, select = -c(mix)))
+yhat9 <- predict(fit9, s=fit9$lambda.1se, newx=subset(test_cov_matrix, select = -c(mix)))
+yhat10 <- predict(fit10, s=fit10$lambda.1se, newx=subset(test_cov_matrix, select = -c(mix)))
+
+mean((test_cov_matrix[,"mix"] - yhat0)^2)
+mean((test_cov_matrix[,"mix"] - yhat1)^2)
+mean((test_cov_matrix[,"mix"] - yhat2)^2)
+mean((test_cov_matrix[,"mix"] - yhat3)^2)
+mean((test_cov_matrix[,"mix"] - yhat4)^2)
+mean((test_cov_matrix[,"mix"] - yhat5)^2)
+mean((test_cov_matrix[,"mix"] - yhat6)^2)
+mean((test_cov_matrix[,"mix"] - yhat7)^2)
+mean((test_cov_matrix[,"mix"] - yhat8)^2)
+mean((test_cov_matrix[,"mix"] - yhat9)^2)
+mean((test_cov_matrix[,"mix"] - yhat10)^2)
+
+
+# somewhere around the middle is good, but alpha = 0.9 was best
+# honestly, 0.1-0.9 are all pretty okay
+# It seems more accurate for the lower percentages
+# for now I'll try 3...
+
+#NEED TO INCLUDE 0% SAMPLES TOO!!!
+# testing a 0%
+
+neutro_0mix = read.csv('../mixed_dfs/neutro_coarse_all_0.csv')
+# a little restructring...
+neutro_0mix <- as.data.frame(neutro_0mix)
+row.names(neutro_0mix) = neutro_0mix$gene_symbol_sql
+neutro_0mix = subset(neutro_0mix, select = -c(gene_symbol_sql))
+neutro_0mix = t(neutro_0mix)
+# a little more formatting
+mix_cols = colnames(neutro_0mix)[colnames(neutro_0mix) %in% colnames(coarse_df)]
+neutro_0mix = neutro_0mix[,mix_cols]
+missing_genes = colnames(coarse_df)[(!(colnames(coarse_df) %in% colnames(neutro_0mix)))]
+median_expression = apply(neutro_0mix,1,median)
+missing_genes_df = sapply(missing_genes, function(g) median_expression, simplify = 'array')
+neutro_0mix_all = cbind(neutro_0mix, missing_genes_df)
+neutro_0mix_all = neutro_0mix_all[,colnames(coarse_df)]
+neutro_0mix_mod = neutro_0mix_all[,neutro_colors=='orange']
+
+neutro0_ME_dist = array(matrix(0, nrow = ncol(neutro_0mix_mod), ncol = ncol(neutro_0mix_mod)),
+                         dim = c(ncol(neutro_0mix_mod),ncol(neutro_0mix_mod),nrow(neutro_0mix_mod)))
+for(i in 1:nrow(neutro_0mix_mod)){
+  gene_ME_dist = matrix(0, nrow = ncol(neutro_0mix_mod), ncol = ncol(neutro_0mix_mod))
+  for(j in 1:ncol(neutro_0mix_mod)){
+    ME_dist = sapply(unlist(neutro_0mix_mod[i,]), function(x) x/neutro_0mix_mod[i,j])
+    gene_ME_dist[j,] = ME_dist
+  }
+  neutro0_ME_dist[,,i] <- gene_ME_dist
+}
+
+mix0_cov_matrix = t(sapply(1:100, function(i) sapply(1:sum(neutro_colors=='orange'), 
+                                                    function(x) cov(neutro_ME_dist[x,],neutro0_ME_dist[x,,i]))))
+mix0_cov_matrix = cbind(mix0_cov_matrix, rep(0,100))
+colnames(mix0_cov_matrix) = c(colnames(neutro_orange_df), "mix")
+
+yhat0 <- predict(fit3, s=fit3$lambda.1se, newx=subset(mix0_cov_matrix, select = -c(mix)))
 
 
 # for predicting a single sample
