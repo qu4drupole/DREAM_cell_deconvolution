@@ -15,6 +15,7 @@ RUN Rscript -e "install.packages('readr')"
 RUN Rscript -e "install.packages('purrr')"
 RUN Rscript -e "install.packages('tibble')"
 RUN Rscript -e "install.packages('reshape2')"
+RUN Rscript -e "install.packages('glmnet')"
 
 ## install.packages("BiocManager") 
 ## BiocManager::install("WGCNA") 

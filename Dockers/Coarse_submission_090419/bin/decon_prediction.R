@@ -13,8 +13,9 @@ library(readr)
 library(purrr)
 library(tibble)
 library(reshape2)
+library(glmnet)
 
-source(functions.R)
+source("functions.R")
 load("coarse_cell_models_list.RData")
 
 # read meta data
