@@ -1,6 +1,9 @@
 # FUNCTIONS USED IN 'decon_prediction.R'
 
 format_data <- function(test_df, scale){
+  # browser()
+  print("data frame dimensions:")
+  print(dim(test_df))
   #scale test_df
   if(scale == 'Linear'){
     test_df = log2(test_df)
@@ -8,9 +11,16 @@ format_data <- function(test_df, scale){
     test_df = test_df*log2(10)
   }
   #impute NAs
-  na.rows <- unname(which(apply(test_df, 1, function(x) sum(is.na(x))>0)))
-  for(r in na.rows){
-    test_df[r,is.na(test_df[r,])] <- median(unlist(test_df[r,]), na.rm = T)
+  print("# of NA's:")
+  num.na <- sum(is.na(test_df))
+  print(num.na)
+  if(num.na > 0){
+    na.rows <- unname(which(apply(test_df, 1, function(x) sum(is.na(x))==ncol(test_df))))
+    test_df <- test_df[-na.rows,]
+    na.impute <- unname(which(apply(test_df, 1, function(x) sum(is.na(x))>0)))
+    for(r in na.impute){
+      test_df[r,is.na(test_df[r,])] <- median(unlist(test_df[r,]), na.rm = T)
+    }
   }
   #format
   test_df = t(test_df)
@@ -27,10 +37,10 @@ format_data <- function(test_df, scale){
 make_prediction <- function(cell_model, test_df){
   # browser()
   test_df_mod = test_df[,colnames(cell_model$df)]
-  test_dist = array(matrix(100, nrow = ncol(test_df_mod), ncol = ncol(test_df_mod)),
+  test_dist = array(matrix(0, nrow = ncol(test_df_mod), ncol = ncol(test_df_mod)),
                       dim = c(ncol(test_df_mod),ncol(test_df_mod),nrow(test_df_mod)))
   for(i in 1:nrow(test_df_mod)){
-    gene_ME_dist = matrix(100, nrow = ncol(test_df_mod), ncol = ncol(test_df_mod))
+    gene_ME_dist = matrix(0, nrow = ncol(test_df_mod), ncol = ncol(test_df_mod))
     for(j in 1:ncol(test_df_mod)){
       ME_dist = sapply(unlist(test_df_mod[i,]), function(x) (x-test_df_mod[i,j])^2)
       gene_ME_dist[j,] = ME_dist
@@ -41,9 +51,11 @@ make_prediction <- function(cell_model, test_df){
   test_rotation = t(sapply(1:dim(test_dist)[3], function(i) svd(test_dist[,,i])$u[,1]))
   
   test_pred <- predict(cell_model$model, s=cell_model$model$lambda.1se, newx=test_rotation)
+  # print(quantile(test_pred))
   # print('done')
   return(test_pred)
 }
+
 
 
 

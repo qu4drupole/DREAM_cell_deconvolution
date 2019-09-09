@@ -115,37 +115,6 @@ class microarray_data:
         df = df1
         return df
     
-#     # INTERNAL USE ONLY
-#     def getNormalizationPlus(self, ct_df):
-#         unknown_cols = ct_df.columns[ct_df.columns.str.contains('unknown')]
-#         unknown_gse = {}
-#         for col_name in unknown_cols:
-#             gse = re.search('gse_(GSE\d+)',col_name).group(1)
-#             if gse in unknown_gse:
-#                 continue
-#             else:
-#                 test_data = ct_df[col_name].dropna().sample(10)
-#                 # check for TPM
-#                 # this is wrong...
-#         #         if all(x in range(900000,1000000) for x in test_data):
-#         #             unknown_gse[gse] = 'TPM'
-#         #             continue
-#                 # check for RAW
-#                 if all(x == 0 for x in test_data % 1):
-#                     unknown_gse[gse] = 'RAW'
-#                     continue
-#                 gse_meta = self.GEOparse.get_GEO(gse)
-#                 # check for DESeq
-#                 if 'data_processing' in gse_meta.phenotype_data.columns:
-#                     if self.re.search('(?i)deseq', gse_meta.phenotype_data['data_processing'][0]):
-#                         unknown_gse[gse] = 'DEseq'
-#                     elif self.re.search('(?i)cpm', gse_meta.phenotype_data['data_processing'][0]):
-#                         unknown_gse[gse] = 'CPM'
-#                 #probably FPKM/RPKM...
-#                 else:
-#                     unknown_gse[gse] = 'FPKM'
-#         return unknown_gse
-    
     def allData(self, ct):
         df_dict = {}
         # for working with 'Coarse' cells
@@ -183,7 +152,7 @@ class microarray_data:
                 df_dict[celltype] = df
         return df_dict
     
-    def normData(self):
+    def normData(self, ct):
         df_dict = {}
         if len(self.ctDict) > 0:
             for celltype in self.ctDict.keys():
@@ -276,83 +245,49 @@ class microarray_data:
         # need to randomly mix the remaining 7 CTs
         other_mix = self.np.random.uniform(0, 1, len(ctList) - 1)
         other_mix = random_total * other_mix / other_mix.sum()
-        new_mix = np.insert(other_mix, 0, mix[0])
+        new_mix = self.np.insert(other_mix, 0, mix[0])
         return new_mix
         
     def createMixDF(self, ctList, n_samp=10, mix = None):
         if mix is None:
             mix = [1/len(ctList)] * len(ctList)
-            
+        
+        # usage is where you only specify 1 cell type
         if len(mix) == 1:
             other_ct = list(self.ctDict.keys())
             other_ct.remove(ctList[0])
             ctList.extend(other_ct)
-
-        train_allData = self.allData(ct=ctList)
-        for ct in ctList:
-            ct_df = train_allData[ct]
-            ct_df = self.convertUnknown(forMixing = 1, ct_df = ct_df)
-            ct_df = ct_df[ct_df.columns[ct_df.sum() > 1e6]]
-            if ct_df.shape[1] < 1:
-                print("data for "+ct+" is garbage \n")
-                return None
-            # Include a check to make sure we even have a df...
-        for i in range(n_samp):
-            print('\n\n Sample '+str(i)+'\n')
-            ct_counter = 0
-            for ct in ctList:
-                if ct_counter == 0:
-                    mix_df = train_allData[ct].sample(1, axis = 1)
-#                     if mix_df.sum()[0] < 5e+6:
-#                         sample_counter = 0
-#                         read_sum = mix_df.sum()[0]
-#                         while read_sum < 5e+6 or sample_counter < 2*train_allData[ct].shape[1]:
-#                             mix_df = train_allData[ct].sample(1, axis = 1)
-#                             read_sum = mix_df.sum()[0]
-#                             sample_counter += 1
-#                         if sample_counter == train_allData[ct].shape[1]:
-#                             print('something fukd with data available for '+ct)
-#                             return None
-                    colname = mix_df.columns.values[0]
-                    mix_df.rename(columns={colname:ct}, inplace = True)
-                    ct_counter += 1
-                else:
-                    merge_df = train_allData[ct].sample(1, axis = 1)
-#                     if mix_df.sum()[0] < 5e+6:
-#                         sample_counter = 0
-#                         read_sum = mix_df.sum()[0]
-#                         while read_sum < 5e+6 or sample_counter < train_allData[ct].shape[1]:
-#                             mix_df = train_allData[ct].sample(1, axis = 1)
-#                             read_sum = mix_df.sum()[0]
-#                             sample_counter += 1
-#                         if sample_counter == train_allData[ct].shape[1]:
-#                             print('something fukd with data available for '+ct)
-#                             return None
+            train_ctData = self.normData(ct=ctList[0])
+            otherCts = [ct for ct in self.ct if ct != ctList[0]]
+            train_mixData = self.normData(ct=otherCts)
+            for i in range(n_samp):
+#                 print('working on '+str(i)+'\n\n')
+                ct_df = train_ctData[ctList[0]].sample(1, axis=1)
+                colname = ct_df.columns.values[0]
+                ct_df.rename(columns={colname:ctList[0]}, inplace = True)
+                for ct in otherCts:
+                    merge_df = train_mixData[ct].sample(1, axis = 1)
                     colname = merge_df.columns.values[0]
                     merge_df.rename(columns={colname:ct}, inplace = True)
-                    mix_df = mix_df.join(merge_df, how='inner')
-            # crude normalization for read depth
-            print(mix_df.head())
-            read_scaler = min(mix_df.sum())
-            mix_df = mix_df.apply(lambda x: x/x.sum()*read_scaler)
-            print(mix_df.head())
-            # mix
-            if len(mix) == len(ctList):
-                ct_mix = dict(zip(ctList,mix))
-            else:
-                rand_mix = self.createMixRatio(ctList, mix)
-                ct_mix = dict(zip(ctList,rand_mix))
-            print(str(ct_mix))
-            for ct, ratio in ct_mix.items():
-                mix_df.loc[:,ct] = mix_df[ct]*ratio
-            if i == 0:
-                mixed_counts = mix_df.apply(sum, 1)
-                mix_sample_df = self.pd.DataFrame(mixed_counts, columns=['sample'+str(i)])
-            else:
-                mixed_counts = mix_df.apply(sum, 1)
-                merge_sample_df = self.pd.DataFrame(mixed_counts, columns=['sample'+str(i)])
-                mix_sample_df = mix_sample_df.join(merge_sample_df, how='inner')
-            print(mix_sample_df.head()) 
+                    ct_df = ct_df.join(merge_df, how='inner')
+                # mix
+                if len(mix) == len(ctList):
+                    ct_mix = dict(zip(ctList,mix))
+                else:
+                    rand_mix = self.createMixRatio(ctList, mix)
+                    ct_mix = dict(zip(ctList,rand_mix))
+#                 print(str(ct_mix))
+                for ct, ratio in ct_mix.items():
+                    ct_df.loc[:,ct] = ct_df[ct]*ratio
+#                 print(ct_df.head())
+                if i == 0:
+                    mixed_counts = ct_df.apply(sum, 1)
+                    mix_sample_df = self.pd.DataFrame(mixed_counts, columns=['sample'+str(i)])
+                else:
+                    mixed_counts = ct_df.apply(sum, 1)
+                    merge_sample_df = self.pd.DataFrame(mixed_counts, columns=['sample'+str(i)])
+                    mix_sample_df = mix_sample_df.join(merge_sample_df, how='inner')
+#                 print(mix_sample_df.head()) 
         return mix_sample_df
         
         

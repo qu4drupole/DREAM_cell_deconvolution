@@ -25,7 +25,7 @@ coarse_df = subset(coarse_df, select = -c(X))
 # Calculating the WGCNA modules for each cell type
 #
 # WORKING WITH A SINGLE COARSE CELL TYPE
-#   [1] "b"      "CD4"    "CD8"    "nk"     "neutro" "mono"   "fibro"  "endo"  
+#   [1] "b"      "CD4"    "CD8"    "neutro"     "neutro" "mono"   "b"  "endo"  
 #
 #####
 
@@ -33,7 +33,7 @@ cd4_cell_df = coarse_df[cellTypes=='CD4.T.cells',]
 cd8_cell_df = coarse_df[cellTypes=='CD8.T.cells',]
 mono_cell_df = coarse_df[cellTypes=='monocytic.lineage',]
 endo_cell_df = coarse_df[cellTypes=='endothelial.cells',]
-fibro_cell_df = coarse_df[cellTypes=='fibroblasts',]
+b_cell_df = coarse_df[cellTypes=='bblasts',]
 b_cell_df = coarse_df[cellTypes=='B.cells',]
 nk_cell_df = coarse_df[cellTypes=='NK.cells',]
 neutro_cell_df = coarse_df[cellTypes=='neutrophils',]
@@ -87,17 +87,17 @@ for(mod_color in unique(neutro_colors)){
   print(sum(neutro_colors==mod_color))
   neutro_mod_test = t(neutro_cell_df[,neutro_colors==mod_color])
   b_mod_test = t(b_cell_df[,neutro_colors==mod_color])
-  nk_mod_test = t(nk_cell_df[,neutro_colors==mod_color])
+  neutro_mod_test = t(neutro_cell_df[,neutro_colors==mod_color])
   cd4_mod_test = t(cd4_cell_df[,neutro_colors==mod_color])
   cd8_mod_test = t(cd8_cell_df[,neutro_colors==mod_color])
   mono_mod_test = t(mono_cell_df[,neutro_colors==mod_color])
   endo_mod_test = t(endo_cell_df[,neutro_colors==mod_color])
-  fibro_mod_test = t(fibro_cell_df[,neutro_colors==mod_color])
-  clusterCodes = c(rep(1,ncol(neutro_mod_test)), rep(2,ncol(b_mod_test)), rep(3,ncol(nk_mod_test)),
+  b_mod_test = t(b_cell_df[,neutro_colors==mod_color])
+  clusterCodes = c(rep(1,ncol(neutro_mod_test)), rep(2,ncol(b_mod_test)), rep(3,ncol(neutro_mod_test)),
                    rep(4,ncol(cd4_mod_test)), rep(5,ncol(cd8_mod_test)), rep(6,ncol(mono_mod_test)),
-                   rep(7,ncol(endo_mod_test)), rep(8,ncol(fibro_mod_test)))
-  coarse_mod_df = cbind(neutro_mod_test, b_mod_test, nk_mod_test, cd4_mod_test, cd8_mod_test, 
-                        mono_mod_test, endo_mod_test, fibro_mod_test)
+                   rep(7,ncol(endo_mod_test)), rep(8,ncol(b_mod_test)))
+  coarse_mod_df = cbind(neutro_mod_test, b_mod_test, neutro_mod_test, cd4_mod_test, cd8_mod_test, 
+                        mono_mod_test, endo_mod_test, b_mod_test)
   mod_silhouette <- silhouette(clusterCodes, dist(t(coarse_mod_df)))
   s = summary(mod_silhouette)
   print(mean(s$clus.avg.widths)/var(s$clus.avg.widths))
@@ -105,27 +105,33 @@ for(mod_color in unique(neutro_colors)){
 
 # NOTES:
 # CD8: I chose a slightly lower score in favor a larger module size (~50 vs. 150)
-# fibro: I chose second highest score; max had 800 genes
-# nk: a lot of the options kind of sucked...the final module is quite large (740)
+# b: I chose second highest score; max had 800 genes
+# neutro: a lot of the options kind of sucked...the final module is quite large (740)
 
 # c/p -- cellType
 
 neutro_mod_df = neutro_cell_df[,neutro_colors=='orange']
 
-neutro_dist = matrix(0, nrow = ncol(neutro_mod_df), ncol = ncol(neutro_mod_df))
-for(i in 1:ncol(neutro_mod_df)){
-  gene_dist_matrix = matrix(0, nrow = ncol(neutro_mod_df), ncol = nrow(neutro_mod_df))
-  for(j in 1:nrow(neutro_mod_df)){
-    gene_dist = sapply(unlist(neutro_mod_df[j,]), function(x) x/neutro_mod_df[j,i])
+###
+# If there are memory issues with the module, trim:
+nk_mod_df = nk_mod_df[,sample(1:740,300)]
+###
+
+nk_dist = matrix(0, nrow = ncol(nk_mod_df), ncol = ncol(nk_mod_df))
+for(i in 1:ncol(nk_mod_df)){
+  gene_dist_matrix = matrix(0, nrow = ncol(nk_mod_df), ncol = nrow(nk_mod_df))
+  for(j in 1:nrow(nk_mod_df)){
+    gene_dist = sapply(unlist(nk_mod_df[j,]), function(x) (x-nk_mod_df[j,i])^2)
     gene_dist_matrix[,j] = gene_dist
   }
-  neutro_avg_dist = apply(gene_dist_matrix, 1, mean)
-  neutro_dist[i,] <- neutro_avg_dist
+  nk_avg_dist = apply(gene_dist_matrix, 1, mean)
+  nk_dist[i,] <- nk_avg_dist
 }
 
 save(cd4_mod_df, cd4_dist, cd8_mod_df, cd8_dist, mono_mod_df, mono_dist, endo_mod_df, endo_dist, 
-     fibro_mod_df, fibro_dist, b_mod_df, b_dist, nk_mod_df, nk_dist, neutro_mod_df, neutro_dist, 
-     file='coarse_cell_training_data.RData')
+     b_mod_df, b_dist, b_mod_df, b_dist, neutro_mod_df, neutro_dist, neutro_mod_df, neutro_dist,
+     cellTypes, coarse_df, nk_mod_df, nk_dist, fibro_mod_df, file='coarse_cell_training_data.RData')
+
 
 
 #####
@@ -139,69 +145,105 @@ save(cd4_mod_df, cd4_dist, cd8_mod_df, cd8_dist, mono_mod_df, mono_dist, endo_mo
 
 #//// TO DO ////#
 # Something is wrong with the 0% b cell file--remake
+# Same thing seems to be true with neutro...maybe the mixer just fucks up with all 0's
 #//// TO DO ////#
 
-nk_30mix = read.csv('../mixed_dfs/nkcells_coarse_all_30.csv')
-nk_30mix <- as.data.frame(nk_30mix)
-row.names(nk_30mix) = nk_30mix$gene_symbol_sql
-nk_30mix = subset(nk_30mix, select = -c(gene_symbol_sql))
-nk_30mix = t(nk_30mix)
-mix_cols = colnames(nk_30mix)[colnames(nk_30mix) %in% colnames(coarse_df)]
-nk_30mix = nk_30mix[,mix_cols]
-missing_genes = colnames(coarse_df)[(!(colnames(coarse_df) %in% colnames(nk_30mix)))]
-median_expression = apply(nk_30mix,1,median)
-missing_genes_df = sapply(missing_genes, function(g) median_expression, simplify = 'array')
-nk_30mix_all = cbind(nk_30mix, missing_genes_df)
-nk_30mix_all = nk_30mix_all[,colnames(coarse_df)]
-nk_30mix_mod = nk_30mix_all[,colnames(nk_mod_df)]
-
-nk_30_dist = array(matrix(0, nrow = ncol(nk_30mix_mod), ncol = ncol(nk_30mix_mod)),
-                         dim = c(ncol(nk_30mix_mod),ncol(nk_30mix_mod),nrow(nk_30mix_mod)))
-for(i in 1:nrow(nk_30mix_mod)){
-  gene_ME_dist = matrix(0, nrow = ncol(nk_30mix_mod), ncol = ncol(nk_30mix_mod))
-  for(j in 1:ncol(nk_30mix_mod)){
-    ME_dist = sapply(unlist(nk_30mix_mod[i,]), function(x) x/nk_30mix_mod[i,j])
-    gene_ME_dist[j,] = ME_dist
+#replace 'cell.type' name
+neutroArrayList <- list()
+for(mixRatio in seq(0,100,10)){
+  print(paste('working on',as.character(mixRatio)))
+  ct_Nmix = read.csv(gsub('N',as.character(mixRatio), '../mixed_dfs/neutro_coarse_all_N.csv'))
+  ct_Nmix <- as.data.frame(ct_Nmix)
+  row.names(ct_Nmix) = ct_Nmix$gene_symbol_sql
+  ct_Nmix = subset(ct_Nmix, select = -c(gene_symbol_sql))
+  ct_Nmix = t(ct_Nmix)
+  mix_cols = colnames(ct_Nmix)[colnames(ct_Nmix) %in% colnames(coarse_df)]
+  ct_Nmix = ct_Nmix[,mix_cols]
+  missing_genes = colnames(coarse_df)[(!(colnames(coarse_df) %in% colnames(ct_Nmix)))]
+  median_expression = apply(ct_Nmix,1,median)
+  missing_genes_df = sapply(missing_genes, function(g) median_expression, simplify = 'array')
+  ct_Nmix_all = cbind(ct_Nmix, missing_genes_df)
+  ct_Nmix_all = ct_Nmix_all[,colnames(coarse_df)]
+  ct_Nmix_mod = ct_Nmix_all[,colnames(neutro_mod_df)]
+  
+  ct_N_dist = array(matrix(0, nrow = ncol(ct_Nmix_mod), ncol = ncol(ct_Nmix_mod)),
+                           dim = c(ncol(ct_Nmix_mod),ncol(ct_Nmix_mod),nrow(ct_Nmix_mod)))
+  for(i in 1:nrow(ct_Nmix_mod)){
+    gene_ME_dist = matrix(0, nrow = ncol(ct_Nmix_mod), ncol = ncol(ct_Nmix_mod))
+    for(j in 1:ncol(ct_Nmix_mod)){
+      ME_dist = sapply(unlist(ct_Nmix_mod[i,]), function(x) (x-ct_Nmix_mod[i,j])^3) #took out square
+      gene_ME_dist[j,] = ME_dist
+    }
+    ct_N_dist[,,i] <- gene_ME_dist
   }
-  nk_30_dist[,,i] <- gene_ME_dist
+  print(sum(is.na(ct_N_dist))/length(ct_N_dist))
+  print(sum(is.infinite(ct_N_dist))/length(ct_N_dist))
+  ct_N_list <- list(ct_N_dist)
+  names(ct_N_list) <- as.character(mixRatio)
+  neutroArrayList <- c(neutroArrayList, ct_N_list)
 }
+
+
 
 #\/\/\/\/ PROBLEM \/\/\/\/#
 #
-# "mono" has a lot of 'NA' values
+# Fibro had some NA's in 100%
+#   -there must be a 0 in the expression data, which creates Inf of NaN in the ratio distance metric
+fibroArrayList[['100']][is.na(fibroArrayList[['100']])] <- mean(fibroArrayList[['100']], na.rm=T)
+fibroArrayList[['100']][is.infinite(fibroArrayList[['100']])] <- 0
 #
 #\/\/\/\/ PROBLEM \/\/\/\/#
 
 
 # c/p -- cellType
+# 
+# fibroArrayList = list('100' = fibro_100_dist, '90' = fibro_100_dist, '80' = fibro_80_dist,
+#                        '60' = fibro_60_dist, '50' = fibro_50_dist, '70' = fibro_70_dist,
+#                        '40' = fibro_40_dist, '30' = fibro_30_dist, '20' = fibro_20_dist,
+#                        '10' = fibro_10_dist, '0' = fibro_0_dist)
 
-fibroArrayList = list('100' = fibro_100_dist, '90' = fibro_100_dist, '80' = fibro_80_dist,
-                       '70' = fibro_70_dist, '60' = fibro_60_dist, '50' = fibro_50_dist,
-                       '40' = fibro_40_dist, '30' = fibro_30_dist, '20' = fibro_20_dist,
-                       '10' = fibro_10_dist, '0' = fibro_0_dist)
+
+# 
+# par(mfrow=c(3,2))
+# par(mar=c(1,1,1,1))
+# for(i in seq(1,11, by=2)){
+#   # mean.dist <- vector()
+#   # for(x in 1:ncol(neutro_mod_df)){
+#   #   diff.gene <- (neutro_dist[x,] - neutroArrayList[[i]][x,,4])**2
+#   #   log.gene <- log(diff.gene)
+#   #   log.gene[log.gene==-Inf] <- 0
+#   #   mean.dist <- append(mean.dist, exp(sum(log.gene))/ncol(neutro_dist))
+#   # }
+#   mean.dist <- sapply(1:ncol(neutro_mod_df), function(x) mean((neutro_dist[,x] - neutroArrayList[[i]][,x,7])**2)*100)
+#   hist(mean.dist, breaks=10, xlim = c(0,20), main = names(neutroArrayList[[i]]))
+# }
+# 
+# 
+# exp(sum(log((neutro_dist[x,] - neutro_100_dist[x,,1])**2))/ncol(neutro_dist))
+# exp(sum(log((neutro_dist[x,] - neutro_20_dist[x,,1])**2))/ncol(neutro_dist))
+# exp(sum(log(x[x > 0]), na.rm=na.rm) / length(x))
+##################### 
 
 
 initial = 0
-for(idx in 1:length(fibroArrayList)){
+for(idx in 1:length(neutroArrayList)){
   if(initial == 0){
-    all_cov_matrix = t(sapply(1:100, function(i) sapply(1:ncol(fibro_mod_df), 
-                                                        function(x) cov(fibro_dist[x,],fibroArrayList[[idx]][x,,i]))))
-    all_cov_matrix = cbind(all_cov_matrix, rep(as.integer(names(fibroArrayList)[idx]),100))
-    colnames(all_cov_matrix) = c(colnames(fibro_mod_df), "mix")
+    all_cov_matrix = t(sapply(1:100, function(i) svd(neutroArrayList[[idx]][,,i])$u[,1]))
+    all_cov_matrix = cbind(all_cov_matrix, rep(as.integer(names(neutroArrayList)[idx]),100))
+    colnames(all_cov_matrix) = c(colnames(neutro_mod_df), "mix")
     initial = 1
   } else {
-    cov_matrix = t(sapply(1:100, function(i) sapply(1:ncol(fibro_mod_df), 
-                                                    function(x) cov(fibro_dist[x,],fibroArrayList[[idx]][x,,i]))))
-    cov_matrix = cbind(cov_matrix, rep(as.integer(names(fibroArrayList)[idx]),100))
-    colnames(cov_matrix) = c(colnames(fibro_mod_df), "mix")
+    cov_matrix = t(sapply(1:100, function(i) svd(neutroArrayList[[idx]][,,i])$u[,1]))
+    cov_matrix = cbind(cov_matrix, rep(as.integer(names(neutroArrayList)[idx]),100))
+    colnames(cov_matrix) = c(colnames(neutro_mod_df), "mix")
     all_cov_matrix = rbind(all_cov_matrix, cov_matrix)
   }
 }
 
 #//// CAUTION ////#
 #
-# "endo" had a few 'NA's that I replaced with matrix mean
-# "fibro" had a few 'NA's that I replaced with matrix mean
+# "cd8" skipping 70% mix because it had too many missing values
+sum(is.na(all_cov_matrix))/length(all_cov_matrix)
 all_cov_matrix[is.na(all_cov_matrix)] <- mean(all_cov_matrix, na.rm = T)
 #
 #//// CAUTION ////#
@@ -247,19 +289,59 @@ mean((test_cov_matrix[,"mix"] - yhat9)^2)
 mean((test_cov_matrix[,"mix"] - yhat10)^2)
 
 # c/p -- cellType, fitN
+test_sample = sample(1:100,5)
+test_cov_matrix[,"mix"][test_sample]
+yhat4[test_sample]
+plot(test_cov_matrix[,"mix"], yhat5)
 
-fibro_model <- fit10
+fibro_model <- fit0
 
-# NOTES:
-# fibro sucks...
 
 #############
+# FINISHED: 
+#   -neutro
+#   -cd4 
+#   -cd8 
+#     -- skipping 70% mix because it had too many missing values
+#   -mono
+#     -- just a bad fit for the admix
+#   -endo
+#   -b
+#     -- just a bad fit for the admix
+#   -fibro
+#     -- squared difference seems to work better than squared ratio
+#     -- how about cubed difference? Including negative numbers really messes it up...
+#   -nk
+#
 # --STOPPING POINT--
-# DIDN'T FINISH "nk" OR 'neutro'
-# PROBABLY NEED TO PICK A DIFFERENT NK MODULE--ONE MIX IS 0.5 Gb
+# 
 #############
 
-save(cd4_mod_df, cd4_dist, cd8_mod_df, cd8_dist, mono_mod_df, mono_dist, endo_mod_df, endo_dist, 
-     fibro_mod_df, fibro_dist, b_mod_df, b_dist, nk_mod_df, nk_dist, neutro_mod_df, neutro_dist,
-     cd4_model, cd8_model, mono_model, endo_model, fibro_model, b_model, nk_model, neutro_model,
+save(cd4_mod_df, cd4_model, neutro_mod_df, neutro_model, cd8_mod_df, cd8_model, mono_mod_df, mono_model,
+     endo_mod_df, endo_model, fibro_mod_df, fibro_model, b_mod_df, b_model, nk_mod_df, nk_model, coarse_df,
      file='coarse_cell_data_models.RData')
+
+cd4 = list('df' = cd4_mod_df, 'model' = cd4_model)
+cd8 = list('df' = cd8_mod_df, 'model' = cd8_model)
+neutro = list('df' = neutro_mod_df, 'model' = neutro_model)
+mono = list('df' = mono_mod_df, 'model' = mono_model)
+endo = list('df' = endo_mod_df, 'model' = endo_model)
+fibro = list('df' = fibro_mod_df, 'model' = fibro_model)
+b = list('df' = b_mod_df, 'model' = b_model)
+nk = list('df' = nk_mod_df, 'model' = nk_model)
+
+cell_models = list('CD4.T.cells' = cd4, 'CD8.T.cells' = cd8, 'NK.cells' = nk,
+                   'B.cells' = b, 'monocytic.lineage' = mono, 'neutrophils' = neutro,
+                   'endothelial.cells' = endo, 'fibroblasts' = fibro)
+
+save(cell_models, coarse_df, file='coarse_cell_models_list.RData')
+
+
+
+
+
+
+
+
+
+  
