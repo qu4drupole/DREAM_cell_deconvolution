@@ -14,10 +14,12 @@ format_data <- function(test_df, scale){
   print("# of NA's:")
   num.na <- sum(is.na(test_df))
   print(num.na)
-  if(num.na > 0){
-    na.rows <- unname(which(apply(test_df, 1, function(x) sum(is.na(x))==ncol(test_df))))
+  na.rows <- unname(which(apply(test_df, 1, function(x) sum(is.na(x))==ncol(test_df))))
+  if(length(na.rows) > 0){
     test_df <- test_df[-na.rows,]
-    na.impute <- unname(which(apply(test_df, 1, function(x) sum(is.na(x))>0)))
+  }
+  na.impute <- unname(which(apply(test_df, 1, function(x) sum(is.na(x))>0)))
+  if(length(na.impute > 0)){
     for(r in na.impute){
       test_df[r,is.na(test_df[r,])] <- median(unlist(test_df[r,]), na.rm = T)
     }

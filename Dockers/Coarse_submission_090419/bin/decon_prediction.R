@@ -35,11 +35,11 @@ data_scales <- input_df$scale
 
 do_decon <- function(expression_path, dataset_name, data_scale){
   #format the data
-  ex <- suppressMessages(expression_path %>%
+  ex <- suppressMessages(expression_paths[1] %>%
     readr::read_csv() %>%
     as.data.frame() %>%
     tibble::column_to_rownames("Gene") %>%
-    format_data(scale = data_scale))
+    format_data(scale = data_scales[1]))
   
   #calculate distance, rotation, and make predictions
   #changed sapply so I could track cell.type progress
