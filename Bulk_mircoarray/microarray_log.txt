@@ -1,21 +1,4 @@
 --------------------------
-GSENAME__GSE14390
---------------------------
-getNormalization(): Not sure about the normalization 
-SKIPPED: GSE14390 getGeneNames() Something went wrong--------------------------
-GSENAME__GSE21037
---------------------------
-checkScale(): assumed log2 transform 
-SKIPPED: getGeneNames() Can't find Gene Symbols 
---------------------------
-GSENAME__GSE38021
---------------------------
-getNormalization(): Not sure about the normalization 
-SKIPPED: (GSE1133) writeDataToSQL() I don't know.... 
-SKIPPED:GSE12195 checkData(): Could not find the platformgetNormalization(): Not sure about the normalization 
-SKIPPED: GSE12195 getGeneNames() Something went wrongSKIPPED: GSE12195 getGeneNames() Something went wrongSKIPPED: GSE12195 getGeneNames() Something went wrongSKIPPED: GSE12195 getGeneNames() Something went wrongSKIPPED: (GSE12195) writeDataToSQL() I don't know.... 
-SKIPPED: (GSE12366) writeDataToSQL() I don't know.... 
---------------------------
 GSENAME__GSE109348
 --------------------------
 getNormalization(): Not sure about the normalization 
@@ -47,6 +30,9 @@ checkScale(): assumed log2 transform
 GSENAME__GSE93777
 --------------------------
 SKIPPED:GSE93777 checkData(): gse is superseries--------------------------
+GSENAME__GSE58173
+--------------------------
+--------------------------
 GSENAME__GSE72642
 --------------------------
 checkScale(): assumed log2 transform 
@@ -65,12 +51,21 @@ GSENAME__GSE49910
 GSENAME__GSE56315
 --------------------------
 SKIPPED:GSE56315 checkData(): gse is superseries--------------------------
+GSENAME__GSE67321
+--------------------------
+--------------------------
 GSENAME__GSE107843
 --------------------------
 checkScale(): assumed log2 transform 
 SKIPPED: getGeneNames() Can't find Gene Symbols 
 --------------------------
 GSENAME__GSE1133
+--------------------------
+--------------------------
+GSENAME__GSE12195
+--------------------------
+--------------------------
+GSENAME__GSE12366
 --------------------------
 --------------------------
 GSENAME__GSE12845
@@ -190,6 +185,7 @@ checkScale(): assumed log2 transform
 --------------------------
 GSENAME__GSE2215
 --------------------------
+SKIPPED: GSE2215c heckScale(): unknown issue 
 --------------------------
 GSENAME__GSE24223
 --------------------------
@@ -259,6 +255,7 @@ getNormalization(): Not sure about the normalization
 --------------------------
 GSENAME__GSE48097
 --------------------------
+SKIPPED: GSE48097c heckScale(): unknown issue 
 --------------------------
 GSENAME__GSE48184
 --------------------------
@@ -287,12 +284,7 @@ SKIPPED:GSE57612 checkData(): gse is superseries--------------------------
 GSENAME__GSE58920
 --------------------------
 checkScale(): assumed log2 transform 
---------------------------
-GSENAME__GSE65135
---------------------------
-checkScale(): assumed log2 transform 
-checkScale(): assumed log2 transform 
---------------------------
+SKIPPED: GSE58920 getGeneNames() Something went wrong--------------------------
 GSENAME__GSE65135
 --------------------------
 --------------------------
@@ -365,22 +357,22 @@ GSENAME__GSE110085
 GSENAME__GSE11083
 --------------------------
 getNormalization(): Not sure about the normalization 
-SKIPPED: GSE11083 getGeneNames() Something went wrong--------------------------
-GSENAME__GSE11292
---------------------------
-getNormalization(): Not sure about the normalization 
---------------------------
-GSENAME__GSE11083
---------------------------
-getNormalization(): Not sure about the normalization 
---------------------------
-GSENAME__GSE11083
---------------------------
-getNormalization(): Not sure about the normalization 
 --------------------------
 GSENAME__GSE11292
 --------------------------
 --------------------------
+GSENAME__GSE114181
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE11430
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE11540
+--------------------------
+SKIPPED:GSE11540 checkData(): gse is superseries--------------------------
 GSENAME__GSE116487
 --------------------------
 getNormalization(): Not sure about the normalization 
@@ -636,3 +628,2743 @@ GSENAME__GSE42672
 --------------------------
 GSENAME__GSE42733
 --------------------------
+--------------------------
+GSENAME__GSE42926
+--------------------------
+SKIPPED:GSE42926 checkData(): gse is superseries--------------------------
+GSENAME__GSE43346
+--------------------------
+--------------------------
+GSENAME__GSE43769
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE44126
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE44164
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE44732
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE4475
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE4527
+--------------------------
+--------------------------
+GSENAME__GSE45460
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE45461
+--------------------------
+SKIPPED:GSE45461 checkData(): gse is superseries--------------------------
+GSENAME__GSE4571
+--------------------------
+--------------------------
+GSENAME__GSE4588
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE46913
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE46917
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE47796
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE49954
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE50175
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE51288
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE51382
+--------------------------
+--------------------------
+GSENAME__GSE51997
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE52647
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE53117
+--------------------------
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE53455
+--------------------------
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE53514
+--------------------------
+getNormalization(): Not sure about the normalization 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE54017
+--------------------------
+--------------------------
+GSENAME__GSE55673
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE55679
+--------------------------
+SKIPPED:GSE55679 checkData(): gse is superseries--------------------------
+GSENAME__GSE5580
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE56035
+--------------------------
+SKIPPED:GSE56035 checkData(): gse is superseries--------------------------
+GSENAME__GSE56481
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE56767
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE56768
+--------------------------
+SKIPPED:GSE56768 checkData(): gse is superseries--------------------------
+GSENAME__GSE58684
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE59051
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE59412
+--------------------------
+--------------------------
+GSENAME__GSE59786
+--------------------------
+--------------------------
+GSENAME__GSE59860
+--------------------------
+SKIPPED:GSE59860 checkData(): gse is superseries--------------------------
+GSENAME__GSE60234
+--------------------------
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE60235
+--------------------------
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE60236
+--------------------------
+SKIPPED:GSE60236 checkData(): gse is superseries--------------------------
+GSENAME__GSE6053
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE60920
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE64028
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE64555
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE64914
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE65010
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE65856
+--------------------------
+--------------------------
+GSENAME__GSE65928
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+SKIPPED: GSE65928 getGeneNames() Something went wrong--------------------------
+GSENAME__GSE66792
+--------------------------
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE6740
+--------------------------
+--------------------------
+GSENAME__GSE6743
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE67596
+--------------------------
+--------------------------
+GSENAME__GSE68003
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE69030
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: GSE69030 getGeneNames() Something went wrong--------------------------
+GSENAME__GSE71566
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE71646
+--------------------------
+SKIPPED:GSE71646 checkData(): gse is superseries--------------------------
+GSENAME__GSE71725
+--------------------------
+SKIPPED:GSE71725 checkData(): gse is superseries--------------------------
+GSENAME__GSE71730
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE76492
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE76830
+--------------------------
+SKIPPED:GSE76830 checkData(): Could not find the platform--------------------------
+GSENAME__GSE76832
+--------------------------
+SKIPPED:GSE76832 checkData(): gse is superseries--------------------------
+GSENAME__GSE7753
+--------------------------
+--------------------------
+GSENAME__GSE78909
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE79706
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE81408
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+SKIPPED: GSE81408 getGeneNames() Something went wrong--------------------------
+GSENAME__GSE8286
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE83441
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE84331
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE84464
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE84688
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE8835
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE8921
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE89282
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: GSE89282 getGeneNames() Something went wrong--------------------------
+GSENAME__GSE93984
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE93986
+--------------------------
+SKIPPED:GSE93986 checkData(): gse is superseries--------------------------
+GSENAME__GSE94801
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE95298
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE95502
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE95505
+--------------------------
+SKIPPED:GSE95505 checkData(): gse is superseries--------------------------
+GSENAME__GSE976
+--------------------------
+SKIPPED: GSE976c heckScale(): unknown issue 
+--------------------------
+GSENAME__GSE9801
+--------------------------
+--------------------------
+GSENAME__GSE9899
+--------------------------
+SKIPPED:GSE9899 checkData(): gse is superseries--------------------------
+GSENAME__GSE99316
+--------------------------
+SKIPPED:GSE99316 checkData(): gse is superseries--------------------------
+GSENAME__GSE9946
+--------------------------
+--------------------------
+GSENAME__GSE995
+--------------------------
+SKIPPED:GSE995 checkData(): gse is superseries--------------------------
+GSENAME__GSE10021
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE100246
+--------------------------
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE100248
+--------------------------
+SKIPPED:GSE100248 checkData(): gse is superseries--------------------------
+GSENAME__GSE10026
+--------------------------
+SKIPPED:GSE10026 checkData(): gse is superseries--------------------------
+GSENAME__GSE10038
+--------------------------
+--------------------------
+GSENAME__GSE10040
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE10046
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE100534
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE100617
+--------------------------
+SKIPPED:GSE100617 checkData(): gse is superseries--------------------------
+GSENAME__GSE100712
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE100786
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE100788
+--------------------------
+SKIPPED:GSE100788 checkData(): gse is superseries--------------------------
+GSENAME__GSE100865
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: GSE100865 getGeneNames() Something went wrong--------------------------
+GSENAME__GSE101126
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: GSE101126 getGeneNames() Something went wrong--------------------------
+GSENAME__GSE101140
+--------------------------
+getNormalization(): Not sure about the normalization 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE10125
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE10147
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE101587
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE101589
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+SKIPPED: GSE101589 getGeneNames() Something went wrong--------------------------
+GSENAME__GSE101602
+--------------------------
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE10172
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE10178
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE101855
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE101941
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: GSE101941 getGeneNames() Something went wrong--------------------------
+GSENAME__GSE102042
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE102046
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE102459
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE102760
+--------------------------
+SKIPPED: GSE102760 getGeneNames() Something went wrong--------------------------
+GSENAME__GSE102765
+--------------------------
+SKIPPED:GSE102765 checkData(): gse is superseries--------------------------
+GSENAME__GSE102771
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE102862
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: GSE102862 getGeneNames() Something went wrong--------------------------
+GSENAME__GSE103101
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: GSE103101 getGeneNames() Something went wrong--------------------------
+GSENAME__GSE10315
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE103381
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE103552
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE10358
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE103642
+--------------------------
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE103766
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE103769
+--------------------------
+SKIPPED:GSE103769 checkData(): gse is superseries--------------------------
+GSENAME__GSE103906
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: GSE103906 getGeneNames() Something went wrong--------------------------
+GSENAME__GSE103927
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE103944
+--------------------------
+SKIPPED: GSE103944c heckScale(): unknown issue 
+--------------------------
+GSENAME__GSE104190
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE104195
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE104196
+--------------------------
+SKIPPED:GSE104196 checkData(): gse is superseries--------------------------
+GSENAME__GSE104224
+--------------------------
+getNormalization(): Not sure about the normalization 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE10437
+--------------------------
+--------------------------
+GSENAME__GSE104373
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE104374
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE104377
+--------------------------
+SKIPPED:GSE104377 checkData(): gse is superseries--------------------------
+GSENAME__GSE104597
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: GSE104597 getGeneNames() Something went wrong--------------------------
+GSENAME__GSE104616
+--------------------------
+SKIPPED: GSE104616c heckScale(): unknown issue 
+--------------------------
+GSENAME__GSE104617
+--------------------------
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE104619
+--------------------------
+SKIPPED:GSE104619 checkData(): gse is superseries--------------------------
+GSENAME__GSE10463
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE10479
+--------------------------
+--------------------------
+GSENAME__GSE105150
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE10524
+--------------------------
+--------------------------
+GSENAME__GSE105437
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE105457
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE10586
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE10595
+--------------------------
+--------------------------
+GSENAME__GSE10612
+--------------------------
+--------------------------
+GSENAME__GSE106151
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE106239
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE106475
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE106532
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE106963
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE107105
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+SKIPPED: GSE107105 getGeneNames() Something went wrong--------------------------
+GSENAME__GSE10767
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE107677
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE107683
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE10778
+--------------------------
+--------------------------
+GSENAME__GSE107818
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE108035
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE10804
+--------------------------
+--------------------------
+GSENAME__GSE1081
+--------------------------
+SKIPPED: GSE1081c heckScale(): unknown issue 
+--------------------------
+GSENAME__GSE10821
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE10831
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE108384
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE10846
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE10880
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE108835
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: GSE108835 getGeneNames() Something went wrong--------------------------
+GSENAME__GSE10896
+--------------------------
+--------------------------
+GSENAME__GSE10927
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE109450
+--------------------------
+SKIPPED:GSE109450 checkData(): gse is superseries--------------------------
+GSENAME__GSE109554
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE10957
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE109662
+--------------------------
+--------------------------
+GSENAME__GSE109696
+--------------------------
+SKIPPED:GSE109696 checkData(): gse is superseries--------------------------
+GSENAME__GSE109836
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE109837
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+SKIPPED: GSE109837 getGeneNames() Something went wrong--------------------------
+GSENAME__GSE110023
+--------------------------
+--------------------------
+GSENAME__GSE110064
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE110335
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE11038
+--------------------------
+SKIPPED:GSE11038 checkData(): gse is superseries--------------------------
+GSENAME__GSE110545
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE110825
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE11118
+--------------------------
+--------------------------
+GSENAME__GSE111474
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: GSE111474 getGeneNames() Something went wrong--------------------------
+GSENAME__GSE11151
+--------------------------
+--------------------------
+GSENAME__GSE11188
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE11190
+--------------------------
+--------------------------
+GSENAME__GSE112209
+--------------------------
+--------------------------
+GSENAME__GSE112210
+--------------------------
+--------------------------
+GSENAME__GSE112211
+--------------------------
+SKIPPED:GSE112211 checkData(): gse is superseries--------------------------
+GSENAME__GSE112260
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE112809
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE11281
+--------------------------
+--------------------------
+GSENAME__GSE112953
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE113088
+--------------------------
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE11327
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE11341
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE11342
+--------------------------
+--------------------------
+GSENAME__GSE113625
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE113645
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE11373
+--------------------------
+--------------------------
+GSENAME__GSE113889
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE113945
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: GSE113945 getGeneNames() Something went wrong--------------------------
+GSENAME__GSE1140
+--------------------------
+SKIPPED: GSE1140c heckScale(): unknown issue 
+--------------------------
+GSENAME__GSE11418
+--------------------------
+--------------------------
+GSENAME__GSE114378
+--------------------------
+getNormalization(): Not sure about the normalization 
+SKIPPED: GSE114378 getGeneNames() Something went wrong--------------------------
+GSENAME__GSE11450
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE114707
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE115296
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: GSE115296 getGeneNames() Something went wrong--------------------------
+GSENAME__GSE116276
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+SKIPPED: GSE116276 getGeneNames() Something went wrong--------------------------
+GSENAME__GSE116387
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: GSE116387 getGeneNames() Something went wrong--------------------------
+GSENAME__GSE116660
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE116912
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE117139
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE11755
+--------------------------
+--------------------------
+GSENAME__GSE11761
+--------------------------
+--------------------------
+GSENAME__GSE11767
+--------------------------
+--------------------------
+GSENAME__GSE117676
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE117680
+--------------------------
+SKIPPED: GSE117680c heckScale(): unknown issue 
+--------------------------
+GSENAME__GSE11854
+--------------------------
+--------------------------
+GSENAME__GSE11864
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE118642
+--------------------------
+getNormalization(): Not sure about the normalization 
+SKIPPED: GSE118642 getGeneNames() Something went wrong--------------------------
+GSENAME__GSE11881
+--------------------------
+--------------------------
+GSENAME__GSE11886
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE118958
+--------------------------
+--------------------------
+GSENAME__GSE11907
+--------------------------
+SKIPPED:GSE11907 checkData(): gse is superseries--------------------------
+GSENAME__GSE11909
+--------------------------
+--------------------------
+GSENAME__GSE11919
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE119374
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE119375
+--------------------------
+SKIPPED:GSE119375 checkData(): gse is superseries--------------------------
+GSENAME__GSE119416
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE119425
+--------------------------
+getNormalization(): Not sure about the normalization 
+SKIPPED: GSE119425 getGeneNames() Something went wrong--------------------------
+GSENAME__GSE12011
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE12039
+--------------------------
+SKIPPED:GSE12039 checkData(): gse is superseries--------------------------
+GSENAME__GSE12108
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE12131
+--------------------------
+--------------------------
+GSENAME__GSE12187
+--------------------------
+--------------------------
+GSENAME__GSE12198
+--------------------------
+--------------------------
+GSENAME__GSE12246
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE12293
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE12484
+--------------------------
+--------------------------
+GSENAME__GSE12488
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE12583
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE12585
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE12586
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE12587
+--------------------------
+SKIPPED:GSE12587 checkData(): gse is superseries--------------------------
+GSENAME__GSE12662
+--------------------------
+--------------------------
+GSENAME__GSE12668
+--------------------------
+--------------------------
+GSENAME__GSE12679
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE12734
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE12773
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE12806
+--------------------------
+--------------------------
+GSENAME__GSE12839
+--------------------------
+--------------------------
+GSENAME__GSE12846
+--------------------------
+--------------------------
+GSENAME__GSE12875
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE12891
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE12907
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE12963
+--------------------------
+--------------------------
+GSENAME__GSE13054
+--------------------------
+--------------------------
+GSENAME__GSE13139
+--------------------------
+--------------------------
+GSENAME__GSE13210
+--------------------------
+--------------------------
+GSENAME__GSE13296
+--------------------------
+--------------------------
+GSENAME__GSE13330
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE13496
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE13501
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE13576
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE13591
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE13606
+--------------------------
+--------------------------
+GSENAME__GSE13637
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE13670
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE13712
+--------------------------
+--------------------------
+GSENAME__GSE13727
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE13732
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE13736
+--------------------------
+--------------------------
+GSENAME__GSE13738
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE13816
+--------------------------
+SKIPPED:GSE13816 checkData(): gse is superseries--------------------------
+GSENAME__GSE13828
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE13837
+--------------------------
+--------------------------
+GSENAME__GSE13849
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE13850
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE13887
+--------------------------
+--------------------------
+GSENAME__GSE13896
+--------------------------
+--------------------------
+GSENAME__GSE13899
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE13906
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE13909
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE13917
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE13931
+--------------------------
+--------------------------
+GSENAME__GSE13996
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE14000
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE14062
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE14230
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE14256
+--------------------------
+--------------------------
+GSENAME__GSE1427
+--------------------------
+SKIPPED: GSE1427c heckScale(): unknown issue 
+--------------------------
+GSENAME__GSE14317
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE14334
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE14335
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE14340
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE14347
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE14386
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE14390
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE14405
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE14419
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE14465
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE14479
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE14577
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE14630
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE14642
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE14711
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE14801
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE14816
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE14827
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE14895
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE14897
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE14908
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE15072
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE15174
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE1518
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE15215
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE15245
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE15322
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE15389
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE15396
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE15400
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE15464
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE15490
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE15495
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE15499
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE15537
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE15615
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE15645
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE15695
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE15735
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE15743
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE15777
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE15928
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE15949
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE16032
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE16051
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE16093
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE16098
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE16111
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE16122
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE16129
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE16214
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE16226
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE16250
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE16354
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE16355
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE16356
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE16357
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE16382
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE16386
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE16416
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE1644
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE16455
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE16524
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE16547
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE16558
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE16654
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE16683
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE16712
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE16715
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE16728
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE16746
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE16755
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE16791
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE16836
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE16837
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE16879
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE16962
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE17046
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE17061
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE17078
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE17114
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE17119
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE17189
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE17299
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE17301
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE17302
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE17306
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE17312
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE17356
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE17372
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE17407
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE17459
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE17477
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE17504
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE17718
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE17777
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE17922
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE17938
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE17939
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE17974
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE18017
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE18026
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE18038
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE18090
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE18111
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE18113
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE18147
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE18198
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE18226
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE18265
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE18291
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE18309
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE18313
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE18323
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE18373
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE18376
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE1848
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE18497
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE18521
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE18565
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE18593
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE18651
+--------------------------
+SKIPPED:GSE18651 checkData(): Could not find the platformcheckScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE14334
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE14334
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE14335
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE14340
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE14347
+--------------------------
+getNormalization(): Not sure about the normalization 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE14386
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE14390
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE14405
+--------------------------
+--------------------------
+GSENAME__GSE14419
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE14465
+--------------------------
+--------------------------
+GSENAME__GSE14479
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE14577
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE14630
+--------------------------
+--------------------------
+GSENAME__GSE14642
+--------------------------
+--------------------------
+GSENAME__GSE14711
+--------------------------
+--------------------------
+GSENAME__GSE14801
+--------------------------
+--------------------------
+GSENAME__GSE14816
+--------------------------
+--------------------------
+GSENAME__GSE14827
+--------------------------
+--------------------------
+GSENAME__GSE14895
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE14897
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE14908
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE15072
+--------------------------
+--------------------------
+GSENAME__GSE15174
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE1518
+--------------------------
+SKIPPED: GSE1518c heckScale(): unknown issue 
+--------------------------
+GSENAME__GSE15215
+--------------------------
+--------------------------
+GSENAME__GSE15245
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE15322
+--------------------------
+--------------------------
+GSENAME__GSE15389
+--------------------------
+--------------------------
+GSENAME__GSE15396
+--------------------------
+SKIPPED:GSE15396 checkData(): gse is superseries--------------------------
+GSENAME__GSE15400
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE15464
+--------------------------
+--------------------------
+GSENAME__GSE15490
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE15495
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE15499
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE15537
+--------------------------
+--------------------------
+GSENAME__GSE15615
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE15645
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE15695
+--------------------------
+--------------------------
+GSENAME__GSE15735
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE15743
+--------------------------
+--------------------------
+GSENAME__GSE15777
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE15928
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE15949
+--------------------------
+--------------------------
+GSENAME__GSE16032
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE16051
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE16093
+--------------------------
+--------------------------
+GSENAME__GSE16098
+--------------------------
+--------------------------
+GSENAME__GSE16111
+--------------------------
+--------------------------
+GSENAME__GSE16122
+--------------------------
+SKIPPED:GSE16122 checkData(): gse is superseries--------------------------
+GSENAME__GSE16129
+--------------------------
+--------------------------
+GSENAME__GSE16214
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE16226
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE16250
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE16354
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE16355
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE16356
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE16357
+--------------------------
+SKIPPED:GSE16357 checkData(): gse is superseries--------------------------
+GSENAME__GSE16382
+--------------------------
+--------------------------
+GSENAME__GSE16386
+--------------------------
+--------------------------
+GSENAME__GSE16416
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE1644
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE16455
+--------------------------
+--------------------------
+GSENAME__GSE16524
+--------------------------
+--------------------------
+GSENAME__GSE16547
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE16558
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE16654
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE16683
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE16712
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE16715
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE16728
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE16746
+--------------------------
+--------------------------
+GSENAME__GSE16755
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE16791
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE16836
+--------------------------
+--------------------------
+GSENAME__GSE16837
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE16879
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE16962
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE17046
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE17061
+--------------------------
+--------------------------
+GSENAME__GSE17078
+--------------------------
+--------------------------
+GSENAME__GSE17114
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE17119
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE17189
+--------------------------
+--------------------------
+GSENAME__GSE17299
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE17301
+--------------------------
+--------------------------
+GSENAME__GSE17302
+--------------------------
+SKIPPED:GSE17302 checkData(): gse is superseries--------------------------
+GSENAME__GSE17306
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE17312
+--------------------------
+SKIPPED:GSE17312 checkData(): Could not find the platform--------------------------
+GSENAME__GSE17356
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE17372
+--------------------------
+--------------------------
+GSENAME__GSE17407
+--------------------------
+--------------------------
+GSENAME__GSE17459
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE17477
+--------------------------
+--------------------------
+GSENAME__GSE17504
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE17718
+--------------------------
+--------------------------
+GSENAME__GSE17777
+--------------------------
+--------------------------
+GSENAME__GSE17922
+--------------------------
+getNormalization(): Not sure about the normalization 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE17938
+--------------------------
+--------------------------
+GSENAME__GSE17939
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE17974
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE18017
+--------------------------
+SKIPPED:GSE18017 checkData(): gse is superseries--------------------------
+GSENAME__GSE18026
+--------------------------
+--------------------------
+GSENAME__GSE18038
+--------------------------
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE18090
+--------------------------
+--------------------------
+GSENAME__GSE18111
+--------------------------
+SKIPPED:GSE18111 checkData(): gse is superseries--------------------------
+GSENAME__GSE18113
+--------------------------
+--------------------------
+GSENAME__GSE18147
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE18198
+--------------------------
+--------------------------
+GSENAME__GSE18226
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE18265
+--------------------------
+SKIPPED:GSE18265 checkData(): gse is superseries--------------------------
+GSENAME__GSE18291
+--------------------------
+--------------------------
+GSENAME__GSE18309
+--------------------------
+--------------------------
+GSENAME__GSE18313
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE18323
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE18373
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE18376
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE1848
+--------------------------
+SKIPPED: GSE1848c heckScale(): unknown issue 
+--------------------------
+GSENAME__GSE18497
+--------------------------
+--------------------------
+GSENAME__GSE18521
+--------------------------
+SKIPPED:GSE18521 checkData(): gse is superseries--------------------------
+GSENAME__GSE18565
+--------------------------
+--------------------------
+GSENAME__GSE18593
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE18651
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE18723
+--------------------------
+--------------------------
+GSENAME__GSE18791
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE18794
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE18810
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE18816
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE18864
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE18877
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE18913
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE19098
+--------------------------
+--------------------------
+GSENAME__GSE19128
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE19143
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE19147
+--------------------------
+--------------------------
+GSENAME__GSE19240
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE19243
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE19301
+--------------------------
+--------------------------
+GSENAME__GSE19315
+--------------------------
+--------------------------
+GSENAME__GSE19475
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE19510
+--------------------------
+--------------------------
+GSENAME__GSE19529
+--------------------------
+getNormalization(): Not sure about the normalization 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE19556
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE19615
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE19625
+--------------------------
+--------------------------
+GSENAME__GSE19627
+--------------------------
+--------------------------
+GSENAME__GSE19735
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE19784
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE19789
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE19816
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE19833
+--------------------------
+SKIPPED:GSE19833 checkData(): gse is superseries--------------------------
+GSENAME__GSE19882
+--------------------------
+--------------------------
+GSENAME__GSE19888
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE2006
+--------------------------
+SKIPPED: GSE2006c heckScale(): unknown issue 
+--------------------------
+GSENAME__GSE20086
+--------------------------
+--------------------------
+GSENAME__GSE20124
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE20125
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE20126
+--------------------------
+SKIPPED:GSE20126 checkData(): gse is superseries--------------------------
+GSENAME__GSE20151
+--------------------------
+--------------------------
+GSENAME__GSE20198
+--------------------------
+--------------------------
+GSENAME__GSE20307
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE20484
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE20499
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE20504
+--------------------------
+--------------------------
+GSENAME__GSE20508
+--------------------------
+--------------------------
+GSENAME__GSE20538
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE20641
+--------------------------
+--------------------------
+GSENAME__GSE20666
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE20677
+--------------------------
+SKIPPED: GSE20677c heckScale(): unknown issue 
+--------------------------
+GSENAME__GSE20685
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE20713
+--------------------------
+SKIPPED:GSE20713 checkData(): gse is superseries--------------------------
+GSENAME__GSE20745
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE20847
+--------------------------
+--------------------------
+GSENAME__GSE20874
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE20978
+--------------------------
+--------------------------
+GSENAME__GSE20986
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE21037
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE21039
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE21050
+--------------------------
+--------------------------
+GSENAME__GSE2113
+--------------------------
+SKIPPED: GSE2113c heckScale(): unknown issue 
+--------------------------
+GSENAME__GSE21132
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE21243
+--------------------------
+--------------------------
+GSENAME__GSE21244
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE2125
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE21251
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE21252
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE21262
+--------------------------
+SKIPPED:GSE21262 checkData(): gse is superseries--------------------------
+GSENAME__GSE21296
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE21348
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE21349
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE2135
+--------------------------
+SKIPPED: GSE2135c heckScale(): unknown issue 
+--------------------------
+GSENAME__GSE21351
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE21521
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE21545
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE21547
+--------------------------
+--------------------------
+GSENAME__GSE21648
+--------------------------
+--------------------------
+GSENAME__GSE21655
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE21723
+--------------------------
+--------------------------
+GSENAME__GSE21774
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE21837
+--------------------------
+--------------------------
+GSENAME__GSE21891
+--------------------------
+--------------------------
+GSENAME__GSE21899
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE21943
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE21989
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE22011
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE22025
+--------------------------
+--------------------------
+GSENAME__GSE22064
+--------------------------
+getNormalization(): Not sure about the normalization 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE2208
+--------------------------
+SKIPPED: GSE2208c heckScale(): unknown issue 
+--------------------------
+GSENAME__GSE22103
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE22166
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE22183
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE22224
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE22246
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE22250
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE22255
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE22282
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE2230
+--------------------------
+SKIPPED: GSE2230c heckScale(): unknown issue 
+--------------------------
+GSENAME__GSE22325
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE22392
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE22463
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE22469
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE22470
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE22499
+--------------------------
+SKIPPED:GSE22499 checkData(): gse is superseries--------------------------
+GSENAME__GSE22501
+--------------------------
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE22522
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE22523
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE22528
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE22529
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE22543
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE22552
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE22589
+--------------------------
+checkScale(): assumed log2 transform 
+--------------------------
+GSENAME__GSE22632
+--------------------------
+--------------------------
+GSENAME__GSE22667
+--------------------------
+--------------------------
+GSENAME__GSE22668
+--------------------------
+--------------------------
+GSENAME__GSE22688
+--------------------------
+--------------------------
+GSENAME__GSE22695
+--------------------------
+--------------------------
+GSENAME__GSE22759
+--------------------------
+checkScale(): assumed log2 transform 
+getNormalization(): Not sure about the normalization 
+--------------------------
+GSENAME__GSE22895
+--------------------------
+checkScale(): assumed log2 transform 
+SKIPPED: getGeneNames() Can't find Gene Symbols 
+--------------------------
+GSENAME__GSE22898
+--------------------------
+SKIPPED:GSE22898 checkData(): gse is superseries--------------------------
+GSENAME__GSE22919
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE2299
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE23034
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE23066
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE23073
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE23183
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE23203
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE2322
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE2327
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE23321
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE23332
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE23366
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE23399
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE23402
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE23413
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE23416
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE23501
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE23583
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE23591
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE23618
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE23687
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE23695
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE23741
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE23743
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE23909
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE2396
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE23968
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE23984
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE24044
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE24093
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE24128
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE24132
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE24182
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE24183
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE24434
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE24487
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE2450
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE24598
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE24621
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE24736
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE24791
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE24810
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE24832
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE24834
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE24869
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE24870
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE24897
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE24997
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE25014
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE2504
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE2505
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE25085
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE25145
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE25160
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE25263
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE25269
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE25320
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE25468
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE25476
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE25619
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE25861
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE25986
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE25990
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE26104
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE26146
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE2639
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE26451
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE26453
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE26455
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE26526
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE2658
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE26594
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE26629
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE26661
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE26672
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE26747
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE26813
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE26865
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE26878
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE26890
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE26946
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE26949
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE26950
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE26951
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE27008
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE27011
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE27018
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE27034
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE27041
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE2706
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE27071
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE27120
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE27136
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE27160
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE27200
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE27206
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE27207
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE27280
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE27291
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE27362
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE27383
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE27562
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE27567
+--------------------------
+SKIPPED: too large--------------------------
+GSENAME__GSE27631
+--------------------------
+SKIPPED: too large--------------------------
